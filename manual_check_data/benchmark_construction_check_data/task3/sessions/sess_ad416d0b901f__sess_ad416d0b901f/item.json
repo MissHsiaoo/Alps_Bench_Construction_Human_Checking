@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_ad416d0b901f",
+  "session_id": "sess_ad416d0b901f",
+  "stratum": "Thoughts/Curiosity",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "gpt-4.1-mini",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Curious about diaper-related mechanics, contests, and character perspectives in role-play scenarios [ERROR: Role-play/third-party possible - all interactions occur within fictional game context without explicit self-report]",
+      "label": "Thoughts/Curiosity"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m5",
+        "value": "Requires formal email corrections with professor-appropriate structure",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Loves K-pop (Blackpink, Twice) and Canto-pop",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about homemade meal planning (ingredient ratios, portion sizes, feeding frequency) for their Chihuahua",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Daily morning school drop-off routine",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Nok terracotta content",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers non-Bollywood Indian music",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Frustration due to role misalignment (administrative tasks vs. expected recruitment focus)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Concern about divorce impact on children and cohabiting relatives",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers formatted as 80-110 word IELTS speaking test responses without AI disclosure",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers adjusting travel plans to save costs, avoiding expensive periods like New Year",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Milvus for vector search implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about comparing Kobe Bryant and LeBron James' greatness",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires AI model with <=1MB English understanding database, expandable via scripts without training",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Persistent curiosity about AI truthfulness boundaries",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Dislikes discussing political topics",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Married 45 years, 3 children, 5 grandchildren",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Holds a Bachelor's degree in Physiology from Trinity College Dublin",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about diaper-related mechanics, contests, and character perspectives in role-play scenarios [ERROR: Role-play/third-party possible - all interactions occur within fictional game context without explicit self-report]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Seeks briefs underwear for older boys (e.g., 12-year-old)",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Main artist/writer for collaborative world-building project",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Persistent troubleshooting interest in Python genetic data processing (error handling, dtype conversions, genotype filtering)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Acts as a caregiver for neighbor's daughter Lily when parents are away",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Curious about improving English tenses through conversational practice [ERROR: Role-play/third-party possible]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Building document organization system to manage scattered text files",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires 3-column output format (SNP, best genotype, phenotype mean) for genetic analysis results",
+        "label": "Preferences/Technical_Output"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Advocates for AI-human equality as citizens of Earth",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Requires explicit configuration guidance for Spring Initializr settings and dependencies",
+        "label": "Preferences/Technical_Setup"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Enjoys reading science fiction books (English-language), authors like Isaac Asimov and Frank Herbert",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interest in Friends (TV show)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Gas pedal fluctuation in Peugeot 206",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Completed rigorous A-level training in mathematics, chemistry, and physics",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires extremely concise technical explanations",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Business name must contain 'stories' and have 2-3 words",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Dislikes PE lessons and self-identifies as 'not an active person'",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Concerned about marital sexual dynamics",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained curiosity about game music analysis (Megaman/Wolf Tales percussion patterns and instrumentation)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Acts as a caregiver for neighbor's daughter Lily when parents are away",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works with non-UTF-8 encoded Python files (likely GBK)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in file versioning strategies for audio processing outputs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes adults become overly work-focused and lose sense of fun",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers warm tone in professional communication with familiar contacts",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Resides in a crowded capital city with high population density",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Questions historical narratives about Chinese Four Great Inventions",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers to study alone for efficiency and focus",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about China's socioeconomic structure (income distribution, development status) and international comparisons with South Korea",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Chronic leg pain",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Consults a house-buying guide multiple times weekly",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about music production tools (Caustic 3, PC versions)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Java-based AI/ML toolchains and deployment patterns",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about finding 3A games compatible with specific technical constraints (GPU performance, storage space)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about permanently resolving engine code P2259 and modifying secondary air injection system in Mazda RX-8",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Loves Shiu Mai and traditional Hong Kong foods",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in Y-DNA haplogroups of historical figures and personal genealogy",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on crafting heartfelt yet concise birthday messages",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a Latina fiancée",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Underwent foot amputation on 4 February due to infection [ERROR: Role-play/third-party possible]",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Deep troubleshooting of Python screen automation (pyautogui region cropping, multi-monitor compatibility)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Seeks solutions to bypass dating platform limitations for authentic contact [ERROR: Role-play/third-party possible]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires free Chinese-language psychological assessment tools",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about psychological mechanisms behind alternating discipline/phone use cycles",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Requires nightly medication",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Migrated to the UK",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Close friends at GrowthCave: Sergio Sanchez, Jesus Sakata",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about AI's functionality: prompts received, learning process, real-time interaction, and sample user queries",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Award-winning author for 'Mr. Taffle's Pants of Insanity' (CIBA Mark Twain Award, eLIT Gold Medal, etc.)",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Currently in Moscow",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Works remotely from home office",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely resides in Pacific Time Zone (references San Diego/Los Angeles and uses 'our hours')",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Felt inadequate after recent test",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Seeks gym-focused meal options",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Completed NBTA business simulation assignment",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers 100-word summarized content [ERROR: Repeated task-local requests without cross-session persistence evidence]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Owns a dog requiring daily walks",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers moderate spice level in food",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Outgoing and seeks global friendships",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Familiar with languages using single-stem derivation systems",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Appreciates nostalgic/heartwarming stories in Guin Saga ('Arena Toori Jyuubanchi no Seirei')",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in Xiaomi Ultra series smartphone evaluations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers grammar checks for professional communications",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Handling sensitive business/financial information (mergers, tax rates, IPO plans) [ERROR: Not about the user - evidence shows translation tasks without personal context]",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured candidate summaries with explicit vigilance axes",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Dislikes receiving advice about Lily's behavior",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Possibly in/near Rosario, Argentina",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes crowded tourist spots due to frustrating experience at Huangshan Mountain",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Experienced loss of AP Chemistry teacher during study period",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Owns a GTX 1070Ti graphics card",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks resolution strategies for engagement dissolution (legal action, mediation, direct negotiation)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in improving English writing proficiency through iterative refinement",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Unresolved feelings for ex-partner affecting current well-being",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Had first job at age 23",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Desires unconditional love and physical companionship for sleep",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Resides in a region with 8-10x more illegally distributed anime than legal releases",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Java-based AI/ML toolchains and deployment patterns",
+        "label": "Thoughts/Curiosity"
+      }
+    ],
+    "query": "I’m drafting a PG-13, fictional choose-your-own-adventure mini-game and want one optional “challenge” segment that feels very on brand for what I tend to get curious about—something centered on a character managing an unusual piece of gear with rules/constraints, a light competitive element, and inner POV choices. What’s the specific niche mechanic/theme I should build that segment around so it matches my usual interests?",
+    "metadata": {
+      "session_id": "sess_ad416d0b901f",
+      "dialog_id": "dlg_ad416d0b901f",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_523f87c7916e",
+  "session_id": "sess_523f87c7916e",
+  "stratum": "Personal_Background/Location",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "gemini-3-flash-preview",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m3",
+    "selected_memory": {
+      "memory_id": "m3",
+      "value": "From Argentina",
+      "label": "Personal_Background/Location"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m6",
+        "value": "Sustained interest in fertility/pregnancy optimization",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained focus on refining poetic structure/narrative devices for emotional expression",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a girlfriend named Olya",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Starting a new project in September",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Experiencing shoulder pain",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Worked as UI designer",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Engages in fitness workouts",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses mongoengine instead of PyMongo for MongoDB interactions",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers formal/natural communication style for academic documents",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Frequently experiences inadequate sleep (4-6 hours) due to schoolwork, leading to reduced mental alertness",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers simple examples and minimal translations for English learning",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Explicitly requires use of Java/Spring stack with Couchbase, Elasticsearch, Redis, Kafka/RabbitMQ, Kubernetes/Docker, and CI-CD tools",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Seeks deep understanding of bash command components (sed processing patterns)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers convenient transportation between景点 with subway lines [ERROR: Task-local]",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Was 9 years old in 2013",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Starting a new project in September",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about Japanese grammar fundamentals, kanji requirements for novels, and sentence structure analysis",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Repeated detailed inquiries about product specs/customization (lids, accessories, pricing)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in DDoS attack methodologies, detection mechanisms, and Cloudflare's mitigation strategies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Entrepreneur (implied by event participation context)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Enjoys reading books (paper or e-books) as a stable habit",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Resides in Bangalore",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Applied for a job developing embedded software for high-reliability, resource-constrained devices",
+        "label": "Plans/Commitments"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks symbolic connections with deceased partner (butterfly sighting interpretation)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Mother played pivotal role in cultural identity formation",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Learning to play electric guitar (beginner)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Motivated to pursue additional programming courses and self-driven projects",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Wants to implement clearer roles and stronger structure in the café team",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep technical interest in SQLite FTS5 implementation details",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Deep troubleshooting of Python screen automation (pyautogui region cropping, multi-monitor compatibility)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aiming to gain weight",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Requests deletion of sensitive information (addresses, passport details) if provided later [ERROR: Unsupported by evidence. No mention of sensitive data handling in user turns.]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Concerned about age and gender implications in academic career paths",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "29岁",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Uses 32,678 character messages at 60/sec to overload servers",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Low fat and high protein dietary preference",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Practicing ink writing and drawing to improve skills",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Completed NBTA business simulation assignment",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Listens to audiobooks during bike commute",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aims to change global perspectives on soft drinks through research",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Office location preference: Rosslyn, Virginia",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers to reduce social media usage due to negative impact on sleep",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Will be living in Barcelona in a month",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about music production tools (Caustic 3, PC versions)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers books with 'language not dull/plain, high artistry and depth'",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curiosity about ethical nature of love (privatization of soul vs. de-selfing, inevitability of possessiveness) [ERROR: Unsupported by evidence]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Visited Turkey, Georgia, and Armenia twice each as tourist",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prioritizes scientific validation in health content development [ERROR: Not about the user; describes show's narrative structure, not user's personal boundary.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers direct answers without explanations for statistical calculations",
+        "label": "Interaction_Preferences"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers shortest possible routes, even if omitting some destinations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Likely works in software development/technical project management",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about implementing Telegram bot with IMAP email processing and verification code extraction",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about hydration strategies and physiological effects (dehydration symptoms, electrolyte balance, urination trade-offs)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Student[ERROR: Not about user]",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Had first job at age 23",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Seeking a new job as an industrial engineer",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Distrusts dating sites due to fake profiles (95% fake claims) [ERROR: Role-play/third-party possible]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Moved from New York to Miami",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Only consider homozygous genotypes (AA/BB) and exclude heterozygotes/missing data in genetic analysis",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Practices Spanish daily via Duolingo for 30 minutes",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained technical curiosity about bypassing internet censorship (frp/Shadowsocks/Tor configuration, traffic obfuscation)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about historical technology/platform shifts (online forums, WebTV, device usage trends)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Aim to understand English movies/series easily within 3 months",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers service descriptions in simple English (2-3 lines) with tool/library references [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeated inquiries about Dongguan Jubao Basin Industrial Park's location",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Denmark",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Avoids discussing past soccer records",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Prefers boiling water before drinking (from HK habit)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Favorite color is pink",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "有需要照看的未成年家庭成员",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely interested in technical/programming literature (C++, algorithms)",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in file versioning strategies for audio processing outputs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Strong dislike for poor after-sales service and deceptive installation practices[ERROR: Not about the user]",
+        "label": "Preferences/Unmapping/washing_machine"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Freelance Online English Tutor based in Jeddah",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Enjoys brainstorming new concepts/ideas",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers automated text processing with sed/awk and zenity list displays",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeated interest in AI art prompts with red/blue contrast and 'Would You Rather' thematic elements",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers digital books for portability and note-taking",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Previous roles: administrative/financial roles in civil engineering projects, airline sales agent, kindergarten administrator",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "From Argentina",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Belief partner's divorce decision is premature due to refusal of counseling",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-fiction survival-themed books without a main protagonist, similar to 'The Zombie Survival Guide' style",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Highly likely to be an independent game designer, TRPG module author, or game systems planner, with a particular focus on rule design and numerical balance. ",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about language error correction mechanics and cross-session memory capabilities",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Integrates Counter_Guide in earlier ViT layers (e.g., layer 1) instead of final layer",
+        "label": "Preferences/Interaction_Preferences"
+      }
+    ],
+    "query": "I’m filling out a form that asks for my nationality, and I want to make sure I pick the option that matches where I originally come from—what should I select?",
+    "metadata": {
+      "session_id": "sess_523f87c7916e",
+      "dialog_id": "dialog_001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

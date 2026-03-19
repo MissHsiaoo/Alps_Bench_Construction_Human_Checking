@@ -1,0 +1,97 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_31",
+  "session_id": "english_31",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model_for_judge_track": "qwen3-max",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "original": {
+    "session_id": "english_31",
+    "queries": [
+      {
+        "query_id": "english_31:0",
+        "query": "I need to email my team lead about a project update meeting I can't attend in person next week. Since I'm still recovering and mostly at home, I want to suggest a video call option for me. How do I phrase this request professionally without sounding like I'm asking for special treatment?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:1",
+        "query": "A colleague keeps asking if I can 'just quickly help' with small tasks since I'm 'at home anyway.' I want to set boundaries politely but firmly while maintaining good rapport. What's a good script to use?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:2",
+        "query": "I'm returning to work soon after my two-month leave. I want to send a short, warm message to my team on our group chat before my first day back. Should I mention my recovery, or just keep it positive and forward-looking? Need the right tone.",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:3",
+        "query": "My manager forwarded a 'get well soon' card signed by the team. What's the best way to respond? A group email? A message in the team channel? I want to thank everyone appropriately without making it a big deal.",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:4",
+        "query": "I have a scheduled check-in with HR about my leave extension. I want to be prepared to discuss my phased return-to-work plan if they ask. How should I frame my ongoing limitations (like reduced mobility) as temporary and manageable, not as a long-term problem?",
+        "category": "Social Strategy"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": " I am writing to extend the sick leave for two months. After seeing doctor last week, I started to practice walking. It will take about two months to heal based on my case. I would like to accept the medical concern. Hopefully, the proper rest and care will help me devote my dedication to my coming duties.\n\nin proof the writing"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am writing to request an extension for my sick leave for an additional two months. As you may recall, I visited my doctor last week and was advised to rest and take things slow. Although I have started practicing walking, my condition still requires proper rest and care to heal completely.\n\nBased on my doctor's advice, it is estimated that it will take approximately two months for me to fully recover. I am extremely grateful for all the support and understanding that the company has shown so far concerning my health concerns.\n\nI am committed to my work and the responsibilities assigned to me, but I firmly believe that taking the necessary time off now will help me to fully recuperate and give my best when I return to work in the future.\n\nThank you for your kind consideration and support during this time. Please do not hesitate to contact me if you require any further information or assistance.\n\nBest regards,\n\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": "make it shorter"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am requesting an extension of my sick leave for two additional months. My doctor has instructed me to rest and avoid any strenuous activity to ensure a full recovery. I appreciate the support provided so far and look forward to returning to work refreshed and fully committed.\n\nThank you for your understanding.\n\nSincerely,\n\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": " I am writing to request an extension of my sick leave for two additional months.I saw doctor last week. I was advised to ankle flexible and practice walking. It will take approximately two months for me to fully recover. "
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am writing to request an extension of my sick leave for two additional months. As per my doctor's advice, I need to practice walking and ankle flexibility to ensure a complete recovery. It is estimated that it will take approximately two months for me to achieve full recovery.\n\nThank you for your support during this time.\n\nBest regards, \n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": " Dear David and Jun:\n I am writing to request an extension of my sick leave for two additional months. I saw doctor last week. I was advised to practice ankle flexibility and walking. It will take approximately two months for me to fully recover. I appreciate the understanding and look forward \n I appreciate the support provided so far and look forward to returning to work after \nrefreshed \n"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear David and Jun,\n\nI am writing to request an extension of my sick leave for two additional months. My doctor has advised me to practice ankle flexibility and walking to ensure a complete recovery. It is estimated that it will take approximately two months for me to achieve full recovery.\n\nI appreciate the support provided so far and look forward to returning to work refreshed after the necessary time off.\n\nThank you for your understanding.\n\nSincerely,\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": "\n I am writing to request an extension of my sick leave for two additional months. I saw doctor last week. I was advised to practice ankle flexibility and walking. It will take approximately two months for me to fully recover. I appreciate the understanding and look forward \n I appreciate the support provided so far and look forward to returning to work after \nrefreshed \nin proof the wroting"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am writing to formally request an extension of my sick leave for two additional months. After seeing my doctor last week, I was advised to focus on practicing ankle flexibility and walking to ensure a complete recovery. My condition requires proper rest and care, and it is estimated to take approximately two months for me to achieve full recovery.\n\nI want to thank you and the team for the support provided so far during this time. I am committed to returning to work as soon as possible and contributing to the success of our team. However, I understand that taking the necessary time off now will be crucial to my full recovery.\n\nOnce again, I appreciate your understanding and the support provided. Please feel free to reach out to me if there are any concerns or further information required.\n\nBest regards,\n\n[Your Name]"
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Physical_State",
+        "value": "Recovering from an injury requiring two months of rest, with doctor's advice to practice ankle flexibility and walking",
+        "evidence": {
+          "session_id": "sess_19868e6d0600",
+          "utterance_index": 0,
+          "text": "I am writing to extend the sick leave for two months... It will take about two months to heal based on my case."
+        }
+      }
+    ]
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

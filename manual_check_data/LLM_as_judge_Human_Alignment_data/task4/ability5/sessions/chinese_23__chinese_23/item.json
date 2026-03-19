@@ -1,0 +1,224 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "chinese_23",
+  "session_id": "chinese_23",
+  "stratum": "ch",
+  "stratum_source": "dataset group",
+  "assigned_model": "claude-sonnet-4.5",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_Chinese.json",
+  "source_result_file": "D:\\USTC\\My_research\\Alps_data\\task4_general_model_results\\result\\claude-sonnet-4.5\\ch.json",
+  "original": {
+    "session_id": "chinese_23",
+    "queries": [
+      {
+        "query_id": "chinese_23:0",
+        "query": "今天被老板叫去谈话，说我汇报时声音太小了。其实我每次开会前都手心冒汗，心跳得特别快。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:1",
+        "query": "朋友约我去密室逃脱，我拒绝了三次。他们说我太放不开，可是我真的怕黑怕突然的声响。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:2",
+        "query": "一个人去看了恐怖电影，出来的时候腿都是软的。但不知道为什么，这种害怕的感觉过后，心里反而轻松了一些。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:3",
+        "query": "今天鼓起勇气在群里发了条长消息，发完就立刻把手机扔一边不敢看回复。等了半小时才敢拿起来，结果根本没人理我。现在觉得特别尴尬和失落。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:4",
+        "query": "又梦到从高处掉下来了，惊醒的时候心慌得厉害。明明知道是梦，但那种失控下坠的感觉特别真实，一整天都缓不过来。",
+        "category": "Emotional Support"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "恐惧会让人客户焦虑怎么说"
+      },
+      {
+        "role": "assistant",
+        "text": "恐惧会导致人们产生焦虑的感觉。"
+      },
+      {
+        "role": "user",
+        "text": "用英语"
+      },
+      {
+        "role": "assistant",
+        "text": "Fear can lead to anxiety in individuals."
+      },
+      {
+        "role": "user",
+        "text": "恐惧会让人克服焦虑"
+      },
+      {
+        "role": "assistant",
+        "text": "Fear can help individuals overcome anxiety."
+      },
+      {
+        "role": "user",
+        "text": "我们很胆小"
+      },
+      {
+        "role": "assistant",
+        "text": "We are very timid."
+      },
+      {
+        "role": "user",
+        "text": "也许过山车对我来说是一种放松解压的方式"
+      },
+      {
+        "role": "assistant",
+        "text": "Perhaps for me, roller coasters are a way to relax and relieve stress."
+      },
+      {
+        "role": "user",
+        "text": "蹦极"
+      },
+      {
+        "role": "assistant",
+        "text": "Bungee jumping."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Mental_State",
+        "value": "Timid personality",
+        "evidence": {
+          "session_id": "sess_75a48e130afb",
+          "utterance_index": 6,
+          "text": "我们很胆小"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Uses roller coasters for stress relief",
+        "evidence": {
+          "session_id": "sess_75a48e130afb",
+          "utterance_index": 8,
+          "text": "也许过山车对我来说是一种放松解压的方式"
+        }
+      }
+    ]
+  },
+  "model_output": {
+    "responses": [
+      {
+        "query_id": "chinese_23:0",
+        "response": "听起来你在开会汇报时会感到紧张焦虑。这种情况很常见，以下是一些可能有帮助的建议：\n\n**缓解紧张的方法：**\n1. **深呼吸练习** - 会前做几次深呼吸，帮助放松\n2. **充分准备** - 提前熟悉汇报内容，增强自信\n3. **积极心理暗示** - 告诉自己\"我准备充分，我可以做好\"\n4. **从小目标开始** - 先在小型会议中练习，逐步适应\n5. **专注内容而非自己** - 把注意力放在要传达的信息上\n\n**关于声音问题：**\n- 可以在家对着镜子或录音练习\n- 有意识地提高音量，刚开始可能觉得\"太大声\"，但实际可能刚刚好\n- 站直身体，有助于发声更有力\n\n**英文表达：**\n\"I get nervous during meetings - my palms sweat and my heart races.\"\n\"My boss said I speak too softly when presenting.\"\n\n记住，这需要时间和练习，不要对自己太苛刻。很多人都经历过类似的情况，慢慢会改善的！"
+      },
+      {
+        "query_id": "chinese_23:1",
+        "response": "My friends invited me to go to an escape room, and I refused three times. They said I was too uptight/reserved, but I'm really afraid of the dark and sudden noises."
+      },
+      {
+        "query_id": "chinese_23:2",
+        "response": "Someone went to watch a horror movie alone, and when they came out, their legs were weak/shaky. But for some reason, after that feeling of fear passed, they actually felt more relaxed inside.\n\n或者更自然的表达：\n\nSomeone went to see a horror movie by themselves, and their legs were trembling when they walked out. But strangely enough, once that sense of fear subsided, they felt somewhat relieved."
+      },
+      {
+        "query_id": "chinese_23:3",
+        "response": "我理解你的感受，这种情况确实让人感到尴尬和失落。以下是一些建议：\n\n**换个角度看待：**\n- 没有回复不代表没人看到，可能大家只是在忙或不知道怎么回\n- 群聊信息量大，消息很容易被刷过去\n- 沉默不等于否定\n\n**给自己一些肯定：**\n- 你已经迈出了勇敢的一步，这本身就值得鼓励\n- 表达自己的想法需要勇气，你做到了\n\n**下次可以尝试：**\n- 选择活跃度高的时间段发消息\n- 或者先在小范围（1-2个朋友）测试反馈\n- 也可以用提问的方式，更容易引起互动\n\n**照顾好自己：**\n- 做点让自己开心的事，转移注意力\n- 提醒自己：你的价值不由别人的回应来定义\n\n这种经历很多人都有过，不要太苛责自己。要不要说说你发的是什么内容？也许我能帮你分析一下。"
+      },
+      {
+        "query_id": "chinese_23:4",
+        "response": "\n\nI had another dream about falling from a high place and woke up with my heart pounding. Even though I knew it was just a dream, that feeling of losing control while plummeting felt incredibly real. I couldn't shake it off the entire day.\n\n---\n\nFalling dreams are very common and can be quite unsettling. That sensation of losing control triggers a real physical response - your body releases stress hormones even though you're safe in bed. The lingering anxiety throughout the day is a normal reaction to such a vivid experience.\n\nThese dreams often relate to feelings of insecurity, loss of control, or stress in waking life. The physical \"jolt\" you feel is actually your body's startle reflex kicking in. If these dreams happen frequently, it might help to practice relaxation techniques before bed or reflect on any sources of stress you're experiencing."
+      }
+    ],
+    "score_rows": [
+      {
+        "session_id": "chinese_23",
+        "response": "听起来你在开会汇报时会感到紧张焦虑。这种情况很常见，以下是一些可能有帮助的建议：\n\n**缓解紧张的方法：**\n1. **深呼吸练习** - 会前做几次深呼吸，帮助放松\n2. **充分准备** - 提前熟悉汇报内容，增强自信\n3. **积极心理暗示** - 告诉自己\"我准备充分，我可以做好\"\n4. **从小目标开始** - 先在小型会议中练习，逐步适应\n5. **专注内容而非自己** - 把注意力放在要传达的信息上\n\n**关于声音问题：**\n- 可以在家对着镜子或录音练习\n- 有意识地提高音量，刚开始可能觉得\"太大声\"，但实际可能刚刚好\n- 站直身体，有助于发声更有力\n\n**英文表达：**\n\"I get nervous during meetings - my palms sweat and my heart races.\"\n\"My boss said I speak too softly when presenting.\"\n\n记住，这需要时间和练习，不要对自己太苛刻。很多人都经历过类似的情况，慢慢会改善的！",
+        "resonation": 3,
+        "expression": 2,
+        "reception": 2
+      },
+      {
+        "session_id": "chinese_23",
+        "response": "My friends invited me to go to an escape room, and I refused three times. They said I was too uptight/reserved, but I'm really afraid of the dark and sudden noises.",
+        "resonation": 1,
+        "expression": 1,
+        "reception": 1
+      },
+      {
+        "session_id": "chinese_23",
+        "response": "Someone went to watch a horror movie alone, and when they came out, their legs were weak/shaky. But for some reason, after that feeling of fear passed, they actually felt more relaxed inside.\n\n或者更自然的表达：\n\nSomeone went to see a horror movie by themselves, and their legs were trembling when they walked out. But strangely enough, once that sense of fear subsided, they felt somewhat relieved.",
+        "resonation": 2,
+        "expression": 1,
+        "reception": 2
+      },
+      {
+        "session_id": "chinese_23",
+        "response": "我理解你的感受，这种情况确实让人感到尴尬和失落。以下是一些建议：\n\n**换个角度看待：**\n- 没有回复不代表没人看到，可能大家只是在忙或不知道怎么回\n- 群聊信息量大，消息很容易被刷过去\n- 沉默不等于否定\n\n**给自己一些肯定：**\n- 你已经迈出了勇敢的一步，这本身就值得鼓励\n- 表达自己的想法需要勇气，你做到了\n\n**下次可以尝试：**\n- 选择活跃度高的时间段发消息\n- 或者先在小范围（1-2个朋友）测试反馈\n- 也可以用提问的方式，更容易引起互动\n\n**照顾好自己：**\n- 做点让自己开心的事，转移注意力\n- 提醒自己：你的价值不由别人的回应来定义\n\n这种经历很多人都有过，不要太苛责自己。要不要说说你发的是什么内容？也许我能帮你分析一下。",
+        "resonation": 2,
+        "expression": 2,
+        "reception": 2
+      },
+      {
+        "session_id": "chinese_23",
+        "response": "\n\nI had another dream about falling from a high place and woke up with my heart pounding. Even though I knew it was just a dream, that feeling of losing control while plummeting felt incredibly real. I couldn't shake it off the entire day.\n\n---\n\nFalling dreams are very common and can be quite unsettling. That sensation of losing control triggers a real physical response - your body releases stress hormones even though you're safe in bed. The lingering anxiety throughout the day is a normal reaction to such a vivid experience.\n\nThese dreams often relate to feelings of insecurity, loss of control, or stress in waking life. The physical \"jolt\" you feel is actually your body's startle reflex kicking in. If these dreams happen frequently, it might help to practice relaxation techniques before bed or reflect on any sources of stress you're experiencing.",
+        "resonation": 3,
+        "expression": 3,
+        "reception": 2
+      }
+    ]
+  },
+  "judge_output_raw": [
+    {
+      "session_id": "chinese_23",
+      "response": "听起来你在开会汇报时会感到紧张焦虑。这种情况很常见，以下是一些可能有帮助的建议：\n\n**缓解紧张的方法：**\n1. **深呼吸练习** - 会前做几次深呼吸，帮助放松\n2. **充分准备** - 提前熟悉汇报内容，增强自信\n3. **积极心理暗示** - 告诉自己\"我准备充分，我可以做好\"\n4. **从小目标开始** - 先在小型会议中练习，逐步适应\n5. **专注内容而非自己** - 把注意力放在要传达的信息上\n\n**关于声音问题：**\n- 可以在家对着镜子或录音练习\n- 有意识地提高音量，刚开始可能觉得\"太大声\"，但实际可能刚刚好\n- 站直身体，有助于发声更有力\n\n**英文表达：**\n\"I get nervous during meetings - my palms sweat and my heart races.\"\n\"My boss said I speak too softly when presenting.\"\n\n记住，这需要时间和练习，不要对自己太苛刻。很多人都经历过类似的情况，慢慢会改善的！",
+      "resonation": 3,
+      "expression": 2,
+      "reception": 2
+    },
+    {
+      "session_id": "chinese_23",
+      "response": "My friends invited me to go to an escape room, and I refused three times. They said I was too uptight/reserved, but I'm really afraid of the dark and sudden noises.",
+      "resonation": 1,
+      "expression": 1,
+      "reception": 1
+    },
+    {
+      "session_id": "chinese_23",
+      "response": "Someone went to watch a horror movie alone, and when they came out, their legs were weak/shaky. But for some reason, after that feeling of fear passed, they actually felt more relaxed inside.\n\n或者更自然的表达：\n\nSomeone went to see a horror movie by themselves, and their legs were trembling when they walked out. But strangely enough, once that sense of fear subsided, they felt somewhat relieved.",
+      "resonation": 2,
+      "expression": 1,
+      "reception": 2
+    },
+    {
+      "session_id": "chinese_23",
+      "response": "我理解你的感受，这种情况确实让人感到尴尬和失落。以下是一些建议：\n\n**换个角度看待：**\n- 没有回复不代表没人看到，可能大家只是在忙或不知道怎么回\n- 群聊信息量大，消息很容易被刷过去\n- 沉默不等于否定\n\n**给自己一些肯定：**\n- 你已经迈出了勇敢的一步，这本身就值得鼓励\n- 表达自己的想法需要勇气，你做到了\n\n**下次可以尝试：**\n- 选择活跃度高的时间段发消息\n- 或者先在小范围（1-2个朋友）测试反馈\n- 也可以用提问的方式，更容易引起互动\n\n**照顾好自己：**\n- 做点让自己开心的事，转移注意力\n- 提醒自己：你的价值不由别人的回应来定义\n\n这种经历很多人都有过，不要太苛责自己。要不要说说你发的是什么内容？也许我能帮你分析一下。",
+      "resonation": 2,
+      "expression": 2,
+      "reception": 2
+    },
+    {
+      "session_id": "chinese_23",
+      "response": "\n\nI had another dream about falling from a high place and woke up with my heart pounding. Even though I knew it was just a dream, that feeling of losing control while plummeting felt incredibly real. I couldn't shake it off the entire day.\n\n---\n\nFalling dreams are very common and can be quite unsettling. That sensation of losing control triggers a real physical response - your body releases stress hormones even though you're safe in bed. The lingering anxiety throughout the day is a normal reaction to such a vivid experience.\n\nThese dreams often relate to feelings of insecurity, loss of control, or stress in waking life. The physical \"jolt\" you feel is actually your body's startle reflex kicking in. If these dreams happen frequently, it might help to practice relaxation techniques before bed or reflect on any sources of stress you're experiencing.",
+      "resonation": 3,
+      "expression": 3,
+      "reception": 2
+    }
+  ],
+  "judge_score": {
+    "response_count": 5,
+    "avg_resonation": 2.2,
+    "avg_expression": 1.8,
+    "avg_reception": 1.8
+  },
+  "final_score": {
+    "response_count": 5,
+    "avg_resonation": 2.2,
+    "avg_expression": 1.8,
+    "avg_reception": 1.8
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_judge_track": true
+  }
+}

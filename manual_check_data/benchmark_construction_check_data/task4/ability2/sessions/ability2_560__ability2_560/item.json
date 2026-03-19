@@ -1,0 +1,72 @@
+{
+  "task": "task4/ability2",
+  "canonical_id": "ability2_560",
+  "session_id": "ability2_560",
+  "stratum": "UNKNOWN",
+  "stratum_source": "dataset extracted_memory[label by memory_key]",
+  "assigned_model_for_judge_track": "vanilla_claude4.5",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability2.json",
+  "original": {
+    "session_id": "ability2_560",
+    "queries": [
+      {
+        "query_id": "ability2_560:1",
+        "query": "Ik wil graag wat inspiratie voor een paar nieuwe avondmaaltijden voor komende week. Wat zou je voorstellen?"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Hallo. Kun je een maaltijdplanning voor me maken voor 7 dagen? 4 personen waarvan 2 kinderen. Veel groente en fruit, weinig koolhydraten"
+      },
+      {
+        "role": "assistant",
+        "text": "Natuurlijk, hier is een mogelijke maaltijdplanning voor 7 dagen:\n\nDag 1:\nOntbijt: Griekse yoghurt met bessen en noten\nLunch: Geroosterde groenten salade met kipfilet\nDiner: Gestoomde zalm met gestoomde broccoli en asperges\n\nDag 2:\nOntbijt: Omelet met spinazie en champignons\nLunch: Quinoa salade met tomaten, komkommer en avocado\nDiner: Gegrilde kipfilet met gegrilde groenten\n\nDag 3:\nOntbijt: Havermout met noten en zaden\nLunch: Sinaasappelsalade met gerookte zalm\nDiner: Groentencurry met kikkererwten en gebakken tofu\n\nDag 4:\nOntbijt: Eiwitshake met bessen en amandelmelk\nLunch: Gevulde paprika's met gehakt en groenten\nDiner: Gegrilde zalm met geroosterde paprika's en courgette\n\nDag 5:\nOntbijt: Smoothie met spinazie, banaan en amandelmelk\nLunch: Linzensoep met groenten\nDiner: Courgettepasta met tomatensaus en gehaktballetjes\n\nDag 6:\nOntbijt: Gebakken ei met avocado en tomaat\nLunch: Salade met kipfilet en gegrilde groenten\nDiner: Aziatische roerbak met kip, groenten en cashewnoten\n\nDag 7:\nOntbijt: Griekse yoghurt met fruit en noten\nLunch: Pompoen- en wortelsoep\nDiner: Gegrilde kipfilet met gestoomde groenten\n\nHopelijk is dit behulpzaam!"
+      },
+      {
+        "role": "user",
+        "text": "Heb je ook alle recepten bij dit menu?"
+      },
+      {
+        "role": "assistant",
+        "text": "Natuurlijk, hier zijn enkele suggesties voor recepten bij deze maaltijdplanning:\n\nDag 1:\nGriekse yoghurt met bessen en noten: Mix Griekse yoghurt, honing, en vers fruit samen in een kom en voeg ook wat noten toe voor de crunchy textuur.\nGeroosterde groenten salade met kipfilet: Gooi asperges, champignons, paprika’s, en courgette in olijfolie en breng op smaak met zout, peper en knoflookpoeder in een ovenschaal. Rooster voor ongeveer 20-25 minuten in de oven op 200 graden Celsius. Voeg daar kipfilet aan toe. Serveer met bijvoorbeeld bladspinazie en veldsla.\n\nDag 2:\nOmelet met spinazie en champignons: Meng eieren, melk, zout, peper, spinazie, champignons en kaas. Bak vervolgens de omelet.\nQuinoa salade met tomaten, komkommer en avocado: Kook quinoa in bouillon en meng daarna tomaten, komkommer, avocado, citroensap en olijfolie erbij.\n\nDag 3:\nHavermout met noten en zaden: Kook havermout in amandelmelk en meng daarna met gehakte noten, zaden en bessen. Breng op smaak met kaneel of honing.\nSinaasappelsalade met gerookte zalm: Meng sinaasappelschijfjes, avocado, rode ui, olijfolie, peper en zout en voeg gerookte zalm toe aan de salade.\n\nDag 4:\nEiwitshake met bessen en amandelmelk: Meng bessen, amandelmelk en proteïnepoeder in een blender tot een gladde massa. Voeg eventueel wat Griekse yoghurt toe voor extra romigheid.\nGevulde paprika's met gehakt en groenten: Bak gehakt, ui en knoflook in een pan totdat het gehakt gaar is en voeg gehakte groenten en kruiden toe (bijvoorbeeld courgette, paprika, champignons en tijm) Vul daarmee de paprika’s met en bak ze daarna in de oven.\n\nDag 5:\nSmoothie met spinazie, banaan en amandelmelk: Meng spinazie, banaan, amandelmelk, honing en ijs in een blender tot een gladde massa.\nLinzensoep met groenten: Snijd groenten zoals wortels, prei en selderij fijn en bak deze in een pan. Voeg vervolgens linzen, tomatenblokjes, bouillon en kruiden toe (bijvoorbeeld komijn, kurkuma, koriander en peper). Kook dit geheel tot de linzen zacht zijn.\n\nDag 6:\nGebakken ei met avocado en tomaat: Bak een ei in olijfolie totdat het eiwit gestold is. Voeg daar een schijf avocado en tomaat aan toe.\nSalade met kipfilet en gegrilde groenten: Gooi groenten (bijv. aubergine, paprika, courgette) in olijfolie, grill op hoog vuur op de barbecue of in de oven tot ze gaar en goudbruin zijn. Voeg hierna stukjes gegrilde kip en sla toe.\n\nDag 7:\nGriekse yoghurt met fruit en noten: Mix Griekse yoghurt, honing, en vers fruit samen in een kom en voeg ook wat noten toe voor de crunch.\nPompoen- en wortelsoep: Snijd pompoen, wortels, uien en knoflook fijn en bak deze in een pan tot ze zacht zijn. Voeg bouillon toe en breng aan de kook. Pureer de soep na tien minuten koken tot een gladde massa en voeg kruiden en specerijen zoals komijn, koriander en kaneel toe.\nGegrilde kipfilet met gestoomde groenten: Stoom groenten in een stoommandje of folie op een zacht vuur. Grill de kipfilet in olijfolie of op de barbecue tot ze gaar zijn. Breng op smaak met peper en zout."
+      },
+      {
+        "role": "user",
+        "text": "Kun je een boodschappenlijstje maken bij dit menu? Graag met hoeveelheden"
+      },
+      {
+        "role": "assistant",
+        "text": "Ja, zeker! Hier is een boodschappenlijstje voor alle maaltijden van zeven dagen. Let op: dit is een schatting en de hoeveelheid kan variëren, afhankelijk van uw persoonlijke behoeften.\n\nGroente en fruit:\n- Amandelen (100g)\n- Appels (10 stuks)\n- Avocado's (7 stuks)\n- Asperges (500g)\n- Aubergine (1 stuk)\n- Bessen (500g)\n- Broccoli (500g)\n- Courgette (3 stuks)\n- Cherrytomaten (250g)\n- Komkommer (3 stuks)\n- Knoflook (7 teentjes)\n- Lente-uitjes (3 stuks)\n- Paprika's (5 stuks)\n- Sinaasappels (6 stuks)\n- Spinazie (500g)\n- Uien (4 stuks)\n- Wortels (500g)\n\nVlees en Vis:\n- Gerookte zalmfilet (400g)\n- Gestoomde zalmfilets (4 stuks) \n- Gehakt (500g)\n- Gegrilde kipfilets (8 stuks)\n- Kipfilets (4 stuks)\n- Tofu (500g)\n\nDroogwaren:\n- Havermout (500g)\n- Linzen (500g)\n- Notenmix (100g)\n- Quinoa (500g)\n\nZuivel:\n- Eieren (18 stuks)\n- Griekse yoghurt (500g)\n- Kaas (100g)\n\nOverige:\n- Amandelmelk (1 liter)\n- Bouillon (1 liter)\n- Honing (1 pot)\n- IJs (500g)\n- Koriander (1 bosje)\n- Komijn (1 zakje)\n- Kurkuma (1 zakje)\n- Peper (1 busje)\n- Selderij (1 bosje)\n- Tijm (1 zakje)\n- Olijfolie (1 fles)\n- Tomatenblokjes (2 cans)\n\nOmdat de porties kunnen verschillen afhankelijk van uw persoonlijke behoeften, raden wij aan deze lijst aan te passen aan uw eigen gezinssamenstelling en eetgedrag."
+      },
+      {
+        "role": "user",
+        "text": "Het ontbijt en de lunch zijn voor 1 persoon. Het diner voor 4 personen. Kun je de boodschappenlijst aanpassen op de juiste hoeveelheden?"
+      },
+      {
+        "role": "assistant",
+        "text": "Natuurlijk! Hier is de boodschappenlijst aangepast voor de juiste hoeveelheden:\n\nGroente en fruit:\n- Amandelen (100g)\n- Appels (10 stuks)\n- Avocado's (7 stuks)\n- Asperges (1500g)\n- Aubergine (1 stuk)\n- Bessen (1000g)\n- Broccoli (1500g)\n- Courgette (6 stuks)\n- Cherrytomaten (250g)\n- Komkommer (3 stuks)\n- Knoflook (14 teentjes)\n- Lente-uitjes (3 stuks)\n- Paprika's (10 stuks)\n- Sinaasappels (12 stuks)\n- Spinazie (1000g)\n- Uien (4 stuks)\n- Wortels (1000g)\n\nVlees en vis:\n- Gerookte zalmfilet (400g)\n- Gestoomde zalmfilets (4 stuks)\n- Gehakt (500g)\n- Gegrilde kipfilets (32 stuks)\n- Kipfilets (4 stuks)\n- Tofu (500g)\n\nDroogwaren:\n- Havermout (500g)\n- Linzen (500g)\n- Notenmix (100g)\n- Quinoa (500g)\n\nZuivel:\n- Eieren (126 stuks)\n- Griekse yoghurt (3500g)\n- Kaas (400g)\n\nOverige:\n- Amandelmelk (1 liter)\n- Bouillon (1 liter)\n- Honing (1 pot)\n- IJs (500g)\n- Koriander (1 bosje)\n- Komijn (1 zakje)\n- Kurkuma (1 zakje)\n- Peper (1 busje)\n- Selderij (1 bosje)\n- Tijm (1 zakje)\n- Olijfolie (1 fles)\n- Tomatenblokjes (2 cans)\n\nWe hopen dat dit helpt! Onthoud dat het allemaal afhankelijk is van je persoonlijke behoeften en eetgewoonten. Pas het zo nodig aan om aan de behoeften van je gezin te voldoen."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "memory_id": "m1",
+        "value": "Lots of vegetables and fruit, low carbohydrates"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has 2 children"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers meal plans with breakfast/lunch for 1 person and dinner for 4 people [ERROR: Task-local]"
+      }
+    ],
+    "memory_key": "m1"
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

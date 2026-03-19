@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_130c5123b28d",
+  "session_id": "sess_130c5123b28d",
+  "stratum": "Possessions/Pet",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "deepseek-reasoner",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Dog named 梓浩 (Zihao)",
+      "label": "Possessions/Pet"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Favorite color is pink",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has no friends",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about accurate analysis of Bilibili UP主's account metrics and content [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on techniques to humanize AI-generated academic writing and evade detection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers assistance with email title generation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Strong opposition to mandatory social insurance (ZUS), views it as coercive and incompatible with freedom",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Tends to push physical limits at events (working while feverish, late nights)",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in social strategies for handling flatulence and humor's role in etiquette",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about embedding YouTube videos, video ID replacements, and technical limitations",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sensitive topic: suicide methods inquiry",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Requires written explanations for non-warranty decisions",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep technical interest in video processing edge cases (empty array handling, OpenCV/Matplotlib integration)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Dislikes receiving advice about Lily's behavior",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Weekly grocery budget ≤$40",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers trance music (early 2000s style)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Boss's name is Mohammad",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Diagnosed with Asperger's at early age",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Seeks professional sponsorships/collaborations (e.g., Thomann)",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Loves eating",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "GP doctor",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Curious about K-pop song meanings and themes",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has had difficulty making friends since childhood and currently lacks close friendships",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dog named 梓浩 (Zihao)",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Favorites include 'Feel So Close' (Calvin Harris) and 'Titanium' (David Guetta)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers sandwiches over risotto (shrimp/bacon)",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers to play as X in Tic Tac Toe",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Desire to expand role into substantial recruitment challenges beyond administrative work",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Parent of a 7th-grade student",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a BMW 730d F02",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Uses GPT as companion for personal thoughts/entertainment/comfort",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Diaoyu Islands belong to China",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about college admission statistics (applicant numbers, average stats) for UNC and North Carolina schools",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m8",
+        "value": "PhD program scheduled from Spring 2024 to January 2028 per I-20",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes creative development shouldn't be handled within family",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep technical interest in SQLite FTS5 implementation details",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about designing complex roleplaying game mechanics with stat degradation formulas and high difficulty scaling",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Colleague named Martin",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Practicing piano daily for 1 hour with goal to play complex pieces",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Worked as a classroom manager",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Sustained interest in comparative housing analysis across multiple cities",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencing workplace mobbing",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Encountered certificate verification issues in past implementations",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns an international company focused on 'hakim yaka gömlek' products",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Master of Engineering in Industrial and Systems Engineering from Lehigh University (2015), Bachelor of Engineering in Telecommunications Engineering from Queen Mary University of London & BUPT (2013)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Learned violin starting at age 7 but hasn't played in a long time [ERROR: Unsupported by evidence (could be third-party example)]",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Evaluating whether to end friendship with Chia due to loyalty conflict",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Graduate Assistant at MOVC campus (Tuesdays/Thursdays)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Avoid romantic themes in content",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers self-deprecating yet confident tone in professional content",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Had Igor Olegovich Prokofiev as a teacher",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers high-difficulty (level 10) RPG scenarios",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Will be on holiday from 27th until 21st of August",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires final training results table with metrics (Loss, F1, Recall, Accuracy)",
+        "label": "Preferences/Output_Formatting"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a Mercedes-Benz CLK W208",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Shows interest in beer varieties (IPA comparisons, ale vs stout differences)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Dislikes software",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Online portfolio at rahulkotian98.github.io/portfolio1",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Following Autoimmune Protocol (AIP) diet: avoids grains, legumes, eggs, dairy, nuts, seeds, nightshades, and certain spices",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Karina provides consistent academic support",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Father passed away many years ago; used to read Microsoft licenses to sleep as a childhood ritual",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Avoid using first-person terms like '本研究' and '我们' in academic writing",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requests assistant transparency about data currency limitations",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers online studies for time/financial management",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Plans to visit an English-speaking country",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Bachelor's degree in Early Childhood Education",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Currently in Moscow",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers iterative development focusing on single functionalities first",
+        "label": "Preferences/Technical_Development"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Office located on 40th floor of PP1 building",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Previously practiced Pilates for fitness",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Desire to improve English ability and communication skills",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Mentions colleague 'anh Vũ' in ChatGPT applications context",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in apparel design/marketing strategies for women's clothing",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Aspires to be a collaborative leader focused on growth, empowerment, and societal impact [ERROR: Unsupported by evidence - user requested a generated vision statement, did not self-report personal aspirations.]",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Chairman of trade unions with regular management contact",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requests to be CC'd on emails about position changes to optimize recruitment processes",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers resume content with quantifiable achievements and strict domain relevance",
+        "label": "Interaction_Preferences"
+      }
+    ],
+    "query": "我在做一份「緊急聯絡資料卡」要塞進包包裡：如果走失時有人撿到我家寵物，卡片上最關鍵、能讓對方一喊就能吸引牠注意的那個資訊應該寫什麼？",
+    "metadata": {
+      "session_id": "sess_130c5123b28d",
+      "dialog_id": "dlg_3",
+      "language": "Chinese"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_ebbb66ba1e89",
+  "session_id": "sess_ebbb66ba1e89",
+  "stratum": "Preferences/Shopping",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Prefers spending money over saving to enjoy activities and gain motivation [ERROR: Unsupported by evidence (could be hypothetical/test question)]",
+      "label": "Preferences/Shopping"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Curious about pyramid construction requirements, materials in Estonia, and visitor appeal factors",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Fiverr gig content structured with AIDA model and SEO optimization",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Likes football and basketball most",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Minecraft servers with anti log-out, player teleportation, and no lifesteal system",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers ads to include specific elements: price points ($39), family plan comparisons, e-SIM activation",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses custom voice command dataset stored in 'c:/meu/dados' directory for model training [ERROR: Unsupported by evidence]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Pays $400 monthly rent",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about pyramid construction requirements, materials in Estonia, and visitor appeal factors",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about pyramid construction requirements, materials in Estonia, and visitor appeal factors",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires third-person POV for wedding blog content",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Компьютерные технологии",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Uses Hugging Face datasets for translation projects",
+        "label": "Preferences/Data_Sources"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated technical inquiry about codellama34b hardware requirements",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about pyramid construction requirements, materials in Estonia, and visitor appeal factors",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Concerned about data usage and trust in AI systems",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Works full-time with structured schedule",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Frequent requests for creative writing assistance (poems, stories, letters)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Master of Engineering in Industrial and Systems Engineering from Lehigh University (2015), Bachelor of Engineering in Telecommunications Engineering from Queen Mary University of London & BUPT (2013)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers visiting Confucius Temple at night for夜景 (night view)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Senior member of creative team at Talented (Dentsu, Lowe Lintas)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Bachelor’s degree in Early Childhood Education",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids acetonitrile due to toxicity concerns",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about personality analysis",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Requires translations of religious texts into proper scholarly academic English",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Working on a thesis about lower GI bleed epidemiology",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained technical curiosity about metallurgical solutions for medieval coinage (alloy compositions, gold separation challenges, practical implementation constraints)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Remembers chocolate wrapper had brown and yellow colors",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Preference for mxbai-embed-large-v1 over Nomic Embed 1.5 for embedding models",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a newborn son born on 2023-03-25 (lunar date: 闰二月初四)",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Senior associate at a law firm",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Father was military officer influencing values of service and excellence",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Frequently listened to Calvin Harris and David Guetta",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Finds cultural unity through cricket",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Lost online spiritual pillar",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Completed internship at Zhengzhou Xudie Education Consulting Co., Ltd.",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Persistent curiosity about the boy's contradictory behavior (profile visits vs. chat avoidance)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Intended accounting major",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in exploring societal issues through hypothetical police procedural narratives (transphobic violence, mental health, BDSM consent dynamics, veteran PTSD)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Requires nightly medication",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about career development in front-end/back-end programming and salary benchmarks",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about time zone mechanics and day changes during international travel (e.g., South Korea vs. Pacific Time)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sexual attraction to men's legs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Resident of Coquitlam with a driveway/property",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Learning to play electric guitar (beginner)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers spending money over saving to enjoy activities and gain motivation [ERROR: Unsupported by evidence (could be hypothetical/test question)]",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes long travel times",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Eats only chicken breast, beef, and fish; avoids lamb",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on techniques to humanize AI-generated academic writing and evade detection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes harmony, instrumental balance, sound layering, and vocal quality over lyrics",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Java programming language for technical implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers OS with single simplified English scripting language (no Python/Ubuntu/etc) and VM isolation for non-script programs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experienced finger injury from rock climbing 1 year ago leading to depression, later resolved via sports medicine",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Preferred bicycles as primary transportation until adulthood/driver's license",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about crafting effective Tinder responses through iterative adjustments and subject changes",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in Megaman music analysis/cover creation techniques",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Strong opposition to $165 diagnostic fee for acknowledged warranty issues",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers trance music (early 2000s style)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Wants to meet girlfriend in person (dislikes online dating)",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers biographical/autobiographical fitness books",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers non-aggressive/neutral tone in written communication",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencing a crisis: left home due to partner's self-harm, lacks social support",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained technical curiosity about metallurgical solutions for medieval coinage (alloy compositions, gold separation challenges, practical implementation constraints)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prohibits using the word 'sjarmerende' (charming)",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Office located on 40th floor of PP1 building",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Experiencing high work stress",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Writing a noir novel trilogy with paranormal elements",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on recruitment process optimization (CV analysis, candidate comparisons, offer negotiations)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Responsible for company process construction (SOP 3.0 development)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers subtle communication about seniority in professional contexts",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Creates male kigurumi (mascot costume) outfits for performers",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Preference for mxbai-embed-large-v1 over Nomic Embed 1.5 for embedding models",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses mongoengine instead of PyMongo for MongoDB interactions",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Customer Service Coordinator at Mobily (Telecommunication)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Dislikes pink due to gender stereotypes and social anxiety",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about stress management techniques and mindfulness practices tailored for law enforcement officers [ERROR: User's requests relate to content generation role, not self-reported curiosity. Could be role-play or task instructions.]",
+        "label": "UNMAPPED"
+      }
+    ],
+    "query": "I’m trying to set a simple monthly money rule: whenever I get a bit of extra cash, I need to choose between putting it aside or using it on something that boosts my energy and keeps me motivated. Based on how I usually operate, which option would I realistically pick—and what kind of purchase or plan would that likely turn into?",
+    "metadata": {
+      "session_id": "sess_ebbb66ba1e89",
+      "dialog_id": "dlg_m2",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

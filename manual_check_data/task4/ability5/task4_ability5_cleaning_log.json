@@ -1,0 +1,57 @@
+{
+  "task": "task4/ability5",
+  "seed": "manual-check-stratified-20260319-v2",
+  "pool_size": 260,
+  "benchmark_sample_count": 28,
+  "judge_sample_count": 24,
+  "pool_stratum_distribution": {
+    "ch": 60,
+    "en": 200
+  },
+  "benchmark_stratum_distribution": {
+    "ch": 14,
+    "en": 14
+  },
+  "judge_model_quotas": {
+    "claude-sonnet-4.5": 4,
+    "gemini-3-flash": 4,
+    "gpt-4.1-mini": 4,
+    "gpt-5.2": 4,
+    "llama-4-maverick": 4,
+    "qwen3-max": 4
+  },
+  "judge_model_distribution": {
+    "claude-sonnet-4.5": 4,
+    "gemini-3-flash": 4,
+    "gpt-4.1-mini": 4,
+    "gpt-5.2": 4,
+    "llama-4-maverick": 4,
+    "qwen3-max": 4
+  },
+  "judge_sampled_ids": [
+    "chinese_6",
+    "chinese_23",
+    "chinese_59",
+    "chinese_9",
+    "english_3",
+    "english_51",
+    "english_96",
+    "chinese_28",
+    "chinese_26",
+    "chinese_11",
+    "chinese_25",
+    "chinese_38",
+    "chinese_52",
+    "english_66",
+    "english_197",
+    "chinese_7",
+    "english_45",
+    "english_55",
+    "chinese_10",
+    "english_125",
+    "english_31",
+    "chinese_57",
+    "english_43",
+    "english_136"
+  ]
+}

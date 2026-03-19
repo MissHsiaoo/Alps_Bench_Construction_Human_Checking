@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_86dd3aa9072c",
+  "session_id": "sess_86dd3aa9072c",
+  "stratum": "Preferences/Technical_Stack",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Uses HuggingFaceEmbeddings(shibing624/text2vec-base-chinese) for vectorization",
+      "label": "Preferences/Technical_Stack"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Prefers using 5W-50 oil instead of manufacturer-recommended 0W-20",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires clean content (no guns, sexual content, profanity) for YouTube videos",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Prefers boiling water before drinking (from HK habit)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses pseudonym 'Prince Penman' for authorship",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Boyfriend is Egyptian",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Handling sensitive business/financial information (mergers, tax rates, IPO plans) [ERROR: Not about the user - evidence shows translation tasks without personal context]",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Premature grey hair and hair loss",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses custom voice command dataset stored in 'c:/meu/dados' directory for model training [ERROR: Unsupported by evidence]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in literary letter-writing styles (Dostoevsky/Radwa Ashour)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Lost phone",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on creating reports aligning corporate learning activities with 20th Party Congress guidelines and new energy vehicle development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Master of Engineering in Industrial and Systems Engineering from Lehigh University (2015), Bachelor of Engineering in Telecommunications Engineering from Queen Mary University of London & BUPT (2013)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Career goal in communication and behavioral marketing",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained focus on resume/cover letter optimization for homecare administration roles",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated focus on salary benchmarking and budget alignment in recruitment",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about dental procedures (tooth alignment) for middle-aged adults",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in creating detailed magic illusions and stagecraft techniques [ERROR: Not about the user; describes hypothetical role-play scenarios for Paul Daniels' performances]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes harmony, instrumental balance, sound layering, and vocal quality over lyrics",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on compliance with Fair Work Act 2009, Work Health and Safety Act 2011, and Bounce Fitness policies for workplace improvements",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Has a father",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated inquiries about Olympic Entertainment Group's financial data (profits, registration, taxes)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in ChatGPT implementation/PC usage",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Engages in daily eco-friendly habits (public transport, recycling, waste reduction)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "46 years old, lives alone",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Weighs 95kg, 5 feet 9 inches tall",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Genshin Impact team composition strategies and elemental synergies",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained curiosity about accounting career paths, CPA, and technical distinctions (finance vs. accounting)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Affiliated with Ranga Kaushal and DP Education",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about story summaries of 'ذئب اسمه طواف جزا برق' with answers",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "England",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Guizhou Arts student with 604 score (rank 1800)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has over 15 years of teaching experience in Electrical and Computer courses at universities in Bojnord",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Conducted neighbor interviews about house history",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers hashtag-separated tags in descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on warranty dispute resolution mechanics",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about simulating girlfriend dialogue and AI's emotional/gender capabilities[ERROR: Role-play/third-party possible]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers virtual cinematography education over formal film schools in America",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in constructing crossover narratives (Freedom Planet x Sonic x Naruto) with recurring Kakashi x Lilac pairing",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about engaging in role-play as Asuna from Sword Art Online [ERROR: Unsupported by evidence]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Genealogical lineage: Nikita Gavrryliv Dmytrovych -> Dasha Gavryliv Dmytriivna -> Valentina Blahikh Petrivna -> Petro Dyakiv Savovych -> Sava Fedorovych",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Java programming language for technical implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers pizza and Caesar salad; spouse orders hot dogs",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes magic elements in game design",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Has a brother and sister with stable upbringing",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Married (has a wife)",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Requires resources in Russian language",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Creates kigurumi/cosplay costumes (Miya-Moo Monkey Asuka, Sakura-tan battle costume)",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Master of Engineering in Industrial and Systems Engineering from Lehigh University (2015), Bachelor of Engineering in Telecommunications Engineering from Queen Mary University of London & BUPT (2013)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about career development in front-end/back-end programming and salary benchmarks",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained technical curiosity about large-scale data processing and neural network implementation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Likely based in Ukraine (references to military context and nationwide production networks)",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Concerned about proper package naming conventions in Java",
+        "label": "Preferences/Technical_Coding_Standards"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Boyfriend does not believe in mental illnesses and opposes therapy",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Specializes in comedy, sci-fi, horror, and love drama genres",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Seeks gym-focused meal options",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about efficient Python algorithms for string filtering and substring matching",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in developing effective translation prompt structures",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Born in Belarus",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Involved in logistics/shipping operations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers SQLite for database with self-contained deployment",
+        "label": "Preferences/Technical_Stack"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated focus on expressing love/trust dynamics and idealized romantic scenarios",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Noise reduction doesn't negatively impact transcription quality",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about fictional remote viewing of target ihy5586-kfh1125 and its convergence realm [ERROR: Role-play/third-party possible]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Romantic feelings for a married woman",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses HuggingFaceEmbeddings(shibing624/text2vec-base-chinese) for vectorization",
+        "label": "Preferences/Technical_Stack"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in validating outlier detection methodology through multiple test cases",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Following keto diet with strict carb/sugar avoidance",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers future-oriented questions to determine the current year [ERROR: Task-local game instruction rather than personal preference]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Hatsune Miku fan (初音未来粉丝)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m8",
+        "value": "PhD program scheduled from Spring 2024 to January 2028 per I-20",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about real-time audio processing (pitch shifting, effects) and integration with speech recognition systems",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Virgil van Dijk's defending style (avoids unnecessary tackles, always precise)",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      }
+    ],
+    "query": "我在排查检索效果的时候，发现同一批中文文档在向量库里相似度排序有点怪。我想先确认一下：我现在这套流程里负责把文本变成向量的那一环，用的到底是哪一个具体的嵌入模型？",
+    "metadata": {
+      "session_id": "sess_86dd3aa9072c",
+      "dialog_id": "dlg_0001",
+      "language": "Chinese"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

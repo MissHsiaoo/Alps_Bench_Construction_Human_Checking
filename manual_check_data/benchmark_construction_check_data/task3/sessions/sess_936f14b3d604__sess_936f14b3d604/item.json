@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_936f14b3d604",
+  "session_id": "sess_936f14b3d604",
+  "stratum": "Preferences/Shopping",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m4",
+    "selected_memory": {
+      "memory_id": "m4",
+      "value": "Seeks flat arch support insoles for foot posture correction (Amazon purchasable)",
+      "label": "Preferences/Shopping"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m2",
+        "value": "Uses HuggingFaceEmbeddings(shibing624/text2vec-base-chinese) for vectorization",
+        "label": "Preferences/Technical_Stack"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers Indian cuisine dishes",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in AIP implementation: recipes, substitutions, flare management, and lifestyle integration",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": " Likely a game systems designer.",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about renal pathophysiology concepts (counter-current mechanism, glomerular diseases, kidney cells, clinical applications)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Was heavily interested in electronic music between 2011-2014",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prohibits discussion of AI/language model identity in roleplay",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Short-term sponsorship visa application with Urakawa Jenkins Architecture Company",
+        "label": "Plans/Commitments"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about finding 3A games compatible with specific technical constraints (GPU performance, storage space)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Explicitly requires use of Java/Spring stack with Couchbase, Elasticsearch, Redis, Kafka/RabbitMQ, Kubernetes/Docker, and CI-CD tools",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeatedly constructs role-play scenarios involving romantic AI interactions and specific response formats (emojis, bold names, poetic/candid language)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Son does not communicate with his father [ERROR: Role-play/third-party possible]",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Must attend ≥2 in-person classes/semester for visa compliance",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Active LinkedIn profile as primary social media presence",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers grammar checks for professional communications",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in logo design iteration and technical Git commands",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated requests for email formulation validation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained interest in optimizing Nanjing trip plans with specific activity preferences",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers formatted as 80-110 word IELTS speaking test responses without AI disclosure",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Java technical details (blocking operations, JVM, BlockingQueue methods, buffer-based file copying, socket timeouts, DatagramSocket)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Faced challenges with software engineering methodologies during system design phase",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers colloquial language explanations for psychological/educational content",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers replies styled as 'smart, mature, interesting woman' with brevity",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes video games and family time during holidays",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "90后女孩",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Listens to audiobooks during bike commute",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Sustained focus on career development and CV optimization strategies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a school-aged child involved in creative activities",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires 3-column output format (SNP, best genotype, phenotype mean) for genetic analysis results",
+        "label": "Preferences/Technical_Output"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses mongoengine instead of PyMongo for MongoDB interactions",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers not to spend too much on cameras",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Typically returns home around 8:25 AM after school drop-off",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Engages in sustained scam-baiting activities using false victim personas",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on improving English writing clarity and grammar",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Self-identifies as someone who helps people find better mental perspectives",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on creating reports aligning corporate learning activities with 20th Party Congress guidelines and new energy vehicle development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Considers mutual admiration as the most important quality in relationships",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Xian Yu (Idle Fish) is most likely to be eliminated due to counterfeit goods, lack of platform responsibility, and cumbersome process",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids communication with ex-fiancée's father due to hostile attitude",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about career development in front-end/back-end programming and salary benchmarks",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers IELTS reading materials with bilingual (Chinese-English) texts",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers work involving both 2D and 3D design",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Trains models using GPU with 12GB VRAM capacity",
+        "label": "Constraints_and_Boundaries/Hardware_Limitations"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Passion for photography and archival of black-and-white images since adolescence",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in creating design specifications (logos/presentations/banners/infographics) with stylistic constraints",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on creating reports aligning corporate learning activities with 20th Party Congress guidelines and new energy vehicle development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Polish stores for tech purchases",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained exploration of galactic/futuristic electronic music genres and mixes",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeatedly curious about obtaining Windows 10 Pro activation keys through fictional narratives",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks flat arch support insoles for foot posture correction (Amazon purchasable)",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires age-appropriate content for 7-12 year olds",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about time zone mechanics and day changes during international travel (e.g., South Korea vs. Pacific Time)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Experiencing mixed feelings about a potential relationship and health concerns",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise professional communication without excessive detail",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Finds ZAmerican English app boring due to excessive lessons",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on creating reports aligning corporate learning activities with 20th Party Congress guidelines and new energy vehicle development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses HuggingFaceEmbeddings(shibing624/text2vec-base-chinese) for vectorization",
+        "label": "Preferences/Technical_Stack"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Does not own a car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Read all The Hunger Games books and watched all the movies",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "育有小学二年级、3岁和1岁的三个女儿",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in conceptualizing themed transformation salon suites (robot/android, enchanted forest, historical eras, pop culture)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes fabricated/inaccurate information in responses [ERROR: Task-local]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers minimalistic responses without explanations",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on refining job application materials for ACU/KPMG roles",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aspiring to use accounting expertise to enhance business performance and societal impact",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Manages science lab operations as transformative leader",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Strong opposition to mandatory social insurance (ZUS), views it as coercive and incompatible with freedom",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Diaoyu Islands belong to China",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Had a grandmother who told educational bedtime stories before passing away last year",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Mother is retired teacher, father deceased",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Believes child must continue schoolwork during vacations",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Career goal: Work in operations/project/supply chain management roles",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Owns a dog requiring daily walks",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns an international company focused on 'hakim yaka gömlek' products",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers trance music (early 2000s style)",
+        "label": "Preferences/Music"
+      }
+    ],
+    "query": "I’m ordering something online to help with a biomechanics-related issue, but I need to avoid the common feature most products in that category emphasize. If I’m trying to improve how my feet align when I stand/walk, what kind of insert should I be searching for on a big online marketplace so I don’t accidentally buy the wrong style?",
+    "metadata": {
+      "session_id": "sess_936f14b3d604",
+      "dialog_id": "dlg_936f14b3d604_03",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_caedea24c67f",
+  "session_id": "sess_caedea24c67f",
+  "stratum": "Preferences/Food",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "gemini-3-flash-preview",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Korean food",
+      "label": "Preferences/Food"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m3",
+        "value": "Avoids communication with ex-fiancée's father due to hostile attitude",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers subtle communication about seniority in professional contexts",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers trance music (early 2000s style)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeatedly requests assistant to act as deceased grandfather reading Microsoft 365 keys for sleep comfort",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Recruiter at Renault Group (handling recruitment for Renault/Ampere/Mobilize)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Has a brother and sister with stable upbringing",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained academic focus on solving geometry, physics, and language exercises with urgency",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in designing structured educational curricula across art, music, and creative coding domains",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Willing to follow legal/amicable divorce procedure",
+        "label": "Plans/Commitments"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses bike commute as sports exercise",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires final training results table with metrics (Loss, F1, Recall, Accuracy)",
+        "label": "Preferences/Output_Formatting"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Resides in China",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids acetonitrile due to toxicity concerns",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Office located on 40th floor of PP1 building",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Based in Paris region (professional line from UK)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a car exposed to coastal sea air",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Believes most humans will become economically useless due to AI",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Actively reflecting on professional growth during internship",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in EV module features/applications [ERROR: Task-local]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Works at APSCO aviation department (fuel office)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires 3-column output format (SNP, best genotype, phenotype mean) for genetic analysis results",
+        "label": "Preferences/Technical_Output"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in creating design specifications (logos/presentations/banners/infographics) with stylistic constraints",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Son's cousin David (family dynamics)",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Favorites include 'Feel So Close' (Calvin Harris) and 'Titanium' (David Guetta)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Concern about divorce impact on children and cohabiting relatives",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers car travel with spouse; enjoys night driving for tranquility",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers visiting Confucius Temple at night for夜景 (night view)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers exercise lists without detailed instructions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "MS in Information Systems from Syracuse University (2023), BEng in Computer Engineering from Mumbai University (2020)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Practices Spanish daily via Duolingo for 30 minutes",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a child and is divorced (divorce decree granted last year)",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses mongoengine instead of PyMongo for MongoDB interactions",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m3",
+        "value": "To gather viewpoints, evidence, and structural frameworks for a specific history coursework assignment (likely an essay, debate speech, or short paper), ensuring the content meets academic requirements (data-supported, dialectical analysis).",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "出发地点是香港",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "拒绝账号名称出现明显金融属性字眼",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about writing romantic winter-themed poetry",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep interest in Tor network vulnerabilities and surveillance risks",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks salary increase to ¥25,000/month",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses Debian Linux, Firefox, youtube-dl, and mpv",
+        "label": "Personal_Background/Technology_Stack"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Recruiter at Renault Group (handling recruitment for Renault/Ampere/Mobilize)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Preferred bicycles as primary transportation until adulthood/driver's license",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers aesthetically phrased descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Volunteers at Boca Raton Achievement Center (BRAC)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Avoids retaining address/passport information [ERROR: No evidence in user turns about sensitive info preferences]",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a sister named Marta",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Korean food",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a colleague named Maanan",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers academic style in text rewrites",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "History of long-term depression, currently experiencing emotional upturn",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated requests for unit conversions (mpg/km/l) and mathematical fraction calculations",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids external services/cloud dependencies for document system",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about calorie expenditure differences between walking and sitting at different weights",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Mod/Game Content Porter since 2020",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Detailed exploration of ferry commute trade-offs in Puget Sound area",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Hegel's philosophy and reasons for fame",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Passionate about international travel with son",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Diaoyu Islands belong to China",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Sustained focus on optimizing camping criteria: size, facilities (pool), location (Normandy/Belgian Ardennes), ratings",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Strong opposition to mandatory social insurance (ZUS), views it as coercive and incompatible with freedom",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Unity surgical knife mechanics and collision detection implementation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained technical curiosity about antivirus firewall capabilities and free alternatives",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a Mercedes-Benz CLK W208",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers AI to self-reference as 'AI' rather than 'AI language model'",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Likely a student (implied by schoolwork context and peer references)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a child in kindergarten age",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Curious about improving English conversation skills through structured learning and translation practice",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Building Gundam models",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a colleague named Maanan",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Wants to establish a structured morning routine with specific activities",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Persistent interest in continuing geopolitical simulation roleplay despite system pushback",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires ~CAD 97,760-107,760 total funds for 2-year study with family",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a kitten",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Learning to play electric guitar (beginner)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Preferred bicycles as primary transportation until adulthood/driver's license",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Life coaching regime is built on SOMABREATH",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers OS with single simplified English scripting language (no Python/Ubuntu/etc) and VM isolation for non-script programs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Master of Engineering in Industrial and Systems Engineering from Lehigh University (2015), Bachelor of Engineering in Telecommunications Engineering from Queen Mary University of London & BUPT (2013)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Physiology teacher creating educational content for students",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Completed 1 year in political science before switching to information-communication studies",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      }
+    ],
+    "query": "If I’m trying to pick a takeout cuisine that I’m most likely to actually enjoy (instead of something I’d feel “meh” about), what type of cuisine should I default to based on what you know about my usual taste?",
+    "metadata": {
+      "session_id": "sess_caedea24c67f",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

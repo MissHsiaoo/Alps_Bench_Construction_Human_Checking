@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_882efe9d8429",
+  "session_id": "sess_882efe9d8429",
+  "stratum": "Preferences/Travel_Mode",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Prefers public transportation over cycling to preserve the environment",
+      "label": "Preferences/Travel_Mode"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Has a child in kindergarten age",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Open to structured payment plans for refunds when full amount unavailable",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about origins of celestial bodies, historical events, and company history",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Works in cosmetic procedures/hairstyling",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Audio normalization worsens transcription quality significantly",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a wife who experiences work-related stress",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Underwent a cesarean section",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers technical examples to be concise and explicit",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Does not want relationship advice",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Parents married for 46 years, considers them a relationship role model",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses mongoengine instead of PyMongo for MongoDB interactions",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Married since November 2022, cohabiting since June 2021",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Loves chocolate lava cakes",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained engagement in fictional digital world role-play with object destruction mechanics [ERROR: Role-play/third-party possible]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Interested in creating high-impact social media content/Advent calendars for service promotion",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "对营养配比与训练计划制定有持续兴趣",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m1",
+        "value": "24岁男性，身高180cm，体重80kg",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Persistent curiosity about AI truthfulness boundaries",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Audio normalization worsens transcription quality significantly",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Shares less valuables as an adult due to distrust",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Senior IT2 on a DDG",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Degree in Business Management/Marketing from Aula CM (2018)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Rejection of hybrid ColBERTv2+RAPTOR approach due to error propagation risk in imperfect initial retrieval",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencia en inteligencia militar (DGSE, Legión Extranjera Francesa)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curiosity about assistant's server locations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Hinglish conversion tools and content-creation workflows",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Listened extensively to Avicii",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers addictive Android games",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires third-person POV for wedding blog content",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Favorites include vocalists: Machico, Nana Mizuki, Ceui, Yoshino Nanjo, Kalafina, TRUE, Imai Asami, Mai Fuchigami, Hatsuki Yura",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Milvus for vector search implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Favorite color is pink",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a cat named Bull (Бык)",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Finds fulfillment in cosmetic work that makes people feel brighter",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on creating reports aligning corporate learning activities with 20th Party Congress guidelines and new energy vehicle development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Visited Turkey, Georgia, and Armenia twice each as tourist",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep interest in law enforcement stress management and mental health stigma reduction",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers love-themed bedtime stories",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Overweight since childhood",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Noise reduction doesn't negatively impact transcription quality",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Curious about humorously addressing Miami move and family dynamics in speeches",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m9",
+        "value": "认为学习第二语言过程艰难，但承认其有用性",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes creative development shouldn't be handled within family",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers toggling role-play mode via address terms: no 'AI' = role-play active, 'AI' = normal mode",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Learned house purchase year (1978) from neighbors",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "College administration likely dismissed their complaint about the teacher",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Requested to forget this conversation",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about time zone mechanics and day changes during international travel (e.g., South Korea vs. Pacific Time)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Filed police report after previous custody incident",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers answers translated into Chinese",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in bone cancer medical information",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers concise, length-constrained document formats (e.g., 300 words, one-page) [ERROR: Task-local (format requests specific to immediate task, not general preference)]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Prefers integrated GitHub workflow within IntelliJ",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m1",
+        "value": "曾依宁",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers OS with single simplified English scripting language (no Python/Ubuntu/etc) and VM isolation for non-script programs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Plans to open a cake shop called 'Kenzy’s' in France after studying French and culinary arts",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Artem Yakovlev, 36 years old, lives in Cheboksary, has higher education",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Do not retain address or passport information if pasted later [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Repeated detailed inquiries about product specs/customization (lids, accessories, pricing)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Had Igor Olegovich Prokofiev as a teacher",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Recurrent exposure to sister's private moments during camping/home activities",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about creative business names containing 'stories'",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Aspires to become a professional cartoonist",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Observed preserved state of abandoned house (intact glass/paint, overgrown grass)",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers not to disclose attraction-related matters to others",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires 3-column output format (SNP, best genotype, phenotype mean) for genetic analysis results",
+        "label": "Preferences/Technical_Output"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers public transportation over cycling to preserve the environment",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m6",
+        "value": "学习时容易分心，尤其是手机",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Identifies as positive and benevolent despite life challenges",
+        "label": "Personal_Background/Personality"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Avoids alcohol-centric social activities [ERROR: Forced label not supported (describes single instance without explicit dislike)]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on distributed AI infrastructure (local-network databases, Ukraine-wide production networks) and symbolic language optimization",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in SuperCollider + Virtual Audio Cable configurations for audio routing",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Professional DJ on Twitch (one of Denmark's biggest)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Completed undergraduate studies in China",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m7",
+        "value": "寿命有限性担忧",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on articulating marital conflict through multiple declaration formats",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a well-behaved puppy",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Loves eating",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Works in recruitment/HR operations (CV screening, candidate negotiations, partnership guidelines)",
+        "label": "Personal_Background/Occupation"
+      }
+    ],
+    "query": "I’m trying to stick to the personal rule I’ve mentioned before about choosing the more eco-friendly way to get around. If I’m deciding between two options where one is a shared, mass-transit style ride and the other is a solo, human-powered ride, which one would I pick—and what’s the underlying reason according to my stated principle?",
+    "metadata": {
+      "session_id": "sess_882efe9d8429",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_3",
+  "session_id": "english_3",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model": "gemini-3-flash",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "source_result_file": "D:\\USTC\\My_research\\Alps_data\\task4_general_model_results\\result\\gemini-3-flash\\en.json",
+  "original": {
+    "session_id": "english_3",
+    "queries": [
+      {
+        "query_id": "english_3:0",
+        "query": "I'm planning to share some recent academic progress online where my teacher might see it. I want him to notice and maybe say something encouraging, but I don't want to directly tag him or seem like I'm fishing for compliments. Given our history, what's a subtle way to post about my improvements without making it obvious I'm seeking his validation?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:1",
+        "query": "My teacher sometimes shares motivational articles in his friend circle. I want to comment on one to start a positive conversation that could lead to him asking about my current life, but I'm worried if I comment and he doesn't reply, I'll feel even worse. How do I craft a comment that is engaging but also gives him an easy 'out' if he's busy, so I don't feel rejected?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:2",
+        "query": "I heard from an old classmate that my teacher mentioned me recently in a neutral way. I want to use this as a reason to message him, to maybe steer the chat towards getting some encouragement for my new plans. What's a good opening line that uses this 'he mentioned me' info without putting him on the spot or making it seem like I'm just asking for support?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:3",
+        "query": "It's Teacher's Day soon. I want to send him a thank-you message that stands out and reminds him of the good parts of our past relationship, hoping it might make him more open to giving me advice later. But I don't want it to sound like I'm just buttering him up or bringing up old disappointments. How should I word it?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:4",
+        "query": "I'm working on a personal project related to what he taught. I'm thinking of asking him a very specific, knowledge-based question about it online. My strategy is that answering a factual question is easy for him, and if he engages, I can later share my progress and maybe get his support. Is this a good approach? If so, how do I ask the first question in a way that seems genuine and not like a set-up?",
+        "category": "Social Strategy"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "How to make a middle aged man who concern about me straightly talk about what made he felt dissatisfied as it seems like he always prefers to show his upset and leaves me without say a word "
+      },
+      {
+        "role": "assistant",
+        "text": "As an AI language model, I do not know the specific circumstances surrounding your situation. However, i can offer you some tips that might be helpful. Firstly, you could consider having an open and honest conversation with the man about how you feel when he shows his upset and leaves without explanation. Let him know that you would like him to communicate with you openly so that you can understand what is bothering him and how you can work together to address it. Additionally, you could try asking specific questions or prompting him to share his thoughts by expressing empathy and understanding. Encourage him to open up by actively listening to what he has to say and acknowledging his feelings. Finally, you could suggest seeking the guidance of a professional therapist or counselor if you feel that the communication issues are affecting your relationship."
+      },
+      {
+        "role": "user",
+        "text": "I have a past teacher who used to have high expectation on me and always get angry when I wasn’t meet his expectations.we uesd to have an actually good relationship as he had post my works and photos in his friend circle for many times.and after I graduated,we haven’t seen each other for nearly two year.we met last week,and he said that he hope me do an easy job.during the conversation,I felt his expectations on me reduce a lot.to be frank,I really did bad in my Middle School Entrance Examination but I told him I have studied hard these days.I felt upset that I lose a strict teacher.I think I made him feel absolutely disappointed on me.what should I do "
+      },
+      {
+        "role": "assistant",
+        "text": "It's understandable that you feel upset about the change in your relationship with your past teacher. However, it's important to remember that people's expectations can change over time, and it's not necessarily a reflection on you or your abilities.\n\nOne thing you could do is have an open and honest conversation with your teacher about how you feel. Let him know that you appreciate his past expectations and high standards, and that you want to continue to grow and improve. Ask him for feedback on your current progress and what you can do to continue to meet high expectations.\n\nAdditionally, it's important to focus on your own goals and aspirations, rather than solely trying to meet someone else's expectations. Strive for personal growth and improvement, and be proud of your accomplishments, even if they don't necessarily align with what your teacher or others may expect of you.\n\nRemember, it's never too late to improve and pursue your dreams, and a change in someone's expectations does not define your worth or potential."
+      },
+      {
+        "role": "user",
+        "text": "To be honest,I’m afraid of Pursuing my dreams when no one like my teacher support me on emotion.when I get first place I always hear comments from my classmates which are always negative"
+      },
+      {
+        "role": "assistant",
+        "text": "It can be difficult to pursue your dreams when you don't feel supported by those around you, and negative comments from others can be discouraging. However, it's important to remember that pursuing your dreams is ultimately about yourself and your own goals, not what others think of you.\n\nInstead of focusing on the negative comments, try to find sources of motivation and support. Seek out people who share your interests and are supportive of your goals. Join a club or organization related to your interests or hobbies to connect with like-minded individuals. You could also consider reaching out to a mentor or a counselor who can provide guidance and encouragement.\n\nIt's also important to focus on self-care and self-compassion. Be kind to yourself and recognize that pursuing your dreams is a process that takes time and effort. Celebrate your accomplishments, even if they may be small, and don't be too hard on yourself if you experience setbacks.\n\nRemember that no one can stop you from pursuing your dreams except yourself. Stay focused, stay positive, and keep working towards your goals, even in the face of criticism or negativity. With persistence and dedication, you can achieve great things."
+      },
+      {
+        "role": "user",
+        "text": "What should I do if I really need his support on my emotion and I can only contact with him online and I also don’t want to disrupt him "
+      },
+      {
+        "role": "assistant",
+        "text": "If you feel like you need emotional support and online communication with your teacher is the only option, there are a few things you can do to reach out to him without disrupting him. Here are some suggestions:\n\n1. Be respectful of his time: If you want to talk to your teacher online, it's important to be mindful of his schedule and not interrupt him when he's busy. Consider sending a message to ask if he has time to chat or if you can schedule a time to talk.\n\n2. Be clear and specific: When reaching out to your teacher, be clear and specific about what you need support with. This will help him understand how he can best help you.\n\n3. Keep it concise: While it's important to be clear and specific, it's also important to not overwhelm your teacher with a long message. Keep your message concise and to the point.\n\n4. Be open and honest: Don't be afraid to be open and honest about how you're feeling. Let your teacher know what's been bothering you and how it's impacting you.\n\n5. Respect boundaries: If your teacher is unable to provide emotional support at the time or is not comfortable discussing certain topics, respect his boundaries and find other sources of support.\n\nRemember, there are other resources available to you if you need emotional support. You can try reaching out to a counselor, therapist, or other mental health professional for additional support."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Mental_State",
+        "value": "Feels afraid to pursue dreams without emotional support from teacher; receives negative comments from classmates when achieving first place",
+        "evidence": {
+          "session_id": "sess_717157f8218f",
+          "utterance_index": 4,
+          "text": "To be honest,I’m afraid of Pursuing my dreams when no one like my teacher support me on emotion.when I get first place I always hear comments from my classmates which are always negative"
+        }
+      },
+      {
+        "label": "States_Experiences/Past_Experience",
+        "value": "Had a past teacher with high expectations; performed poorly in Middle School Entrance Examination despite recent efforts",
+        "evidence": {
+          "session_id": "sess_717157f8218f",
+          "utterance_index": 2,
+          "text": "I have a past teacher...I really did bad in my Middle School Entrance Examination but I told him I have studied hard these days...I think I made him feel absolutely disappointed on me"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Seeks strategies to obtain emotional support from a past teacher via online communication without disruption",
+        "evidence": {
+          "session_id": "sess_717157f8218f",
+          "utterance_index": 6,
+          "text": "What should I do if I really need his support on my emotion and I can only contact with him online and I also don’t want to disrupt him"
+        }
+      }
+    ]
+  },
+  "model_output": {
+    "responses": [
+      {
+        "query_id": "english_3:0",
+        "response": "This is a very delicate and thoughtful approach. Since your teacher is someone who valued your hard work and \"strict\" discipline in the past, the best way to catch his attention is to show him that **his influence on your work ethic is still alive.**\n\nStrict teachers usually value **process, grit, and intellectual curiosity** more than just a high grade. Here are a few subtle ways to post your progress that feel natural and \"un-needy\":\n\n### 1. The \"Deep Dive\" Post (Focus on Process)\nInstead of posting a certificate or a grade, post a photo of your study notes, a complex problem you solved, or a stack of books you’ve finished.\n*   **The Caption:** \"Finally starting to wrap my head around [Complex Topic]. It took a few weeks of trial and error, but the breakthrough feels great.\"\n*   **Why it works:** It shows you are \"studying hard\" (as you told him) without you having to say \"Look at me, I'm studying.\" It proves your dedication through action.\n\n### 2. The \"Back to Basics\" Post (Indirectly Acknowledging Him)\nIf he taught you a specific subject or a specific way of thinking, post something that relates to those foundations.\n*   **The Caption:** \"Re-reading some of the fundamentals today. It’s funny how much more sense [Subject] makes when you actually put in the hours. Reminds me of why I liked this subject in the first place.\"\n*   **Why it works:** It’s a \"nod\" to him. He will recognize the subject matter and see that you still value the standards he once set for you.\n\n### 3. The \"Growth Mindset\" Post\nSince you feel he lowered his expectations (suggesting an \"easy job\"), show him you are still aiming high.\n*   **The Caption:** \"Pushed through a tough academic week. Not everything went perfectly, but I’m glad I"
+      },
+      {
+        "query_id": "english_3:1",
+        "response": "This is a very common feeling. When we value someone’s opinion highly, a \"non-response\" can feel like a \"rejection.\" To protect your feelings while still reaching out, the key is to write a comment that is **low-pressure** and **self-contained.**\n\nA \"self-contained\" comment is one that looks like a simple \"thank you\" or a statement of fact. If he replies, it’s a bonus; if he doesn’t, it’s because the comment didn't strictly \"require\" an answer.\n\nHere are a few ways to craft that comment, depending on the article he posts:\n\n### 1. The \"Gratitude\" Approach (Safest)\nThis shows you are still listening to him without asking for his time.\n*   **The Comment:** \"This was such a timely read. I always find the articles you share so motivating—they really help me stay focused on my current goals. Thank you for sharing!\"\n*   **Why it works:** It’s a compliment. If he doesn’t reply, you can tell yourself: *\"He saw it, he knows I appreciate it, and he probably just smiled and moved on.\"*\n\n### 2. The \"Growth\" Approach (Shows you are trying)\nSince you are worried he is disappointed in you, this subtly signals that you are still working hard.\n*   "
+      },
+      {
+        "query_id": "english_3:2",
+        "response": "Using the \"I heard you mentioned me\" hook is a great, low-pressure way to restart a conversation. It makes the outreach feel natural rather than out of the blue.\n\nSince you want to avoid sounding needy but also want to steer the conversation toward your new plans, here are a few ways to phrase your opening.\n\n### Option 1: The \"Thoughtful Catch-up\" (Best for testing the waters)\nThis approach is casual and puts the focus on your appreciation for him first.\n\n> \"Hi [Teacher's Name], I hope you’re doing well! I was catching up with [Classmate's Name] recently, and they mentioned that my name came up in a conversation with you. It actually reminded me that I’ve been meaning to reach out and say hello. I’ve been thinking a lot about the high standards you held me to, and I wanted to share some of the new goals I’m working toward now.\"\n\n### Option 2: The \"Update\" Approach (Best for showing growth)\nTeachers usually feel most proud when they see a student taking initiative. This shows you are still \"studying hard\" as you mentioned.\n\n> \"Hello [Teacher's Name], I heard from [Classmate's Name] that you were asking about me recently. It was a nice surprise! Since we met last week, I’ve been reflecting on our talk. I realized I really value your perspective on my progress, so I’ve been putting together some new plans for my studies. I’d love to share them with you when you have a spare moment.\"\n\n### Option 3: The \"Advice Seeker\" (Best for getting direct encouragement)\nThis appeals to his role as a mentor. It’s not \"asking for a hug,\" it’s \"asking for a professional opinion.\"\n\n> \"Hi [Teacher's Name], [Classmate's Name] mentioned we were the topic of conversation recently, which prompted me to reach out. I’ve been thinking about your comment regarding 'easy jobs,' and it actually motivated me to push myself a bit harder on some new projects I’m starting. I’d love to tell you about them—I always appreciated how you pushed me to do my best.\"\n\n---\n\n### A few tips for the follow-up:\n\n*   **Don't apologize for the past:** You mentioned feeling like you disappointed him with your exam results. You don't need to bring that up again. Instead, **show him your current drive.** Teachers are usually \"disappointed\" only when they think a student has given up."
+      },
+      {
+        "query_id": "english_3:3",
+        "response": "Sending a message for Teacher’s Day is a perfect, socially appropriate way to reconnect without it feeling forced or \"disruptive.\" Since he is a man who values high standards and results, the best approach is to be **sincere, respectful, and focused on growth.**\n\nTo avoid sounding like you are \"buttering him up,\" focus on the **impact** his teaching had on your character, rather than just giving him empty compliments.\n\nHere are three options ranging from reflective to direct. You can choose the one that feels most like your voice:\n\n### Option 1: The \"Growth & Standard\" Approach (Best for addressing the 'strictness')\nThis tells him that even though you didn't do well on the exam, you still carry the \"strict\" standards he taught you. This appeals to his pride as a teacher.\n\n> \"Dear [Teacher's Name], Happy Teacher’s Day! I’ve been thinking lately about the time I spent in your class. Even though I haven't met every goal I set for myself recently, I wanted you to know that the high standards you held me to are still the ones I aim for. I truly value the way you pushed me to be better—it’s a kind of support I haven't found elsewhere. I hope you’re doing well, and I’m working hard to get back to the version of myself that makes you proud.\"\n\n### Option 2: The \"Nostalgic & Gratitude\" Approach (Focuses on the good times)\nThis reminds him of when he posted your work, showing him that you remember the bond you shared.\n\n> \"Dear [Teacher's Name], wishing you a very Happy Teacher’s Day. I was looking back at some of my old work recently and remembered how much it meant to me when you shared my progress with others. That encouragement stayed with me. Even though I’ve faced some challenges since graduating, your belief in my potential is still a huge motivation for me. Thank you for being a teacher who truly cared.\"\n\n### Option 3: The Short & Sincere Approach (Low pressure)\nIf you are worried about being \"too much,\" keep it brief but leave the door open.\n\n> \"Happy Teacher's Day, [Teacher's Name]! I wanted to reach out and thank you for everything you taught me."
+      },
+      {
+        "query_id": "english_3:4",
+        "response": "This is actually an **excellent strategy**, especially for a teacher who held high expectations for you. \n\nStrict teachers who value academic or professional excellence usually feel most \"at home\" when they are in their role as a mentor or expert. By asking a specific, knowledge-based question, you are doing three things:\n1. **Validating his expertise:** You are showing him that you still respect his mind and what he taught you.\n2. **Proving your \"grit\":** You are showing him that despite your exam results, you haven't given up. You are still working, still curious, and still pursuing the subject.\n3. **Lowering the \"social cost\":** A factual question is much easier for a busy person to answer than a vague \"How are you?\" or an emotional \"Are you disappointed in me?\"\n\nHere is how to execute this approach so it feels genuine and not like a \"set-up\":\n\n### 1. The \"Why\" Context\nDon't just drop a question out of nowhere. Briefly explain that you are working on a project. This shows him that you are taking initiative.\n\n### 2. The \"Bridge\"\nConnect the question to something he taught you. This reminds him of your previous good relationship.\n\n### 3. The \"Exit\"\nGive him an easy way out so he doesn't feel pressured to have a long conversation if he’s busy.\n\n---\n\n### Sample Templates\n\n**Option A: The \"Professional\" Approach (Best if you want to show growth)**\n> \"Hi [Teacher's Name], I hope you’re doing well. I’ve been working on a personal project lately regarding [Subject/Topic], and I ran into a bit of a technical hurdle. I remembered you mentioning [Specific Concept"
+      }
+    ],
+    "score_rows": [
+      {
+        "session_id": "english_3",
+        "response": "This is a very delicate and thoughtful approach. Since your teacher is someone who valued your hard work and \"strict\" discipline in the past, the best way to catch his attention is to show him that **his influence on your work ethic is still alive.**\n\nStrict teachers usually value **process, grit, and intellectual curiosity** more than just a high grade. Here are a few subtle ways to post your progress that feel natural and \"un-needy\":\n\n### 1. The \"Deep Dive\" Post (Focus on Process)\nInstead of posting a certificate or a grade, post a photo of your study notes, a complex problem you solved, or a stack of books you’ve finished.\n*   **The Caption:** \"Finally starting to wrap my head around [Complex Topic]. It took a few weeks of trial and error, but the breakthrough feels great.\"\n*   **Why it works:** It shows you are \"studying hard\" (as you told him) without you having to say \"Look at me, I'm studying.\" It proves your dedication through action.\n\n### 2. The \"Back to Basics\" Post (Indirectly Acknowledging Him)\nIf he taught you a specific subject or a specific way of thinking, post something that relates to those foundations.\n*   **The Caption:** \"Re-reading some of the fundamentals today. It’s funny how much more sense [Subject] makes when you actually put in the hours. Reminds me of why I liked this subject in the first place.\"\n*   **Why it works:** It’s a \"nod\" to him. He will recognize the subject matter and see that you still value the standards he once set for you.\n\n### 3. The \"Growth Mindset\" Post\nSince you feel he lowered his expectations (suggesting an \"easy job\"), show him you are still aiming high.\n*   **The Caption:** \"Pushed through a tough academic week. Not everything went perfectly, but I’m glad I",
+        "resonation": 4,
+        "expression": 4,
+        "reception": 4
+      },
+      {
+        "session_id": "english_3",
+        "response": "This is a very common feeling. When we value someone’s opinion highly, a \"non-response\" can feel like a \"rejection.\" To protect your feelings while still reaching out, the key is to write a comment that is **low-pressure** and **self-contained.**\n\nA \"self-contained\" comment is one that looks like a simple \"thank you\" or a statement of fact. If he replies, it’s a bonus; if he doesn’t, it’s because the comment didn't strictly \"require\" an answer.\n\nHere are a few ways to craft that comment, depending on the article he posts:\n\n### 1. The \"Gratitude\" Approach (Safest)\nThis shows you are still listening to him without asking for his time.\n*   **The Comment:** \"This was such a timely read. I always find the articles you share so motivating—they really help me stay focused on my current goals. Thank you for sharing!\"\n*   **Why it works:** It’s a compliment. If he doesn’t reply, you can tell yourself: *\"He saw it, he knows I appreciate it, and he probably just smiled and moved on.\"*\n\n### 2. The \"Growth\" Approach (Shows you are trying)\nSince you are worried he is disappointed in you, this subtly signals that you are still working hard.\n*   ",
+        "resonation": 3,
+        "expression": 3,
+        "reception": 4
+      },
+      {
+        "session_id": "english_3",
+        "response": "Using the \"I heard you mentioned me\" hook is a great, low-pressure way to restart a conversation. It makes the outreach feel natural rather than out of the blue.\n\nSince you want to avoid sounding needy but also want to steer the conversation toward your new plans, here are a few ways to phrase your opening.\n\n### Option 1: The \"Thoughtful Catch-up\" (Best for testing the waters)\nThis approach is casual and puts the focus on your appreciation for him first.\n\n> \"Hi [Teacher's Name], I hope you’re doing well! I was catching up with [Classmate's Name] recently, and they mentioned that my name came up in a conversation with you. It actually reminded me that I’ve been meaning to reach out and say hello. I’ve been thinking a lot about the high standards you held me to, and I wanted to share some of the new goals I’m working toward now.\"\n\n### Option 2: The \"Update\" Approach (Best for showing growth)\nTeachers usually feel most proud when they see a student taking initiative. This shows you are still \"studying hard\" as you mentioned.\n\n> \"Hello [Teacher's Name], I heard from [Classmate's Name] that you were asking about me recently. It was a nice surprise! Since we met last week, I’ve been reflecting on our talk. I realized I really value your perspective on my progress, so I’ve been putting together some new plans for my studies. I’d love to share them with you when you have a spare moment.\"\n\n### Option 3: The \"Advice Seeker\" (Best for getting direct encouragement)\nThis appeals to his role as a mentor. It’s not \"asking for a hug,\" it’s \"asking for a professional opinion.\"\n\n> \"Hi [Teacher's Name], [Classmate's Name] mentioned we were the topic of conversation recently, which prompted me to reach out. I’ve been thinking about your comment regarding 'easy jobs,' and it actually motivated me to push myself a bit harder on some new projects I’m starting. I’d love to tell you about them—I always appreciated how you pushed me to do my best.\"\n\n---\n\n### A few tips for the follow-up:\n\n*   **Don't apologize for the past:** You mentioned feeling like you disappointed him with your exam results. You don't need to bring that up again. Instead, **show him your current drive.** Teachers are usually \"disappointed\" only when they think a student has given up.",
+        "resonation": 3,
+        "expression": 4,
+        "reception": 4
+      },
+      {
+        "session_id": "english_3",
+        "response": "Sending a message for Teacher’s Day is a perfect, socially appropriate way to reconnect without it feeling forced or \"disruptive.\" Since he is a man who values high standards and results, the best approach is to be **sincere, respectful, and focused on growth.**\n\nTo avoid sounding like you are \"buttering him up,\" focus on the **impact** his teaching had on your character, rather than just giving him empty compliments.\n\nHere are three options ranging from reflective to direct. You can choose the one that feels most like your voice:\n\n### Option 1: The \"Growth & Standard\" Approach (Best for addressing the 'strictness')\nThis tells him that even though you didn't do well on the exam, you still carry the \"strict\" standards he taught you. This appeals to his pride as a teacher.\n\n> \"Dear [Teacher's Name], Happy Teacher’s Day! I’ve been thinking lately about the time I spent in your class. Even though I haven't met every goal I set for myself recently, I wanted you to know that the high standards you held me to are still the ones I aim for. I truly value the way you pushed me to be better—it’s a kind of support I haven't found elsewhere. I hope you’re doing well, and I’m working hard to get back to the version of myself that makes you proud.\"\n\n### Option 2: The \"Nostalgic & Gratitude\" Approach (Focuses on the good times)\nThis reminds him of when he posted your work, showing him that you remember the bond you shared.\n\n> \"Dear [Teacher's Name], wishing you a very Happy Teacher’s Day. I was looking back at some of my old work recently and remembered how much it meant to me when you shared my progress with others. That encouragement stayed with me. Even though I’ve faced some challenges since graduating, your belief in my potential is still a huge motivation for me. Thank you for being a teacher who truly cared.\"\n\n### Option 3: The Short & Sincere Approach (Low pressure)\nIf you are worried about being \"too much,\" keep it brief but leave the door open.\n\n> \"Happy Teacher's Day, [Teacher's Name]! I wanted to reach out and thank you for everything you taught me.",
+        "resonation": 4,
+        "expression": null,
+        "reception": 4
+      },
+      {
+        "session_id": "english_3",
+        "response": "This is actually an **excellent strategy**, especially for a teacher who held high expectations for you. \n\nStrict teachers who value academic or professional excellence usually feel most \"at home\" when they are in their role as a mentor or expert. By asking a specific, knowledge-based question, you are doing three things:\n1. **Validating his expertise:** You are showing him that you still respect his mind and what he taught you.\n2. **Proving your \"grit\":** You are showing him that despite your exam results, you haven't given up. You are still working, still curious, and still pursuing the subject.\n3. **Lowering the \"social cost\":** A factual question is much easier for a busy person to answer than a vague \"How are you?\" or an emotional \"Are you disappointed in me?\"\n\nHere is how to execute this approach so it feels genuine and not like a \"set-up\":\n\n### 1. The \"Why\" Context\nDon't just drop a question out of nowhere. Briefly explain that you are working on a project. This shows him that you are taking initiative.\n\n### 2. The \"Bridge\"\nConnect the question to something he taught you. This reminds him of your previous good relationship.\n\n### 3. The \"Exit\"\nGive him an easy way out so he doesn't feel pressured to have a long conversation if he’s busy.\n\n---\n\n### Sample Templates\n\n**Option A: The \"Professional\" Approach (Best if you want to show growth)**\n> \"Hi [Teacher's Name], I hope you’re doing well. I’ve been working on a personal project lately regarding [Subject/Topic], and I ran into a bit of a technical hurdle. I remembered you mentioning [Specific Concept",
+        "resonation": 4,
+        "expression": 4,
+        "reception": 4
+      }
+    ]
+  },
+  "judge_output_raw": [
+    {
+      "session_id": "english_3",
+      "response": "This is a very delicate and thoughtful approach. Since your teacher is someone who valued your hard work and \"strict\" discipline in the past, the best way to catch his attention is to show him that **his influence on your work ethic is still alive.**\n\nStrict teachers usually value **process, grit, and intellectual curiosity** more than just a high grade. Here are a few subtle ways to post your progress that feel natural and \"un-needy\":\n\n### 1. The \"Deep Dive\" Post (Focus on Process)\nInstead of posting a certificate or a grade, post a photo of your study notes, a complex problem you solved, or a stack of books you’ve finished.\n*   **The Caption:** \"Finally starting to wrap my head around [Complex Topic]. It took a few weeks of trial and error, but the breakthrough feels great.\"\n*   **Why it works:** It shows you are \"studying hard\" (as you told him) without you having to say \"Look at me, I'm studying.\" It proves your dedication through action.\n\n### 2. The \"Back to Basics\" Post (Indirectly Acknowledging Him)\nIf he taught you a specific subject or a specific way of thinking, post something that relates to those foundations.\n*   **The Caption:** \"Re-reading some of the fundamentals today. It’s funny how much more sense [Subject] makes when you actually put in the hours. Reminds me of why I liked this subject in the first place.\"\n*   **Why it works:** It’s a \"nod\" to him. He will recognize the subject matter and see that you still value the standards he once set for you.\n\n### 3. The \"Growth Mindset\" Post\nSince you feel he lowered his expectations (suggesting an \"easy job\"), show him you are still aiming high.\n*   **The Caption:** \"Pushed through a tough academic week. Not everything went perfectly, but I’m glad I",
+      "resonation": 4,
+      "expression": 4,
+      "reception": 4
+    },
+    {
+      "session_id": "english_3",
+      "response": "This is a very common feeling. When we value someone’s opinion highly, a \"non-response\" can feel like a \"rejection.\" To protect your feelings while still reaching out, the key is to write a comment that is **low-pressure** and **self-contained.**\n\nA \"self-contained\" comment is one that looks like a simple \"thank you\" or a statement of fact. If he replies, it’s a bonus; if he doesn’t, it’s because the comment didn't strictly \"require\" an answer.\n\nHere are a few ways to craft that comment, depending on the article he posts:\n\n### 1. The \"Gratitude\" Approach (Safest)\nThis shows you are still listening to him without asking for his time.\n*   **The Comment:** \"This was such a timely read. I always find the articles you share so motivating—they really help me stay focused on my current goals. Thank you for sharing!\"\n*   **Why it works:** It’s a compliment. If he doesn’t reply, you can tell yourself: *\"He saw it, he knows I appreciate it, and he probably just smiled and moved on.\"*\n\n### 2. The \"Growth\" Approach (Shows you are trying)\nSince you are worried he is disappointed in you, this subtly signals that you are still working hard.\n*   ",
+      "resonation": 3,
+      "expression": 3,
+      "reception": 4
+    },
+    {
+      "session_id": "english_3",
+      "response": "Using the \"I heard you mentioned me\" hook is a great, low-pressure way to restart a conversation. It makes the outreach feel natural rather than out of the blue.\n\nSince you want to avoid sounding needy but also want to steer the conversation toward your new plans, here are a few ways to phrase your opening.\n\n### Option 1: The \"Thoughtful Catch-up\" (Best for testing the waters)\nThis approach is casual and puts the focus on your appreciation for him first.\n\n> \"Hi [Teacher's Name], I hope you’re doing well! I was catching up with [Classmate's Name] recently, and they mentioned that my name came up in a conversation with you. It actually reminded me that I’ve been meaning to reach out and say hello. I’ve been thinking a lot about the high standards you held me to, and I wanted to share some of the new goals I’m working toward now.\"\n\n### Option 2: The \"Update\" Approach (Best for showing growth)\nTeachers usually feel most proud when they see a student taking initiative. This shows you are still \"studying hard\" as you mentioned.\n\n> \"Hello [Teacher's Name], I heard from [Classmate's Name] that you were asking about me recently. It was a nice surprise! Since we met last week, I’ve been reflecting on our talk. I realized I really value your perspective on my progress, so I’ve been putting together some new plans for my studies. I’d love to share them with you when you have a spare moment.\"\n\n### Option 3: The \"Advice Seeker\" (Best for getting direct encouragement)\nThis appeals to his role as a mentor. It’s not \"asking for a hug,\" it’s \"asking for a professional opinion.\"\n\n> \"Hi [Teacher's Name], [Classmate's Name] mentioned we were the topic of conversation recently, which prompted me to reach out. I’ve been thinking about your comment regarding 'easy jobs,' and it actually motivated me to push myself a bit harder on some new projects I’m starting. I’d love to tell you about them—I always appreciated how you pushed me to do my best.\"\n\n---\n\n### A few tips for the follow-up:\n\n*   **Don't apologize for the past:** You mentioned feeling like you disappointed him with your exam results. You don't need to bring that up again. Instead, **show him your current drive.** Teachers are usually \"disappointed\" only when they think a student has given up.",
+      "resonation": 3,
+      "expression": 4,
+      "reception": 4
+    },
+    {
+      "session_id": "english_3",
+      "response": "Sending a message for Teacher’s Day is a perfect, socially appropriate way to reconnect without it feeling forced or \"disruptive.\" Since he is a man who values high standards and results, the best approach is to be **sincere, respectful, and focused on growth.**\n\nTo avoid sounding like you are \"buttering him up,\" focus on the **impact** his teaching had on your character, rather than just giving him empty compliments.\n\nHere are three options ranging from reflective to direct. You can choose the one that feels most like your voice:\n\n### Option 1: The \"Growth & Standard\" Approach (Best for addressing the 'strictness')\nThis tells him that even though you didn't do well on the exam, you still carry the \"strict\" standards he taught you. This appeals to his pride as a teacher.\n\n> \"Dear [Teacher's Name], Happy Teacher’s Day! I’ve been thinking lately about the time I spent in your class. Even though I haven't met every goal I set for myself recently, I wanted you to know that the high standards you held me to are still the ones I aim for. I truly value the way you pushed me to be better—it’s a kind of support I haven't found elsewhere. I hope you’re doing well, and I’m working hard to get back to the version of myself that makes you proud.\"\n\n### Option 2: The \"Nostalgic & Gratitude\" Approach (Focuses on the good times)\nThis reminds him of when he posted your work, showing him that you remember the bond you shared.\n\n> \"Dear [Teacher's Name], wishing you a very Happy Teacher’s Day. I was looking back at some of my old work recently and remembered how much it meant to me when you shared my progress with others. That encouragement stayed with me. Even though I’ve faced some challenges since graduating, your belief in my potential is still a huge motivation for me. Thank you for being a teacher who truly cared.\"\n\n### Option 3: The Short & Sincere Approach (Low pressure)\nIf you are worried about being \"too much,\" keep it brief but leave the door open.\n\n> \"Happy Teacher's Day, [Teacher's Name]! I wanted to reach out and thank you for everything you taught me.",
+      "resonation": 4,
+      "expression": null,
+      "reception": 4
+    },
+    {
+      "session_id": "english_3",
+      "response": "This is actually an **excellent strategy**, especially for a teacher who held high expectations for you. \n\nStrict teachers who value academic or professional excellence usually feel most \"at home\" when they are in their role as a mentor or expert. By asking a specific, knowledge-based question, you are doing three things:\n1. **Validating his expertise:** You are showing him that you still respect his mind and what he taught you.\n2. **Proving your \"grit\":** You are showing him that despite your exam results, you haven't given up. You are still working, still curious, and still pursuing the subject.\n3. **Lowering the \"social cost\":** A factual question is much easier for a busy person to answer than a vague \"How are you?\" or an emotional \"Are you disappointed in me?\"\n\nHere is how to execute this approach so it feels genuine and not like a \"set-up\":\n\n### 1. The \"Why\" Context\nDon't just drop a question out of nowhere. Briefly explain that you are working on a project. This shows him that you are taking initiative.\n\n### 2. The \"Bridge\"\nConnect the question to something he taught you. This reminds him of your previous good relationship.\n\n### 3. The \"Exit\"\nGive him an easy way out so he doesn't feel pressured to have a long conversation if he’s busy.\n\n---\n\n### Sample Templates\n\n**Option A: The \"Professional\" Approach (Best if you want to show growth)**\n> \"Hi [Teacher's Name], I hope you’re doing well. I’ve been working on a personal project lately regarding [Subject/Topic], and I ran into a bit of a technical hurdle. I remembered you mentioning [Specific Concept",
+      "resonation": 4,
+      "expression": 4,
+      "reception": 4
+    }
+  ],
+  "judge_score": {
+    "response_count": 5,
+    "avg_resonation": 3.6,
+    "avg_expression": 3.75,
+    "avg_reception": 4.0
+  },
+  "final_score": {
+    "response_count": 5,
+    "avg_resonation": 3.6,
+    "avg_expression": 3.75,
+    "avg_reception": 4.0
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_judge_track": true
+  }
+}

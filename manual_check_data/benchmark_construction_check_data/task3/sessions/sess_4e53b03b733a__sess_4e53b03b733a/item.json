@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_4e53b03b733a",
+  "session_id": "sess_4e53b03b733a",
+  "stratum": "Personal_Background/Identity",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "qwen3-max",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Uses alias 'Cameron McCaffrey' with email cmccaff1@fau.edu for scam-baiting",
+      "label": "Personal_Background/Identity"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m3",
+        "value": "Name derived from Lord Shiva (strength/wisdom symbolism)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "technical inquiry",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Loves Mexico",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers Japanese-created cultural resources to avoid English influence",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Financial stress due to insufficient salary (¥20,000/month) to support family",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Believes freedom is consciousness-driven harmony between personal and collective goals",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Emphasizes holiness, humility, and divine guidance in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interest in sports activities during travel",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Determined to obtain doctorate and become faculty member at local university",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Self-identifies as anti-war and opposes Chinese government's Taiwan reunification approach",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained focus on KivyMD app implementation (layout, WebView integration, error resolution)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers content written in their personal writing style and undetectable by AI tools",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Requires extreme itinerary detail including transfers and ticket purchasing info",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Publication fee constraints",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Unresolved feelings for ex-partner affecting current well-being",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curiosity about mycorrhiza mechanisms and involved organisms",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses alias 'Cameron McCaffrey' with email cmccaff1@fau.edu for scam-baiting",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Novels where protagonist daily collects beauties into a harem",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concerts as a relaxation method involving music and socializing",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in ChatGPT implementation/PC usage",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Has a cousin named Valerie of similar age",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely a creative writer, game narrative designer, humanities teacher/student, with strong interest and professional need in the collision of historical and contemporary culture, cross-media storytelling, and linguistic style imitation.",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about passive income methods and investment opportunities (450M/1B Tomans, Google Maps monetization)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sister requires constant physical proximity during outdoor activities",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aiming to gain weight",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Dislikes bland rice",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Possibly affiliated with Peking University School of Transnational Law (STL) [ERROR: Unsupported by evidence - knowledge correction does not imply affiliation]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in improving English writing proficiency through iterative refinement",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Applying for a part-time salesperson job at Uniqlo",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works at CONAFE",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers family-friendly Indian songs for car rides with family",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Password is 12345",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in advanced academic writing techniques and precise word count management",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Entrepreneur starting an event planning and tableware rental business",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers to practice English tenses through conversational chat with corrections [ERROR: Role-play/third-party possible]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires formal/cohesive paraphrasing of technical content",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Milvus for vector search implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers relaxation spots (natural parks, spas, cafes) after tiring work weeks",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Trains models using GPU with 12GB VRAM capacity",
+        "label": "Constraints_and_Boundaries/Hardware_Limitations"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has tinnitus",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires grammar checks in professional communications [ERROR: Task-local instruction pattern]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers digital books for portability and note-taking",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Felt inadequate after recent test",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Wants to upgrade Instagram photography affordably",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about organizing college club events under tight constraints without institutional resources",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers sensitive path/passport information not retained if pasted later [ERROR: Unsupported by evidence - no user mention of data retention preferences in session]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Ingresar a MENSA y desarrollar centro propio de inteligencia",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likes the song 'Giorgio by Moroder' by Daft Punk",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Gas pedal fluctuation in Peugeot 206",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Maintains strict sleep schedule (7hrs worknights, 8-9hrs free days)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Outgoing and seeks global friendships",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "9 years of experience in HR-related fields across international schools, consulting, finance, commerce, and tourism",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about technical details of Mercedes AMG engines and Porsche race car safety equipment",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers formatted as 80-110 word IELTS speaking test responses without AI disclosure",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires structured problem solutions starting with 'Given' (Дано) sections",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Longstanding relationship problems since meeting Bouchaibe",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids external services/cloud dependencies for document system",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers campsites with more tent pitches than mobile homes",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Has ADHD",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep curiosity about theological concepts (Antediluvians/Great Flood) and speculative connections to geological features like Lake Baikal/permafrost",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "年度目标包含英语学习和沟通技巧提升",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in creating design specifications (logos/presentations/banners/infographics) with stylistic constraints",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about medical assessment tools (BOT-2, range of motion), diagnostic criteria (hEDS), and muscle testing scales in physiotherapy",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about Canadian novellas under 100 pages",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "辅导员许娜",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Has a father",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "固态纳米孔测序领域科研人员（表面物理国家重点实验室）",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Table tennis",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers village-themed content generation [ERROR: Task-local request without evidence of long-term preference]",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "From Argentina",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Conducting academic research on legal aspects of civil service conflict of interest regulation",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about exhaust system modifications for Saab 9-5 2.3T (diameter, materials, sound design)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "造价师",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Writing master's thesis on BIM automation tools for normative compliance checks",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "排除坚果/酸奶/蜂蜜",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Believes self-knowledge is the key to human development and authentic living",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in improving English writing proficiency through iterative refinement",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses Amundsen fabric for costumes due to color variety and wrinkle resistance",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Faced racial abuse in childhood including derogatory slurs and exclusionary actions",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses HuggingFaceEmbeddings(shibing624/text2vec-base-chinese) for vectorization",
+        "label": "Preferences/Technical_Stack"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise translation outputs without explanatory text",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Curious about balancing information collection vs real human interaction",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Finds elephants' intelligence fascinating",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeated requests for message refinement (emails, thank-you notes, announcements)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Cantonese is first language",
+        "label": "Personal_Background/Identity"
+      }
+    ],
+    "query": "I’m about to reply to a suspicious message and want to keep my real identity completely protected while still looking believable. What specific sender details should I use in the reply (the exact name + email combo I normally use for this kind of thing)?",
+    "metadata": {
+      "session_id": "sess_4e53b03b733a",
+      "dialog_id": "dlg_9f1c13a0b6d2",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_120",
+  "session_id": "english_120",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model_for_judge_track": null,
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "original": {
+    "session_id": "english_120",
+    "queries": [
+      {
+        "query_id": "english_120:0",
+        "query": "I'm making my flyers and I want to put a short 'about me' section. Should I mention my age (13) right away or just say I'm a student? I don't want them to think I'm too young to be reliable, but I also don't want to lie.",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_120:1",
+        "query": "If an older neighbor seems interested but hesitant when I knock, what's a good way to offer a 'trial' or first job at a lower price to build trust? I don't want to sound desperate or like my work is cheap.",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_120:2",
+        "query": "My first client asked if I have a 'supervisor' or if my parents know I'm doing this. I said yes, but it felt awkward. How do I bring up parent permission in my initial pitch so it sounds professional and not like a kid needing oversight?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_120:3",
+        "query": "I finished a yard clean-up job and the client was really happy. Is it weird to ask them directly, 'Could you recommend me to your friends or neighbors?' Or is there a smoother way to ask for referrals?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_120:4",
+        "query": "A potential client on the phone asked about my availability during school hours. I panicked and just said I'm busy. What's a better way to handle scheduling questions that makes me seem flexible but also makes it clear I'm in school, without losing the job?",
+        "category": "Social Strategy"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I wanna start making money since most people at my classz atleast the boys seem to have one which is surprising to me. Im 13, here are the local laws. Any areas or jobs i ahould look into? § 7.  Töölepingu sõlmimine alaealisega\n  (1) Tööandja ei tohi töölepingut sõlmida alla 15-aastase või koolikohustusliku alaealisega ega teda tööle lubada, välja arvatud käesoleva paragrahvi lõikes 4 sätestatud juhtudel.\n\n  (2) Tööandja ei tohi töölepingut sõlmida alaealisega ega lubada teda tööle, mis:\n  1) ületab alaealise kehalisi või vaimseid võimeid;\n  2) ohustab alaealise kõlblust;\n  3) sisaldab ohte, mida alaealine ei suuda õigel ajal märgata ega ära hoida kogemuse või väljaõppe puudumise tõttu;\n  4) takistab alaealise sotsiaalset arengut või hariduse omandamist;\n  5) ohustab alaealise tervist töö iseloomu või töökeskkonna ohutegurite tõttu.\n\n  (3) Käesoleva paragrahvi lõike 2 punktis 5 nimetatud tööde ja ohutegurite loetelu kehtestab Vabariigi Valitsus määrusega.\n\n  (4) Tööandja võib 13–14-aastase alaealisega või 15–16-aastase koolikohustusliku alaealisega sõlmida töölepingu ja lubada teda tööle, kus töökohustused on lihtsad ega nõua suurt kehalist või vaimset pingutust (kerge töö). 7–12-aastasel alaealisel on lubatud teha kerget tööd kultuuri-, kunsti-, spordi- või reklaamitegevuse alal.\n\n  (5) Vabariigi Valitsus kehtestab määrusega alaealisele lubatud kergete tööde liigid.\n\n  (6) Käesolevas paragrahvis nimetatud piiranguid rikkudes sõlmitud tööleping on tühine."
+      },
+      {
+        "role": "assistant",
+        "text": "Based on the local laws, it seems that you may be able to do some \"light work\" if you are between 13-16 years old, but it cannot be anything that is physically or mentally demanding or dangerous. You could consider looking into jobs such as:\n\n1. Babysitting - if you enjoy spending time with younger children, you could offer your services as a babysitter to families in your neighborhood.\n\n2. Lawn care - you could offer to mow lawns, rake leaves, or do other yard work for neighbors who may not have the time or ability to do it themselves.\n\n3. Pet-sitting or dog-walking - if you love animals, you could offer to take care of people's pets when they are out of town or busy.\n\n4. House cleaning or organizing - if you are good at cleaning and organizing, you could offer to help people with tasks such as cleaning bathrooms, organizing closets, or doing laundry.\n\n5. Tutoring - if you excel in a particular subject, you could offer your services as a tutor to students who need extra help.\n\nRemember to always get permission from your parents and follow the local laws and regulations regarding work for underage individuals."
+      },
+      {
+        "role": "user",
+        "text": "I was hoping for something more physical. No the strongest but i feel like its fine"
+      },
+      {
+        "role": "assistant",
+        "text": "Since you mentioned that you would like something more physical, here are some additional suggestions for jobs that might be suitable for you based on the local laws:\n\n1. Newspaper delivery - you could offer to deliver newspapers to people's homes in your neighborhood. \n\n2. Car washing - you could offer to wash and detail cars for people in your area.\n\n3. Dog grooming - if you love animals, you could offer to groom dogs for people in your neighborhood.\n\n4. Landscaping - you could offer to do light landscaping work such as planting flowers, trimming hedges, or pulling weeds.\n\n5. Snow shoveling - during the winter months, you could offer to shovel snow off driveways and sidewalks for people in your area.\n\nRemember to always check with your parents and follow the local laws and regulations regarding work for underage individuals. It's also important to prioritize your safety and only take on tasks that you feel comfortable and capable of handling."
+      },
+      {
+        "role": "user",
+        "text": "I have 2 options. Either push through all my negative thoughts and do odd jobs which will let me earn extremely valuable skills or spend my time learning specialized skills"
+      },
+      {
+        "role": "assistant",
+        "text": "Both options have their own merits and can lead to different outcomes, so it ultimately depends on your goals and priorities. Here are some things to consider when making your decision:\n\nOption 1 - Doing odd jobs and earning valuable skills:\n\n- By doing odd jobs, you can gain experience in different fields and develop important skills such as communication, time management, and problem-solving.\n\n- You also have the opportunity to network and make connections with people in different industries, which may open doors to more job opportunities in the future.\n\n- However, odd jobs may not always pay a lot or provide steady income, so you may need to be prepared to work harder and take on a variety of tasks to make a decent amount of money.\n\nOption 2 - Learning specialized skills:\n\n- By focusing on learning specialized skills, you can become an expert in a particular field and potentially earn more money in the long run.\n\n- You can also gain a deeper understanding of a specific area that you are passionate about, which can lead to more fulfilling job opportunities.\n\n- However, specialized skills may take more time and effort to develop, especially if you don't have prior experience or access to resources such as classes or mentors.\n\nUltimately, both options can be beneficial, so it's up to you to decide which path aligns more with your goals and interests. It's also important to keep in mind that whatever you decide, it's okay to make mistakes and adjust your approach as needed."
+      },
+      {
+        "role": "user",
+        "text": "Its mainly social skills i struggle with since im inside mostly. The odd jobs could greatly help with that and tons of other weak areas, but its a lot harder to get myself to do it"
+      },
+      {
+        "role": "assistant",
+        "text": "It's understandable to feel hesitant or anxious about taking on odd jobs, especially if it involves interacting with people in unfamiliar circumstances. However, pushing yourself out of your comfort zone can actually be a great way to improve your social skills.\n\nHere are some tips to help you get started with odd jobs:\n\n1. Start small: Look for simple tasks that you feel comfortable doing, such as watering plants or walking dogs. As you gain more experience, you can gradually take on more challenging tasks.\n\n2. Practice communication: Interacting with clients or other people you meet while doing odd jobs can be a great opportunity to practice your communication skills. Try to be friendly, polite, and attentive to their needs.\n\n3. Ask for feedback: After completing a task, ask clients or supervisors for feedback on how you did and what you could improve. This can help you learn and grow from your experiences.\n\n4. Stay organized: Keeping track of your tasks and appointments can help you stay on top of things and reduce stress. Consider using a calendar or planner to help you stay organized.\n\nRemember, it's okay to make mistakes or encounter obstacles along the way. What's important is that you keep going and continue to challenge yourself. Over time, you may find that odd jobs become easier and more enjoyable, and you could even discover new interests or passions through your work experience."
+      },
+      {
+        "role": "user",
+        "text": "I want something that is decently challanging so i dont feel as weird. "
+      },
+      {
+        "role": "assistant",
+        "text": "If you're looking for something more challenging, here are some options to consider:\n\n1. Yardwork for elderly or disabled individuals - working in someone's yard can be both physically and mentally challenging as you figure out how to best approach different tasks. Plus, you would be helping someone who may not be able to do the work themselves.\n\n2. House cleaning/organization - cleaning and organizing someone's house can be a satisfying and challenging task as you figure out how to approach each room and make everything look and feel neat and tidy.\n\n3. Pet grooming - grooming pets requires skill and technique, so it can be a good option if you enjoy working with animals and want to learn a new skill.\n\n4. Landscaping - doing more advanced landscaping work, such as installing gardens or building retaining walls, can be both physically and mentally challenging.\n\n5. Home repairs - if you have experience with home repairs, you could offer your services to people in your neighborhood who may need help with things like painting, fixing door hinges, or repairing appliances.\n\nWhatever you decide to do, remember that it's okay to feel nervous or awkward at first. With practice and experience, you'll gain confidence, build new skills, and develop a stronger sense of independence and responsibility."
+      },
+      {
+        "role": "user",
+        "text": "So.ething thati would probably be most co.fotable with is just aksing them if they have anything to be done. Maybe lrivide options."
+      },
+      {
+        "role": "assistant",
+        "text": "That's a good way to approach odd jobs if you're more comfortable with initiating conversations with potential clients. Here are some steps you could take:\n\n1. Make a list of tasks that you feel comfortable and capable of doing, such as mowing lawns or cleaning gutters.\n\n2. Identify potential customers in your neighborhood, such as elderly individuals or busy families.\n\n3. Approach them directly and offer your services. Be clear about the tasks you're able to do and provide a fair price for your work.\n\n4. Be friendly and professional, and don't be discouraged if someone declines your offer - they may already have someone else to do the work or not need it done at that time.\n\n5. If someone does agree to hire you, make sure you communicate clearly about the task and what is expected of you. Keep track of your schedule and appointments, and follow through on your commitments.\n\nRemember to always prioritize your safety and only take on tasks that you feel comfortable doing. It's also important to communicate openly and respectfully with clients and to be responsive to their needs and feedback."
+      },
+      {
+        "role": "user",
+        "text": "Is it okay to reach out to the same people repeatedly or should I make business cards or flyers to hand out"
+      },
+      {
+        "role": "assistant",
+        "text": "It's generally okay to reach out to the same people again if you offered your services to them before and they expressed interest, especially if you did a great job for them previously. Having a good track record of reliability and quality of work can help build trust with potential repeat customers.\n\nHowever, it's also a good idea to expand your reach and potentially gain new clients by utilizing other methods such as creating business cards or flyers to hand out around your neighborhood. This could help you reach a broader audience and introduce yourself to people who may not be aware of your services.\n\nWhen creating business cards or flyers, make sure to include your contact information, the types of services you offer, and any special skills or experience you have. You could also include customer reviews or testimonials to add credibility.\n\nIf you do decide to create flyers or business cards, be sure to keep them professional and eye-catching, and distribute them in areas where your potential clients may frequent, such as community centers, grocery stores, or bulletin boards."
+      },
+      {
+        "role": "user",
+        "text": "Heres my plan for now: learn how to do some jobs from my parents or online untill i have a few I can confidently do. Ill go around my neighborhood since its full of elderly people and im gonna offer my services by either knocking on their doors or leaving flyers. Before I start and i am learning and designing my flyers and pitch ill also read on basic social skills to help land clients. "
+      },
+      {
+        "role": "assistant",
+        "text": "That sounds like a great plan! Learning new skills and gaining confidence can take time, so it's important to be patient and not be too hard on yourself if things don't go perfectly at first.\n\nSome additional tips that might be helpful:\n\n1. Consider practicing your pitch with a trusted friend or family member before approaching potential clients.\n\n2. Be clear about your pricing and any other details, such as when you would be available to work, to avoid any confusion or miscommunication.\n\n3. Make sure you have any necessary equipment or supplies before starting a job, and check in with clients periodically to see if they're satisfied with your work.\n\n4. Be courteous and professional at all times, even if a client is difficult to work with.\n\nRemember that building a successful business takes time, effort, and perseverance, but with hard work and dedication, you can achieve great things!"
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "Personal_Background/Age",
+        "value": "13 years old",
+        "evidence": {
+          "session_id": "sess_1ac617071ffd",
+          "utterance_index": 0,
+          "text": "Im 13, here are the local laws"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Estonia (implied from legal code)",
+        "evidence": {
+          "session_id": "sess_1ac617071ffd",
+          "utterance_index": 0,
+          "text": "§ 7. Töölepingu sõlmimine alaealisega..."
+        }
+      },
+      {
+        "label": "Preferences/Job_Type",
+        "value": "Prefers physically-oriented work despite self-assessed limitations",
+        "evidence": {
+          "session_id": "sess_1ac617071ffd",
+          "utterance_index": 2,
+          "text": "I was hoping for something more physical. No the strongest but i feel like its fine"
+        }
+      }
+    ]
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": false
+  }
+}

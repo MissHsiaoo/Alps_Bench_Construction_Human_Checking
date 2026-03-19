@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_8b94f8917bbd",
+  "session_id": "sess_8b94f8917bbd",
+  "stratum": "Preferences/Reading",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Enjoys Virgil's Eclogues but dislikes epic poetry",
+      "label": "Preferences/Reading"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m2",
+        "value": "Deep interest in broadcast branding/technical details (S4C rebranding, idents, analogue shutdown)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Prefers boiling water before drinking (from HK habit)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoid contacting partners from previous project [ERROR: Task-local]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "professional inquiries",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Exploring interest-tracking via spreadsheets",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Wants to study carbon management techniques for professional impact",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers cherry sauce with General Tso chicken and chili chicken",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Believes they are entitled to reclaim non-betrothal expenses after engagement dissolution",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Frequently listened to Calvin Harris and David Guetta",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencing recurrent chest tightness episodes (8-10 times/day)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Interested in art, culture, classical music, and history as escapism",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Volunteers at Boca Raton Achievement Center (BRAC) front desk",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Java-based AI/ML toolchains and deployment patterns",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Exploring VHS tape mechanics for tutorials and Easter eggs in game design",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Pursuing a doctorate full-time",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Takes an hour to get ready in the morning and an hour to prepare for bed",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Values affordable rent, convenient stores, subway access, parks, and great neighbors",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Has 20Mbps internet connection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Wants to understand effective study methods, resources, and ways to improve overall English proficiency.",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers travel budget of ~5000 RMB for 5-7 day trips [ERROR: Task-local]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "52 years old, never married",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Considering upgrading GTX 1070Ti to RTX 4080",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Avoids retaining passport/address information if pasted later [ERROR: Unsupported by evidence - cited evidence from different session]",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Faced financial barriers in education/career journey",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interest in JAXB implementation and Java 17 configuration",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Father was a dedicated teacher, mother worked in healthcare; parents had harmonious relationship balancing strictness/compassion",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about music production tools (Caustic 3, PC versions)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Persian language responses",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Repeated interest in clothing personalization patterns (names, blood types, car brands)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeatedly tests translations of common conversational phrases (likes/dislikes, opinions, daily activities)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires final training results table with metrics (Loss, F1, Recall, Accuracy)",
+        "label": "Preferences/Output_Formatting"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Active student with daily study/homework routine",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Create stories that inspire change and uplift others through writing/filmmaking",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers living close to workplace",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Social needs met through colleagues and students",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Seeks gym-focused meal options",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Requires structured itineraries with expenditure breakdowns and multi-criteria recommendations",
+        "label": "Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Previously ran a 2-year transportation business before closing it",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Desire to expand role into substantial recruitment challenges beyond administrative work",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Chronic leg pain",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about China's socioeconomic structure (income distribution, development status) and international comparisons with South Korea",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Curious about managing ADHD-related communication challenges and overthinker relationships",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Collaborates with colorization peers like Marina Amaral and Jordan Lloyd",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeatedly requests simplified language and bullet-point formatting",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Grew up in Hong Kong for 12 years, born there",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencing addiction-like dependency on boyfriend",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers nationwide TCM universities (excludes Guizhou institutions)",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Wants to develop further in graphic design",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained focus on product design flaws (short drain pipes, missing bottom panels)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about AI's potential role in real estate industry",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Plans to visit an English-speaking country",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Diaoyu Islands belong to China",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Had significant emotional connection to Riki store closure",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on technical content creation patterns (service descriptions, CTA optimization, tech stack pairings)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Psychology degree holder",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Aspires to be a collaborative leader focused on growth, empowerment, and societal impact [ERROR: Unsupported by evidence - user requested a generated vision statement, did not self-report personal aspirations.]",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Requires explicit configuration guidance for Spring Initializr settings and dependencies",
+        "label": "Preferences/Technical_Setup"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Uses cultural outings (museums/concerts) for child's aesthetic development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Passionate about international travel with son",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers vibrant fire engine red color for wigs",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Believes Anunnaki evidence exists in human DNA",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m3",
+        "value": "持续关注OCR系统优化技术(SQL转义/性能优化/模型集成) [ERROR: Unsupported by evidence]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires bilingual (Japanese+English) examples for technical verification",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers working with progressive, friendly colleagues and experienced managers",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Runs washing machine only when full to preserve the environment",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Enjoys Virgil's Eclogues but dislikes epic poetry",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers highly structured daily routines",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aiming to gain weight",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Avoidance of toxic plants for sulcata tortoise enclosures",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Planning to pursue Master of Counselling at Athabasca University",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires structured problem solutions starting with 'Given' (Дано) sections",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise/summarized explanations",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interest in creating winter beach content as unique theme",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Starting a new project in September",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Sustained interest in comparative housing analysis across multiple cities",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Has 20Mbps internet connection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Loves Shiu Mai and traditional Hong Kong foods",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers visiting Confucius Temple at night for夜景 (night view)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Nigeria",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on crafting heartfelt yet concise birthday messages",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers address/passport information deletion after use [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in file versioning strategies for audio processing outputs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes fabricated/inaccurate information in responses [ERROR: Task-local]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in ChatGPT implementation/PC usage",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Agnostic with non-doctrinal spiritual interests",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Trilingual (Cantonese, Mandarin, English) with Cantonese as mother tongue",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Career goal: Become a management consultant supporting family business",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers concise, non-dramatic academic writing",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Enjoys cooking",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      }
+    ],
+    "query": "I’m picking between two poetry books as a gift for myself: one is a set of short, nature-focused pastoral pieces with a quieter tone, and the other is a long, high-stakes heroic narrative full of battles and grand speeches. Which one am I more likely to actually enjoy finishing, and why?",
+    "metadata": {
+      "session_id": "sess_8b94f8917bbd",
+      "dialog_id": "dlg_3a7b3a1d8d9e",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "canonical_id": "ability4_156",
+    "session_id": "ability4_156",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability4_300",
+    "session_id": "ability4_300",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt4.1-mini"
+  },
+  {
+    "canonical_id": "ability4_37",
+    "session_id": "ability4_37",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability4_19",
+    "session_id": "ability4_19",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability4_120",
+    "session_id": "ability4_120",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability4_166",
+    "session_id": "ability4_166",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability4_161",
+    "session_id": "ability4_161",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability4_227",
+    "session_id": "ability4_227",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability4_41",
+    "session_id": "ability4_41",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability4_199",
+    "session_id": "ability4_199",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability4_217",
+    "session_id": "ability4_217",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability4_150",
+    "session_id": "ability4_150",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability4_185",
+    "session_id": "ability4_185",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability4_305",
+    "session_id": "ability4_305",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability4_58",
+    "session_id": "ability4_58",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability4_274",
+    "session_id": "ability4_274",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability4_123",
+    "session_id": "ability4_123",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability4_299",
+    "session_id": "ability4_299",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability4_129",
+    "session_id": "ability4_129",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability4_73",
+    "session_id": "ability4_73",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability4_196",
+    "session_id": "ability4_196",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability4_47",
+    "session_id": "ability4_47",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability4_284",
+    "session_id": "ability4_284",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability4_181",
+    "session_id": "ability4_181",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt4.1-mini"
+  },
+  {
+    "canonical_id": "ability4_59",
+    "session_id": "ability4_59",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt4.1-mini"
+  },
+  {
+    "canonical_id": "ability4_12",
+    "session_id": "ability4_12",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability4_288",
+    "session_id": "ability4_288",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability4_106",
+    "session_id": "ability4_106",
+    "stratum": "UNKNOWN",
+    "assigned_model_for_judge_track": "vanilla_gpt4.1-mini"
+  }
+]

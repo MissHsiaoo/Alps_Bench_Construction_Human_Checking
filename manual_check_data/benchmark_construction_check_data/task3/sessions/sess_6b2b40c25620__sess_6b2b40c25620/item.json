@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_6b2b40c25620",
+  "session_id": "sess_6b2b40c25620",
+  "stratum": "Preferences/Entertainment",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "gemini-3-flash-preview",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Dislikes magic elements in game design",
+      "label": "Preferences/Entertainment"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured title formats ('Ta palette de couleurs peut...') and floral/vintage terminology in creative work",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "有需要照看的未成年家庭成员",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Works in cosmetic procedures/hairstyling",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "偏好详细营养数据追踪",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "公司命名核心要求：两字/常用汉字/引经据典/无歧义",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers collaborating with singer beyond Vocaloid/VTuber roles",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeated requests for labyrinth navigation routes between specific rooms",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in generating humorous content about Cape Cod prices/Stop&Scam",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers car travel with spouse; enjoys night driving for tranquility",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Considering relocation from Tomsk to St. Petersburg",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeated requests for哄女朋友-focused humor (brain teasers/cold jokes) [ERROR: Unsupported by evidence]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes being given factually incorrect information",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about dual citizenship procedures and passport usage for US/Mexico-born son",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Seeks solutions to bypass dating platform limitations for authentic contact [ERROR: Role-play/third-party possible]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers focus on code quality/performance/error handling in development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Starting a new project in September",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on distributed AI infrastructure (local-network databases, Ukraine-wide production networks) and symbolic language optimization",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes being given factually incorrect information",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in mastering classical Arabic poetic devices (استعارة مكنية، صور بلاغية) and structural emulation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes magic elements in game design",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep exploration of 'tangle' word usage (physical vs figurative contexts)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in generating story variations (medieval/magical kingdom/village settings) and village name creation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "排除鱼类/海鲜/贝类，水果仅接受香蕉",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep interest in comparing corporate vs entrepreneurship career paths",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Has a father",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Shares less valuables as an adult due to distrust",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Social needs met through colleagues and students",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m4",
+        "value": "排除坚果/酸奶/蜂蜜",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Experiencing severe mental distress from divorce proceedings",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Observed preserved state of abandoned house (intact glass/paint, overgrown grass)",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely 9th-grade student using Avramenko textbook (page 79)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers 'charmecamping' (small-scale, cozy campsites)",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Listened extensively to Avicii",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Owns an iPhone 12",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Seeks neighborhoods with indoor gun ranges capable of handling 7.62x51",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids communication with ex-fiancée's father due to hostile attitude",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained curiosity about identifying discontinued Argentinian chocolate brands from 2000-2010 era",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in rhetorical strategies of anti-abortion movements, particularly 'pro-woman' framing",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses Windows OS",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Seeks lifelong romantic partnership [ERROR: Role-play/third-party possible]",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Consults a house-buying guide multiple times weekly",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Emotional connection to Riki store closure",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Wants to study carbon management techniques for professional impact",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Was heavily interested in electronic music between 2011-2014",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in Parkinson's disease: educational resources, clinical roles, and global organizations",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep technical interest in SQLite FTS5 implementation details",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeatedly requests Vietnamese-Japanese translation tasks (technical/transactional focus)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Wants to implement clearer roles and stronger structure in the café team",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers sensitive path/passport information not retained if pasted later [ERROR: Unsupported by evidence - no user mention of data retention preferences in session]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Strong dissatisfaction with domestic apparel market (low quality/price ratio + lack of diversity)",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Needs to practice English daily through writing",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Prefers integrated GitHub workflow within IntelliJ",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencing recurrent chest tightness episodes (8-10 times/day)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers R over Excel for large-scale financial data analysis",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Mother played pivotal role in cultural identity formation",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Researching nursing colleges in Delhi/NCR region",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Enjoys rock music (specifically Queen)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Trains models using GPU with 12GB VRAM capacity",
+        "label": "Constraints_and_Boundaries/Hardware_Limitations"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers text refinement in compelling legal language without jargon",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Strict 'post-text only' output format requirement",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works with non-UTF-8 encoded Python files (likely GBK)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Starting a new project in September",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Avoids explicit mention of dating platforms in personal narratives",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "有需要照看的未成年家庭成员",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Had a conflict in a past relationship that turned messy",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Excludes garden suggestions involving lawn, outdoor dining, potted plants, fountain, garage, shed, or rockery",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers responses to include compliments, emojis, and address by current specified name",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about abstract art composition techniques with random object combinations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers technical accuracy in historical TV production details (e.g. episode durations)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Inquired about using AI assistance for competitive advantage",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Uses Hugging Face datasets for translation projects",
+        "label": "Preferences/Data_Sources"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Values peace, God, and America",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on refining superpower-embodied roleplay text with optimal token usage [ERROR: Task-local refinement requests; no evidence of personal curiosity]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Currently resides in USA with H1B visa",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Parents married for 46 years, considers them a relationship role model",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Close professional relationship with finance team colleagues",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in mineral/vitamin relationships with organs and food sources",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Lacks close friends for open conversation",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Simpler language with fewer American references",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Concern about divorce impact on children and cohabiting relatives",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured email communication with clear job titles/dates/bullet points",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Sustained focus on career development and CV optimization strategies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "从老师那里学会了辩证思考",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on articulating marital conflict through multiple declaration formats",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in navigating international script submission logistics from Russia (WGA registration, agency lists, payment methods, geopolitical barriers)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes fabricated/inaccurate information in responses [ERROR: Task-local]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m10",
+        "value": "Wants to visit Hong Kong again",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated focus on window-based escape methods and stealth tactics in role-play scenarios [ERROR: Role-play scenario actions cannot be attributed to user's real-world characteristics]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely resides in Pacific Time Zone (references San Diego/Los Angeles and uses 'our hours')",
+        "label": "Personal_Background/Location"
+      }
+    ],
+    "query": "I’m reviewing two combat-system drafts for a game: one leans on supernatural spell-like abilities, the other is entirely grounded in non-supernatural mechanics. Based on what you’ve told me about your tastes before, which draft would you immediately rule out, and why?",
+    "metadata": {
+      "session_id": "sess_6b2b40c25620",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

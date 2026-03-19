@@ -1,9 +1,33 @@
 
-  import { defineConfig } from 'vite';
-  import react from '@vitejs/plugin-react-swc';
-  import path from 'path';
+import { defineConfig } from 'vite';
+import react from '@vitejs/plugin-react-swc';
+import path from 'path';
 
-  export default defineConfig({
+function normalizeBase(base: string) {
+  if (!base.startsWith('/')) {
+    return `/${base.replace(/^\/+/, '')}`.replace(/\/?$/, '/');
+  }
+
+  return base.replace(/\/?$/, '/');
+}
+
+function resolveBase() {
+  const explicitBase = process.env.VITE_BASE_PATH;
+  if (explicitBase) {
+    return normalizeBase(explicitBase);
+  }
+
+  if (process.env.GITHUB_ACTIONS === 'true') {
+    const repoName = process.env.GITHUB_REPOSITORY?.split('/')[1];
+    if (repoName) {
+      return normalizeBase(`/${repoName}/`);
+    }
+  }
+
+  return '/DataAnnotation/';
+}
+
+export default defineConfig({
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
@@ -57,5 +81,5 @@
       port: 3000,
       open: true,
     },
-    base: "/DataAnnotation/"
+    base: resolveBase(),
   });

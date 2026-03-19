@@ -1,0 +1,207 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_31",
+  "session_id": "english_31",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model": "qwen3-max",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "source_result_file": "D:\\USTC\\My_research\\Alps_data\\task4_general_model_results\\result\\qwen3-max\\en.json",
+  "original": {
+    "session_id": "english_31",
+    "queries": [
+      {
+        "query_id": "english_31:0",
+        "query": "I need to email my team lead about a project update meeting I can't attend in person next week. Since I'm still recovering and mostly at home, I want to suggest a video call option for me. How do I phrase this request professionally without sounding like I'm asking for special treatment?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:1",
+        "query": "A colleague keeps asking if I can 'just quickly help' with small tasks since I'm 'at home anyway.' I want to set boundaries politely but firmly while maintaining good rapport. What's a good script to use?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:2",
+        "query": "I'm returning to work soon after my two-month leave. I want to send a short, warm message to my team on our group chat before my first day back. Should I mention my recovery, or just keep it positive and forward-looking? Need the right tone.",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:3",
+        "query": "My manager forwarded a 'get well soon' card signed by the team. What's the best way to respond? A group email? A message in the team channel? I want to thank everyone appropriately without making it a big deal.",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_31:4",
+        "query": "I have a scheduled check-in with HR about my leave extension. I want to be prepared to discuss my phased return-to-work plan if they ask. How should I frame my ongoing limitations (like reduced mobility) as temporary and manageable, not as a long-term problem?",
+        "category": "Social Strategy"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": " I am writing to extend the sick leave for two months. After seeing doctor last week, I started to practice walking. It will take about two months to heal based on my case. I would like to accept the medical concern. Hopefully, the proper rest and care will help me devote my dedication to my coming duties.\n\nin proof the writing"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am writing to request an extension for my sick leave for an additional two months. As you may recall, I visited my doctor last week and was advised to rest and take things slow. Although I have started practicing walking, my condition still requires proper rest and care to heal completely.\n\nBased on my doctor's advice, it is estimated that it will take approximately two months for me to fully recover. I am extremely grateful for all the support and understanding that the company has shown so far concerning my health concerns.\n\nI am committed to my work and the responsibilities assigned to me, but I firmly believe that taking the necessary time off now will help me to fully recuperate and give my best when I return to work in the future.\n\nThank you for your kind consideration and support during this time. Please do not hesitate to contact me if you require any further information or assistance.\n\nBest regards,\n\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": "make it shorter"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am requesting an extension of my sick leave for two additional months. My doctor has instructed me to rest and avoid any strenuous activity to ensure a full recovery. I appreciate the support provided so far and look forward to returning to work refreshed and fully committed.\n\nThank you for your understanding.\n\nSincerely,\n\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": " I am writing to request an extension of my sick leave for two additional months.I saw doctor last week. I was advised to ankle flexible and practice walking. It will take approximately two months for me to fully recover. "
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am writing to request an extension of my sick leave for two additional months. As per my doctor's advice, I need to practice walking and ankle flexibility to ensure a complete recovery. It is estimated that it will take approximately two months for me to achieve full recovery.\n\nThank you for your support during this time.\n\nBest regards, \n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": " Dear David and Jun:\n I am writing to request an extension of my sick leave for two additional months. I saw doctor last week. I was advised to practice ankle flexibility and walking. It will take approximately two months for me to fully recover. I appreciate the understanding and look forward \n I appreciate the support provided so far and look forward to returning to work after \nrefreshed \n"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear David and Jun,\n\nI am writing to request an extension of my sick leave for two additional months. My doctor has advised me to practice ankle flexibility and walking to ensure a complete recovery. It is estimated that it will take approximately two months for me to achieve full recovery.\n\nI appreciate the support provided so far and look forward to returning to work refreshed after the necessary time off.\n\nThank you for your understanding.\n\nSincerely,\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": "\n I am writing to request an extension of my sick leave for two additional months. I saw doctor last week. I was advised to practice ankle flexibility and walking. It will take approximately two months for me to fully recover. I appreciate the understanding and look forward \n I appreciate the support provided so far and look forward to returning to work after \nrefreshed \nin proof the wroting"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Manager's Name],\n\nI am writing to formally request an extension of my sick leave for two additional months. After seeing my doctor last week, I was advised to focus on practicing ankle flexibility and walking to ensure a complete recovery. My condition requires proper rest and care, and it is estimated to take approximately two months for me to achieve full recovery.\n\nI want to thank you and the team for the support provided so far during this time. I am committed to returning to work as soon as possible and contributing to the success of our team. However, I understand that taking the necessary time off now will be crucial to my full recovery.\n\nOnce again, I appreciate your understanding and the support provided. Please feel free to reach out to me if there are any concerns or further information required.\n\nBest regards,\n\n[Your Name]"
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Physical_State",
+        "value": "Recovering from an injury requiring two months of rest, with doctor's advice to practice ankle flexibility and walking",
+        "evidence": {
+          "session_id": "sess_19868e6d0600",
+          "utterance_index": 0,
+          "text": "I am writing to extend the sick leave for two months... It will take about two months to heal based on my case."
+        }
+      }
+    ]
+  },
+  "model_output": {
+    "responses": [
+      {
+        "query_id": "english_31:0",
+        "response": "Subject: Request to Join Next Week’s Project Update Meeting Remotely  \n\nHi [Team Lead's Name],  \n\nI hope you’re doing well. I’m still in the final stages of my recovery and will be working from home next week. As a result, I won’t be able to attend the project update meeting in person.  \n\nWould it be possible for me to join via video call instead? I’d like to stay fully aligned with the team and contribute to the discussion as needed.  \n\nThanks so much for your understanding—I appreciate your flexibility!  \n\nBest regards,  \n[Your Name]"
+      },
+      {
+        "query_id": "english_31:1",
+        "response": "Here’s a polite but firm script that sets clear boundaries while preserving your working relationship:\n\n---\n\n**Option 1: Direct & Empathetic**  \n> \"Hi [Name], I appreciate you thinking of me—but even though I’m at home, I’m actually on medical leave and need to focus entirely on resting and recovering right now. My doctor’s been very clear that I shouldn’t be doing any work tasks, even small ones. I’d love to help once I’m back, but for now, I need to protect my recovery time. Thanks so much for understanding!\"\n\n**Option 2: Light but Firm**  \n> \"Hey [Name]! I know it seems like I’m just ‘at home,’ but I’m actually on strict rest per my doctor’s orders—no work allowed, even quick tasks! 😅 I’d hate to slow down my recovery. Could you [suggest alternative: e.g., ‘check with [Team Member]’ or ‘hold this until I’m back’]? Really appreciate you looking out for me!\"\n\n**Option 3: Boundary + Redirect**  \n> \"Thanks for reaching out! Just to clarify—I’m on approved medical leave, so I can’t take on any work (even small things) until I’m cleared to return. To avoid delays, could you [redirect to solution: e.g., ‘ask [Colleague]’ or ‘flag this for the team meeting’]? I’ll be fully available again on [date] and happy to jump in then!\"\n\n---\n\n### Key principles used:\n1. **Acknowledge their intent** (\"I appreciate you thinking of me\") → softens the \"no.\"  \n2. **Clarify your status** (\"on medical leave,\" \"doctor’s orders\") → makes it about health, not willingness.  \n3. **Be unambiguous** (\"can’t,\" \"no work allowed\") → avoids ambiguity they might exploit.  \n4. **Offer a solution** (redirect task) → shows goodwill without overcommitting.  \n5. **Reaffirm future collaboration** (\"happy to help when I’m back\") → maintains rapport.  \n\n### If they persist:\n> \"I know you’re swamped, but I genuinely can’t risk my recovery—even ‘quick’ tasks add up. Let’s connect properly when I’m back on [date]!\"  \n\nThis keeps it kind but leaves no room for negotiation. Most reasonable colleagues will respect this once stated clearly! 💙"
+      },
+      {
+        "query_id": "english_31:2",
+        "response": "A short, warm message that’s **positive and forward-looking—with just a light mention of your recovery** strikes the perfect balance. It acknowledges your absence without dwelling on it, shows appreciation, and re-energizes your connection with the team.\n\nHere’s a concise and friendly option for your group chat:\n\n> Hi everyone!  \n> Just wanted to say I’m really looking forward to being back with you all on [your return date]. Thanks so much for your support during my time off—I’ve used it to rest and recharge, and I’m excited to jump back in!  \n> See you soon!\n\n**Why this works:**\n- **Light mention of recovery**: “rest and recharge” implies healing without medical details.\n- **Gratitude**: Acknowledges their support subtly.\n- **Forward-looking**: Focuses on returning and contributing.\n- **Warm but professional**: Friendly tone suitable for a team chat.\n\nFeel free to adjust based on your team’s culture—if you’re usually more casual, you could add an emoji (e.g., 😊 or 🙌). If more formal, keep it as is."
+      },
+      {
+        "query_id": "english_31:3",
+        "response": "A thoughtful yet low-key response is perfect in this situation. Since your manager forwarded the card on behalf of the team, a **brief group email** (or a message in your main team channel, if that’s your team’s usual way of communicating) works well—just enough to show genuine appreciation without overdoing it.\n\nHere’s a simple and warm example you can adapt:\n\n---\n\n**Subject:** Thank You!  \n\nHi everyone,  \n\nI just wanted to say a heartfelt thank you for the lovely “Get Well Soon” card—it truly brightened my day! I really appreciate your kind thoughts and support while I’m recovering.  \n\nLooking forward to being back with you all soon.  \n\nWarmly,  \n[Your Name]  \n\n---\n\n**Why this works:**  \n- It’s sincere but concise.  \n- It acknowledges the group effort without singling anyone out.  \n- It keeps the tone positive and professional.  \n- It doesn’t demand a reply or create extra noise.  \n\nIf your team mostly uses Slack/Teams, you can post the same message there—but a short email often feels more personal for this kind of gesture."
+      },
+      {
+        "query_id": "english_31:4",
+        "response": "Great question—being proactive and solution-oriented in your HR check-in will show responsibility and commitment. Here’s how to frame your ongoing limitations clearly, positively, and temporarily:\n\n---\n\n### **Key Principles to Keep in Mind:**\n1. **Emphasize progress** – Highlight what you *can* do now vs. when you first went on leave.  \n2. **Anchor to medical guidance** – Show your plan is based on professional advice, not personal preference.  \n3. **Use time-bound language** – Words like “currently,” “for the next X weeks,” or “until [date]” reinforce that this is temporary.  \n4. **Focus on solutions** – Pair each limitation with a practical accommodation or adjustment.  \n5. **Express confidence in full recovery** – Reassure them this is a short-term phase, not a permanent change.\n\n---\n\n### **Example Talking Points:**\n\n> “My doctor has cleared me to begin a gradual return to work, but I’m still in the final stages of recovery. For the next 4–6 weeks, I’ll have some temporary mobility limitations—mainly reduced walking endurance and the need to avoid prolonged standing. These are expected to resolve fully as my ankle continues healing.”  \n\n> “To manage this responsibly, I’d like to propose a phased return—for example, starting with 2–3 days per week working remotely or from a workstation where I can sit as needed. This would allow me to contribute meaningfully while staying within my current physical limits.”  \n\n> “I’m already making steady progress—I’ve started physical therapy and can walk short distances comfortably. My goal is to be back to full duties without restrictions by [target date, e.g., early October].”\n\n> “I don’t anticipate any long-term impact on my role. This is strictly a short-term recovery phase, and I’m committed to transitioning back to my normal workload as soon as medically appropriate.”\n\n---\n\n### **If Asked About Accommodations:**\n- “For now, I may need to limit tasks that require standing for more than 20–30 minutes or walking long distances during the day—but I can handle all my core responsibilities remotely or from a seated workstation.”\n- “I’m happy to provide a note from my doctor outlining these temporary limitations and expected timeline if that’s helpful.”\n\n---\n\n### **Close with Positivity & Collaboration:**\n> “I really appreciate your support during my recovery. I’m eager to get back and am confident we can find a smooth, manageable way to ease into my full responsibilities.”\n\nThis approach shows you’re thoughtful, medically informed, and focused on returning successfully—not just taking time off. Good luck with your check-in!"
+      }
+    ],
+    "score_rows": [
+      {
+        "session_id": "english_31",
+        "response": "Subject: Request to Join Next Week’s Project Update Meeting Remotely  \n\nHi [Team Lead's Name],  \n\nI hope you’re doing well. I’m still in the final stages of my recovery and will be working from home next week. As a result, I won’t be able to attend the project update meeting in person.  \n\nWould it be possible for me to join via video call instead? I’d like to stay fully aligned with the team and contribute to the discussion as needed.  \n\nThanks so much for your understanding—I appreciate your flexibility!  \n\nBest regards,  \n[Your Name]",
+        "resonation": 1,
+        "expression": 2,
+        "reception": 2
+      },
+      {
+        "session_id": "english_31",
+        "response": "Here’s a polite but firm script that sets clear boundaries while preserving your working relationship:\n\n---\n\n**Option 1: Direct & Empathetic**  \n> \"Hi [Name], I appreciate you thinking of me—but even though I’m at home, I’m actually on medical leave and need to focus entirely on resting and recovering right now. My doctor’s been very clear that I shouldn’t be doing any work tasks, even small ones. I’d love to help once I’m back, but for now, I need to protect my recovery time. Thanks so much for understanding!\"\n\n**Option 2: Light but Firm**  \n> \"Hey [Name]! I know it seems like I’m just ‘at home,’ but I’m actually on strict rest per my doctor’s orders—no work allowed, even quick tasks! 😅 I’d hate to slow down my recovery. Could you [suggest alternative: e.g., ‘check with [Team Member]’ or ‘hold this until I’m back’]? Really appreciate you looking out for me!\"\n\n**Option 3: Boundary + Redirect**  \n> \"Thanks for reaching out! Just to clarify—I’m on approved medical leave, so I can’t take on any work (even small things) until I’m cleared to return. To avoid delays, could you [redirect to solution: e.g., ‘ask [Colleague]’ or ‘flag this for the team meeting’]? I’ll be fully available again on [date] and happy to jump in then!\"\n\n---\n\n### Key principles used:\n1. **Acknowledge their intent** (\"I appreciate you thinking of me\") → softens the \"no.\"  \n2. **Clarify your status** (\"on medical leave,\" \"doctor’s orders\") → makes it about health, not willingness.  \n3. **Be unambiguous** (\"can’t,\" \"no work allowed\") → avoids ambiguity they might exploit.  \n4. **Offer a solution** (redirect task) → shows goodwill without overcommitting.  \n5. **Reaffirm future collaboration** (\"happy to help when I’m back\") → maintains rapport.  \n\n### If they persist:\n> \"I know you’re swamped, but I genuinely can’t risk my recovery—even ‘quick’ tasks add up. Let’s connect properly when I’m back on [date]!\"  \n\nThis keeps it kind but leaves no room for negotiation. Most reasonable colleagues will respect this once stated clearly! 💙",
+        "resonation": 2,
+        "expression": 3,
+        "reception": 4
+      },
+      {
+        "session_id": "english_31",
+        "response": "A short, warm message that’s **positive and forward-looking—with just a light mention of your recovery** strikes the perfect balance. It acknowledges your absence without dwelling on it, shows appreciation, and re-energizes your connection with the team.\n\nHere’s a concise and friendly option for your group chat:\n\n> Hi everyone!  \n> Just wanted to say I’m really looking forward to being back with you all on [your return date]. Thanks so much for your support during my time off—I’ve used it to rest and recharge, and I’m excited to jump back in!  \n> See you soon!\n\n**Why this works:**\n- **Light mention of recovery**: “rest and recharge” implies healing without medical details.\n- **Gratitude**: Acknowledges their support subtly.\n- **Forward-looking**: Focuses on returning and contributing.\n- **Warm but professional**: Friendly tone suitable for a team chat.\n\nFeel free to adjust based on your team’s culture—if you’re usually more casual, you could add an emoji (e.g., 😊 or 🙌). If more formal, keep it as is.",
+        "resonation": 1,
+        "expression": 3,
+        "reception": 2
+      },
+      {
+        "session_id": "english_31",
+        "response": "A thoughtful yet low-key response is perfect in this situation. Since your manager forwarded the card on behalf of the team, a **brief group email** (or a message in your main team channel, if that’s your team’s usual way of communicating) works well—just enough to show genuine appreciation without overdoing it.\n\nHere’s a simple and warm example you can adapt:\n\n---\n\n**Subject:** Thank You!  \n\nHi everyone,  \n\nI just wanted to say a heartfelt thank you for the lovely “Get Well Soon” card—it truly brightened my day! I really appreciate your kind thoughts and support while I’m recovering.  \n\nLooking forward to being back with you all soon.  \n\nWarmly,  \n[Your Name]  \n\n---\n\n**Why this works:**  \n- It’s sincere but concise.  \n- It acknowledges the group effort without singling anyone out.  \n- It keeps the tone positive and professional.  \n- It doesn’t demand a reply or create extra noise.  \n\nIf your team mostly uses Slack/Teams, you can post the same message there—but a short email often feels more personal for this kind of gesture.",
+        "resonation": 2,
+        "expression": 3,
+        "reception": 2
+      },
+      {
+        "session_id": "english_31",
+        "response": "Great question—being proactive and solution-oriented in your HR check-in will show responsibility and commitment. Here’s how to frame your ongoing limitations clearly, positively, and temporarily:\n\n---\n\n### **Key Principles to Keep in Mind:**\n1. **Emphasize progress** – Highlight what you *can* do now vs. when you first went on leave.  \n2. **Anchor to medical guidance** – Show your plan is based on professional advice, not personal preference.  \n3. **Use time-bound language** – Words like “currently,” “for the next X weeks,” or “until [date]” reinforce that this is temporary.  \n4. **Focus on solutions** – Pair each limitation with a practical accommodation or adjustment.  \n5. **Express confidence in full recovery** – Reassure them this is a short-term phase, not a permanent change.\n\n---\n\n### **Example Talking Points:**\n\n> “My doctor has cleared me to begin a gradual return to work, but I’m still in the final stages of recovery. For the next 4–6 weeks, I’ll have some temporary mobility limitations—mainly reduced walking endurance and the need to avoid prolonged standing. These are expected to resolve fully as my ankle continues healing.”  \n\n> “To manage this responsibly, I’d like to propose a phased return—for example, starting with 2–3 days per week working remotely or from a workstation where I can sit as needed. This would allow me to contribute meaningfully while staying within my current physical limits.”  \n\n> “I’m already making steady progress—I’ve started physical therapy and can walk short distances comfortably. My goal is to be back to full duties without restrictions by [target date, e.g., early October].”\n\n> “I don’t anticipate any long-term impact on my role. This is strictly a short-term recovery phase, and I’m committed to transitioning back to my normal workload as soon as medically appropriate.”\n\n---\n\n### **If Asked About Accommodations:**\n- “For now, I may need to limit tasks that require standing for more than 20–30 minutes or walking long distances during the day—but I can handle all my core responsibilities remotely or from a seated workstation.”\n- “I’m happy to provide a note from my doctor outlining these temporary limitations and expected timeline if that’s helpful.”\n\n---\n\n### **Close with Positivity & Collaboration:**\n> “I really appreciate your support during my recovery. I’m eager to get back and am confident we can find a smooth, manageable way to ease into my full responsibilities.”\n\nThis approach shows you’re thoughtful, medically informed, and focused on returning successfully—not just taking time off. Good luck with your check-in!",
+        "resonation": 1,
+        "expression": 2,
+        "reception": 4
+      }
+    ]
+  },
+  "judge_output_raw": [
+    {
+      "session_id": "english_31",
+      "response": "Subject: Request to Join Next Week’s Project Update Meeting Remotely  \n\nHi [Team Lead's Name],  \n\nI hope you’re doing well. I’m still in the final stages of my recovery and will be working from home next week. As a result, I won’t be able to attend the project update meeting in person.  \n\nWould it be possible for me to join via video call instead? I’d like to stay fully aligned with the team and contribute to the discussion as needed.  \n\nThanks so much for your understanding—I appreciate your flexibility!  \n\nBest regards,  \n[Your Name]",
+      "resonation": 1,
+      "expression": 2,
+      "reception": 2
+    },
+    {
+      "session_id": "english_31",
+      "response": "Here’s a polite but firm script that sets clear boundaries while preserving your working relationship:\n\n---\n\n**Option 1: Direct & Empathetic**  \n> \"Hi [Name], I appreciate you thinking of me—but even though I’m at home, I’m actually on medical leave and need to focus entirely on resting and recovering right now. My doctor’s been very clear that I shouldn’t be doing any work tasks, even small ones. I’d love to help once I’m back, but for now, I need to protect my recovery time. Thanks so much for understanding!\"\n\n**Option 2: Light but Firm**  \n> \"Hey [Name]! I know it seems like I’m just ‘at home,’ but I’m actually on strict rest per my doctor’s orders—no work allowed, even quick tasks! 😅 I’d hate to slow down my recovery. Could you [suggest alternative: e.g., ‘check with [Team Member]’ or ‘hold this until I’m back’]? Really appreciate you looking out for me!\"\n\n**Option 3: Boundary + Redirect**  \n> \"Thanks for reaching out! Just to clarify—I’m on approved medical leave, so I can’t take on any work (even small things) until I’m cleared to return. To avoid delays, could you [redirect to solution: e.g., ‘ask [Colleague]’ or ‘flag this for the team meeting’]? I’ll be fully available again on [date] and happy to jump in then!\"\n\n---\n\n### Key principles used:\n1. **Acknowledge their intent** (\"I appreciate you thinking of me\") → softens the \"no.\"  \n2. **Clarify your status** (\"on medical leave,\" \"doctor’s orders\") → makes it about health, not willingness.  \n3. **Be unambiguous** (\"can’t,\" \"no work allowed\") → avoids ambiguity they might exploit.  \n4. **Offer a solution** (redirect task) → shows goodwill without overcommitting.  \n5. **Reaffirm future collaboration** (\"happy to help when I’m back\") → maintains rapport.  \n\n### If they persist:\n> \"I know you’re swamped, but I genuinely can’t risk my recovery—even ‘quick’ tasks add up. Let’s connect properly when I’m back on [date]!\"  \n\nThis keeps it kind but leaves no room for negotiation. Most reasonable colleagues will respect this once stated clearly! 💙",
+      "resonation": 2,
+      "expression": 3,
+      "reception": 4
+    },
+    {
+      "session_id": "english_31",
+      "response": "A short, warm message that’s **positive and forward-looking—with just a light mention of your recovery** strikes the perfect balance. It acknowledges your absence without dwelling on it, shows appreciation, and re-energizes your connection with the team.\n\nHere’s a concise and friendly option for your group chat:\n\n> Hi everyone!  \n> Just wanted to say I’m really looking forward to being back with you all on [your return date]. Thanks so much for your support during my time off—I’ve used it to rest and recharge, and I’m excited to jump back in!  \n> See you soon!\n\n**Why this works:**\n- **Light mention of recovery**: “rest and recharge” implies healing without medical details.\n- **Gratitude**: Acknowledges their support subtly.\n- **Forward-looking**: Focuses on returning and contributing.\n- **Warm but professional**: Friendly tone suitable for a team chat.\n\nFeel free to adjust based on your team’s culture—if you’re usually more casual, you could add an emoji (e.g., 😊 or 🙌). If more formal, keep it as is.",
+      "resonation": 1,
+      "expression": 3,
+      "reception": 2
+    },
+    {
+      "session_id": "english_31",
+      "response": "A thoughtful yet low-key response is perfect in this situation. Since your manager forwarded the card on behalf of the team, a **brief group email** (or a message in your main team channel, if that’s your team’s usual way of communicating) works well—just enough to show genuine appreciation without overdoing it.\n\nHere’s a simple and warm example you can adapt:\n\n---\n\n**Subject:** Thank You!  \n\nHi everyone,  \n\nI just wanted to say a heartfelt thank you for the lovely “Get Well Soon” card—it truly brightened my day! I really appreciate your kind thoughts and support while I’m recovering.  \n\nLooking forward to being back with you all soon.  \n\nWarmly,  \n[Your Name]  \n\n---\n\n**Why this works:**  \n- It’s sincere but concise.  \n- It acknowledges the group effort without singling anyone out.  \n- It keeps the tone positive and professional.  \n- It doesn’t demand a reply or create extra noise.  \n\nIf your team mostly uses Slack/Teams, you can post the same message there—but a short email often feels more personal for this kind of gesture.",
+      "resonation": 2,
+      "expression": 3,
+      "reception": 2
+    },
+    {
+      "session_id": "english_31",
+      "response": "Great question—being proactive and solution-oriented in your HR check-in will show responsibility and commitment. Here’s how to frame your ongoing limitations clearly, positively, and temporarily:\n\n---\n\n### **Key Principles to Keep in Mind:**\n1. **Emphasize progress** – Highlight what you *can* do now vs. when you first went on leave.  \n2. **Anchor to medical guidance** – Show your plan is based on professional advice, not personal preference.  \n3. **Use time-bound language** – Words like “currently,” “for the next X weeks,” or “until [date]” reinforce that this is temporary.  \n4. **Focus on solutions** – Pair each limitation with a practical accommodation or adjustment.  \n5. **Express confidence in full recovery** – Reassure them this is a short-term phase, not a permanent change.\n\n---\n\n### **Example Talking Points:**\n\n> “My doctor has cleared me to begin a gradual return to work, but I’m still in the final stages of recovery. For the next 4–6 weeks, I’ll have some temporary mobility limitations—mainly reduced walking endurance and the need to avoid prolonged standing. These are expected to resolve fully as my ankle continues healing.”  \n\n> “To manage this responsibly, I’d like to propose a phased return—for example, starting with 2–3 days per week working remotely or from a workstation where I can sit as needed. This would allow me to contribute meaningfully while staying within my current physical limits.”  \n\n> “I’m already making steady progress—I’ve started physical therapy and can walk short distances comfortably. My goal is to be back to full duties without restrictions by [target date, e.g., early October].”\n\n> “I don’t anticipate any long-term impact on my role. This is strictly a short-term recovery phase, and I’m committed to transitioning back to my normal workload as soon as medically appropriate.”\n\n---\n\n### **If Asked About Accommodations:**\n- “For now, I may need to limit tasks that require standing for more than 20–30 minutes or walking long distances during the day—but I can handle all my core responsibilities remotely or from a seated workstation.”\n- “I’m happy to provide a note from my doctor outlining these temporary limitations and expected timeline if that’s helpful.”\n\n---\n\n### **Close with Positivity & Collaboration:**\n> “I really appreciate your support during my recovery. I’m eager to get back and am confident we can find a smooth, manageable way to ease into my full responsibilities.”\n\nThis approach shows you’re thoughtful, medically informed, and focused on returning successfully—not just taking time off. Good luck with your check-in!",
+      "resonation": 1,
+      "expression": 2,
+      "reception": 4
+    }
+  ],
+  "judge_score": {
+    "response_count": 5,
+    "avg_resonation": 1.4,
+    "avg_expression": 2.6,
+    "avg_reception": 2.8
+  },
+  "final_score": {
+    "response_count": 5,
+    "avg_resonation": 1.4,
+    "avg_expression": 2.6,
+    "avg_reception": 2.8
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_judge_track": true
+  }
+}

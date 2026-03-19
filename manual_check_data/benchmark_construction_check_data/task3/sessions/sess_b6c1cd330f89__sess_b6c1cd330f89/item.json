@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_b6c1cd330f89",
+  "session_id": "sess_b6c1cd330f89",
+  "stratum": "Preferences/Technical_Processing",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "deepseek-reasoner",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Prefers using fast libraries for processing multi-gigabyte datasets",
+      "label": "Preferences/Technical_Processing"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Sustained academic focus on solving geometry, physics, and language exercises with urgency",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "International graduate student (Fall 2023 start)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep curiosity about theological concepts (Antediluvians/Great Flood) and speculative connections to geological features like Lake Baikal/permafrost",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in German technical terminology validation and project structure articulation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Collaborates artistically with mother",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes phones with excellent cameras",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Work authorization in US without sponsorship",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Office located on 40th floor of PP1 building",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Blocks all Cloudflare-related activity in browser",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Only consider homozygous genotypes (AA/BB) and exclude heterozygotes/missing data in genetic analysis",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on techniques to humanize AI-generated academic writing and evade detection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Current PC configuration: AMD 3500X CPU + AMD RX5700 GPU",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Enjoys reading books like Harry Potter, The Hunger Games, To Kill a Mockingbird, and The Kite Runner",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Athletic with six-pack",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Likely based in Ukraine (references to military context and nationwide production networks)",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Collecting complete discographies (e.g., The Sundays' non-album tracks)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-mainstream free tidal flat areas over popular attractions",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Seeks cloudy/overcast morning beach content variations",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Rejection of hybrid ColBERTv2+RAPTOR approach due to error propagation risk in imperfect initial retrieval",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m7",
+        "value": "National team athlete in handball, volleyball, and Laser class sailing",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers smaller-scale campsites",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers content贴近 daily life without being overly direct",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained technical focus on Indonesian political sentiment analysis methodology (NLTK/Sastrawi preprocessing, LSTM vs Transformer model comparison)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using fast libraries for processing multi-gigabyte datasets",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers responses always in Chinese",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers working with progressive, friendly colleagues and experienced managers",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Does not want relationship advice",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about polarized light imaging techniques (NSCT, SPCNN, sensors) and their color applications [ERROR: Evidence only shows one inquiry about color; repeated pattern not demonstrated in provided evidence]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses bike commute as sports exercise",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Concerned about marital sexual dynamics",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about resume/LinkedIn content creation strategies for technical leadership and cross-functional collaboration [ERROR: Unsupported by evidence: Evidence shows task requests, not self-reported curiosity]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Felt inadequate after recent test",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about finding stock stores of elite clothing brands in Saint Petersburg with low prices and good assortment",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Strong dissatisfaction with domestic apparel market (low quality/price ratio + lack of diversity)",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "曾依宁",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Milvus for vector search implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Rejection of hybrid ColBERTv2+RAPTOR approach due to error propagation risk in imperfect initial retrieval",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has two children: Sophia and a younger son",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has best friends Frehiwot, Victoria, and Maryam",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers structured writing guidance (outlines, paragraph breakdowns, stylistic adjustments)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Working on a thesis about lower GI bleed epidemiology",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Intent to continue research connecting narrative biases with digital data collection",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on compliance with Fair Work Act 2009, Work Health and Safety Act 2011, and Bounce Fitness policies for workplace improvements",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Celebrated childhood birthdays at amusement parks with family/friends",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m10",
+        "value": "Sustained interest in Marvel character traits/development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Repeated detailed inquiries about product specs/customization (lids, accessories, pricing)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "24岁男性，身高180cm，体重80kg",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m7",
+        "value": "容易被声音干扰",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Often includes no onion/garlic recipes for audience needs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Notes that Stop&Shop has become expensive for Cape Cod locals recently",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained focus on product design flaws (short drain pipes, missing bottom panels)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "MS in Information Systems from Syracuse University (2023), BEng in Computer Engineering from Mumbai University (2020)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Explicitly rejects high-intensity workout approaches",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Dislikes school and finds it worse than previous years",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Only consider homozygous genotypes (AA/BB) and exclude heterozygotes/missing data in genetic analysis",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires 3-column output format (SNP, best genotype, phenotype mean) for genetic analysis results",
+        "label": "Preferences/Technical_Output"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Uses Hugging Face datasets for translation projects",
+        "label": "Preferences/Data_Sources"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about marketing concepts (e-commerce vs. digital marketing, reach/CPT calculations)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Creates male kigurumi (mascot costume) outfits for performers",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Avoids discussing past soccer records",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks resolution strategies for engagement dissolution (legal action, mediation, direct negotiation)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Cooks for 3 people",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Enjoys sewing, knitting, crocheting, making greeting cards",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about Japanese cultural traditions (sugi trees, festivals, language)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Plans to attend university by achieving high GPA",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Aim to understand English movies/series easily within 3 months",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained focus on refining business partnership narratives and investment processes",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep interest in cholesterol biology (liver production vs dietary intake)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids technical term '星历' (ephemeris) in user-facing copy",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Often includes no onion/garlic recipes for audience needs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers synthetic wigs over human hair",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Argentine political/societal issues (Peronist governance, Milei's policies, civil war risks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Milvus for vector search implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Senior recruiter specializing in technical automotive roles",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Persistent curiosity about generating dark humor jokes involving taboo subjects and role-play scenarios",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about intensive gaming schedule planning (500 games/month, 40min each) and time management strategies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Tends to take on too many tasks, working on prioritization",
+        "label": "UNMAPPED"
+      }
+    ],
+    "query": "I’m about to build a batch ETL job that scans and joins a really huge table dump, and I can choose between a straightforward “most common” library stack or a more performance-focused one. Given what you know about how I like to handle this kind of workload, which direction should I pick—and why would that fit me better?",
+    "metadata": {
+      "session_id": "sess_b6c1cd330f89",
+      "dialog_id": "dlg_m2_001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

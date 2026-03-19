@@ -1,0 +1,842 @@
+[
+  {
+    "canonical_id": "82492",
+    "session_id": "sess_e8b883aaf2b3",
+    "stratum": "Possessions/Car",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "31310",
+    "session_id": "sess_c57d6fd8dffa",
+    "stratum": "Personal_Background/Education",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "1696",
+    "session_id": "sess_7907b413f664",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "26891",
+    "session_id": "sess_827615061cc1",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "12530",
+    "session_id": "sess_49682b0b72ee",
+    "stratum": "Social_Relationships/Family",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "36406",
+    "session_id": "sess_c9a388f15e65",
+    "stratum": "Social_Relationships/Colleagues",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "75430",
+    "session_id": "sess_761fabdf51e8",
+    "stratum": "Preferences/Entertainment",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "9191",
+    "session_id": "sess_cdeb67330442",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "14901",
+    "session_id": "sess_683f2ea51eb4",
+    "stratum": "Preferences/Food",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "83154",
+    "session_id": "sess_dbed16812cae",
+    "stratum": "UNMAPPED",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "74754",
+    "session_id": "sess_12fa97d9bf0b",
+    "stratum": "Preferences/Interaction_Preferences",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "5458",
+    "session_id": "sess_d8850a5f4e67",
+    "stratum": "Social_Relationships/Adversarial",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "66681",
+    "session_id": "sess_c1206e2c7346",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "30990",
+    "session_id": "sess_4518f9da7893",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "68502",
+    "session_id": "sess_19a2eca7dff0",
+    "stratum": "Social_Relationships/Colleagues",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "77096",
+    "session_id": "sess_d114c45b0bda",
+    "stratum": "Personal_Background/Technology_Stack",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "39495",
+    "session_id": "sess_b0a2c3154b46",
+    "stratum": "Preferences/Reading",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "4169",
+    "session_id": "sess_63438def6ca9",
+    "stratum": "States_Experiences/Mental_State",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "5847",
+    "session_id": "sess_ff30161d1207",
+    "stratum": "Preferences/Technical_Processing",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "41096",
+    "session_id": "sess_0e71f84cce52",
+    "stratum": "Preferences/Food",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "1006",
+    "session_id": "sess_f844408a70ae",
+    "stratum": "Thoughts/Goals/Long_Term",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "99956",
+    "session_id": "sess_a102262a21a6",
+    "stratum": "States_Experiences/Physical_State",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "84104",
+    "session_id": "sess_6e2c5f758a7a",
+    "stratum": "Preferences/Entertainment",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "10681",
+    "session_id": "sess_60a1f20020ec",
+    "stratum": "Preferences/Interaction_Preferences",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "703",
+    "session_id": "sess_1da26f10203b",
+    "stratum": "Preferences/Education",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "298",
+    "session_id": "sess_c59a0dd48561",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "28510",
+    "session_id": "sess_a35cf995b063",
+    "stratum": "Preferences/Technical_Tools",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "26243",
+    "session_id": "sess_54a77d4b52e0",
+    "stratum": "Preferences/Sports",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "87756",
+    "session_id": "sess_af138a14aede",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "809",
+    "session_id": "sess_6b9071088bbf",
+    "stratum": "Preferences/Entertainment",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "16039",
+    "session_id": "sess_32dc9fda9d63",
+    "stratum": "Possessions/Car",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "66966",
+    "session_id": "sess_caedea24c67f",
+    "stratum": "Thoughts/Opinions/Positive",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "40017",
+    "session_id": "sess_f2b6a974bbb0",
+    "stratum": "Preferences/Sports",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "30316",
+    "session_id": "sess_8fc3ff7565cd",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "2848",
+    "session_id": "sess_b9fb669649c3",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "28410",
+    "session_id": "sess_e75fb6edc451",
+    "stratum": "Thoughts/Opinions/Negative",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "11803",
+    "session_id": "sess_8a53f08439b8",
+    "stratum": "Social_Relationships/Partners",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "111193",
+    "session_id": "sess_0878c4dfa357",
+    "stratum": "Social_Relationships/Colleagues",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "15304",
+    "session_id": "sess_5c94eaad30b2",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "64638",
+    "session_id": "sess_70b585eb17e0",
+    "stratum": "Preferences/Food",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "41341",
+    "session_id": "sess_46463de1f846",
+    "stratum": "Preferences/Unmapping/washing_machine",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "5682",
+    "session_id": "sess_942dbb62dade",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "4711",
+    "session_id": "sess_5379630c3836",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "13627",
+    "session_id": "sess_8b1d2f29f379",
+    "stratum": "States_Experiences/Mental_State",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "858",
+    "session_id": "sess_5b0d33b5e8bf",
+    "stratum": "Preferences/Technical_Stack",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "8857",
+    "session_id": "sess_535b0d6ee9a5",
+    "stratum": "Preferences/Technical_Stack",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "23419",
+    "session_id": "sess_35bba8793d96",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "4915",
+    "session_id": "sess_8cc48e4742e0",
+    "stratum": "Preferences/Education",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "68270",
+    "session_id": "sess_9419e4f02a37",
+    "stratum": "Preferences/Interaction_Preferences",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "17038",
+    "session_id": "sess_1584c8fcc0e0",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "39616",
+    "session_id": "sess_9b5c7aec48ae",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "5492",
+    "session_id": "sess_153d11eb6d83",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "1659",
+    "session_id": "sess_b029d4129276",
+    "stratum": "Preferences/Technical_Implementation",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "27013",
+    "session_id": "sess_9c89090d1097",
+    "stratum": "Social_Relationships/Partners",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "24146",
+    "session_id": "sess_922b6e5bd2a8",
+    "stratum": "Social_Relationships/Partners",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "71375",
+    "session_id": "sess_550f8a7879bc",
+    "stratum": "Preferences/Music",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "63444",
+    "session_id": "sess_44cad9c76ff1",
+    "stratum": "Possessions/Important_Items",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "82129",
+    "session_id": "sess_d54a3d5cfede",
+    "stratum": "Preferences/Music",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "92645",
+    "session_id": "sess_b526ae2ae07a",
+    "stratum": "UNMAPPED",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "76607",
+    "session_id": "sess_fc718307f0d8",
+    "stratum": "Thoughts/Opinions/Negative",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "25785",
+    "session_id": "sess_fb43d3c2720d",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "139",
+    "session_id": "sess_200054b7c267",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "39866",
+    "session_id": "sess_bee35b074326",
+    "stratum": "Personal_Background/Education",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "100219",
+    "session_id": "sess_ae73cd9fda7f",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "21901",
+    "session_id": "sess_840f7d7f198b",
+    "stratum": "Possessions/Important_Items",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "586",
+    "session_id": "sess_1dd2acf1efa3",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "19378",
+    "session_id": "sess_1c4910cb61b3",
+    "stratum": "Preferences/Technical_Tools",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "16715",
+    "session_id": "sess_cd0d2326a1d2",
+    "stratum": "Personal_Background/Family",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "39156",
+    "session_id": "sess_96f198613004",
+    "stratum": "Thoughts/Goals/Long_Term",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "102652",
+    "session_id": "sess_7e39e29cbc85",
+    "stratum": "Preferences/Shopping",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "29171",
+    "session_id": "sess_d979b1f2405f",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "8198",
+    "session_id": "sess_8c5122e91b80",
+    "stratum": "Personal_Background/Family",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "28766",
+    "session_id": "sess_5ae456beca3f",
+    "stratum": "Personal_Background/Location",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "1476",
+    "session_id": "sess_0f7562d2d76a",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "18437",
+    "session_id": "sess_80463b62d303",
+    "stratum": "Plans/Schedule",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "29302",
+    "session_id": "sess_cd516d57c523",
+    "stratum": "Personal_Background/Occupation",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "1791",
+    "session_id": "sess_bba99aa59975",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "72492",
+    "session_id": "sess_3b6f03d49310",
+    "stratum": "Personal_Background/Habits",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "114623",
+    "session_id": "sess_bcce5802704a",
+    "stratum": "Preferences/Shopping",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "67973",
+    "session_id": "sess_d34cfb83c5e0",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "1019",
+    "session_id": "sess_523f87c7916e",
+    "stratum": "Interaction_Preferences",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "21213",
+    "session_id": "sess_3d85bb65f065",
+    "stratum": "Thoughts/Opinions/Positive",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "3123",
+    "session_id": "sess_d02bd56d8ae3",
+    "stratum": "Preferences/Shopping",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "20155",
+    "session_id": "sess_baef661dc949",
+    "stratum": "Personal_Background/Location",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "80623",
+    "session_id": "sess_116af6679eb7",
+    "stratum": "Preferences/Education",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "118114",
+    "session_id": "sess_384d543ac6cb",
+    "stratum": "Plans/Schedule",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "623",
+    "session_id": "sess_a6ce011e63cb",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "61119",
+    "session_id": "sess_ee039194016f",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "3463",
+    "session_id": "sess_2002f2574b94",
+    "stratum": "Personal_Background/Location",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "44179",
+    "session_id": "sess_71c4b5cc255e",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "4530",
+    "session_id": "sess_10253315cb02",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "11433",
+    "session_id": "sess_8e87a6f68497",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "60621",
+    "session_id": "sess_bc24b55b3779",
+    "stratum": "States_Experiences/Physical_State",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "87852",
+    "session_id": "sess_8b6eb01a78ba",
+    "stratum": "Possessions/Pet",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "28246",
+    "session_id": "sess_db8c2bb9928d",
+    "stratum": "Social_Relationships/Family",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "14512",
+    "session_id": "sess_916829fae6ad",
+    "stratum": "Possessions/Pet",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "19291",
+    "session_id": "sess_db8dc8885467",
+    "stratum": "Possessions/Car",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "8526",
+    "session_id": "sess_0ff48f596189",
+    "stratum": "Thoughts/Opinions/Negative",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "36523",
+    "session_id": "sess_bec588789c1f",
+    "stratum": "Social_Relationships/Family",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "21111",
+    "session_id": "sess_45ab8daef464",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "73394",
+    "session_id": "sess_18c82098e0f4",
+    "stratum": "Preferences/Music",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "21230",
+    "session_id": "sess_3ce57e2e7aa0",
+    "stratum": "Preferences/Technical_Processing",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "80229",
+    "session_id": "sess_30eb0cea9b07",
+    "stratum": "Plans/Commitments",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "17244",
+    "session_id": "sess_0e06d503fe19",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "13244",
+    "session_id": "sess_74e64c1bd00d",
+    "stratum": "Preferences/Reading",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "110337",
+    "session_id": "sess_1f39ce4870c2",
+    "stratum": "Preferences/Reading",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "41605",
+    "session_id": "sess_5d463810b9ee",
+    "stratum": "Preferences/Reading",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "41435",
+    "session_id": "sess_fd62c42791d8",
+    "stratum": "Personal_Background/Unmapping/Account_Balance",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "1256",
+    "session_id": "sess_69d8f6208f2e",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "3996",
+    "session_id": "sess_5a8befb23c20",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "31638",
+    "session_id": "sess_2d04576efc42",
+    "stratum": "Preferences/Shopping",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "10095",
+    "session_id": "sess_940fa92cba34",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "13963",
+    "session_id": "sess_a22d6d6836f0",
+    "stratum": "Preferences/Technical_Tools",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "84192",
+    "session_id": "sess_21332b457088",
+    "stratum": "Personal_Background/Family",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "1426",
+    "session_id": "sess_dcc2b45efe0d",
+    "stratum": "Personal_Background/Education",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "11478",
+    "session_id": "sess_355e0ac21f20",
+    "stratum": "States_Experiences/Physical_State",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "27229",
+    "session_id": "sess_82585de5109b",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "10711",
+    "session_id": "sess_e99ed652e986",
+    "stratum": "Preferences/Sports",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "10558",
+    "session_id": "sess_6f70e950f3e0",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "77421",
+    "session_id": "sess_2e2d179830f8",
+    "stratum": "Possessions/Pet",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "7742",
+    "session_id": "sess_92baa925b8c5",
+    "stratum": "Preferences/Software_Antivirus",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "70906",
+    "session_id": "sess_b98e435dd30d",
+    "stratum": "Thoughts/Goals/Long_Term",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "36728",
+    "session_id": "sess_0d0c254f850e",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "36762",
+    "session_id": "sess_be9886b3c618",
+    "stratum": "Personal_Background/Occupation",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "60",
+    "session_id": "sess_c2c6b0372983",
+    "stratum": "Interaction_Preferences",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "31132",
+    "session_id": "sess_986253ed0be8",
+    "stratum": "interaction/style/preference",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "39700",
+    "session_id": "sess_9e36607a3674",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "67603",
+    "session_id": "sess_fe1361f54a1d",
+    "stratum": "States_Experiences/Mental_State",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "2586",
+    "session_id": "sess_c728818681c3",
+    "stratum": "Preferences/Sports",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "3240",
+    "session_id": "sess_78bf7fdd8bcb",
+    "stratum": "Social_Relationships/Adversarial",
+    "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "65391",
+    "session_id": "sess_b5026374c479",
+    "stratum": "Preferences/Music",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "12880",
+    "session_id": "sess_73b67a0768ef",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model_for_judge_track": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "7499",
+    "session_id": "sess_40e5ab923c2b",
+    "stratum": "Personal_Background/Location",
+    "assigned_model_for_judge_track": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "66708",
+    "session_id": "sess_75c41e4edc97",
+    "stratum": "Personal_Background/Occupation",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "75791",
+    "session_id": "sess_106869d719d0",
+    "stratum": "Possessions/Important_Items",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "45947",
+    "session_id": "sess_1a326d65d20d",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "97197",
+    "session_id": "sess_936f14b3d604",
+    "stratum": "States_Experiences/Physical_State",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "2686",
+    "session_id": "sess_ea3272f41fc7",
+    "stratum": "Interaction_Preferences",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  },
+  {
+    "canonical_id": "77856",
+    "session_id": "sess_fe7ff54353b4",
+    "stratum": "Plans/Schedule",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "74426",
+    "session_id": "sess_9e3cde01d9fd",
+    "stratum": "UNMAPPED",
+    "assigned_model_for_judge_track": "gpt-4.1-mini_again"
+  }
+]

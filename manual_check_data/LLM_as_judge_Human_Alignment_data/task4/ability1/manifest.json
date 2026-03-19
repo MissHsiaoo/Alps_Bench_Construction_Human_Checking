@@ -1,0 +1,170 @@
+[
+  {
+    "canonical_id": "ability1_506",
+    "session_id": "ability1_506",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability1_91",
+    "session_id": "ability1_91",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt4.1-mini"
+  },
+  {
+    "canonical_id": "ability1_389",
+    "session_id": "ability1_389",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability1_343",
+    "session_id": "ability1_343",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt4.1-mini"
+  },
+  {
+    "canonical_id": "ability1_477",
+    "session_id": "ability1_477",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability1_363",
+    "session_id": "ability1_363",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability1_336",
+    "session_id": "ability1_336",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability1_221",
+    "session_id": "ability1_221",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability1_238",
+    "session_id": "ability1_238",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability1_165",
+    "session_id": "ability1_165",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability1_11",
+    "session_id": "ability1_11",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability1_132",
+    "session_id": "ability1_132",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability1_558",
+    "session_id": "ability1_558",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability1_338",
+    "session_id": "ability1_338",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability1_57",
+    "session_id": "ability1_57",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt4.1-mini"
+  },
+  {
+    "canonical_id": "ability1_48",
+    "session_id": "ability1_48",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability1_537",
+    "session_id": "ability1_537",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability1_96",
+    "session_id": "ability1_96",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability1_201",
+    "session_id": "ability1_201",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability1_158",
+    "session_id": "ability1_158",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability1_313",
+    "session_id": "ability1_313",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability1_205",
+    "session_id": "ability1_205",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_claude4.5"
+  },
+  {
+    "canonical_id": "ability1_34",
+    "session_id": "ability1_34",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_llama4"
+  },
+  {
+    "canonical_id": "ability1_87",
+    "session_id": "ability1_87",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gemini3.5"
+  },
+  {
+    "canonical_id": "ability1_344",
+    "session_id": "ability1_344",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_deepseekr1"
+  },
+  {
+    "canonical_id": "ability1_356",
+    "session_id": "ability1_356",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_qwen3"
+  },
+  {
+    "canonical_id": "ability1_10",
+    "session_id": "ability1_10",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt5.2"
+  },
+  {
+    "canonical_id": "ability1_19",
+    "session_id": "ability1_19",
+    "stratum": "UNKNOWN",
+    "assigned_model": "vanilla_gpt4.1-mini"
+  }
+]

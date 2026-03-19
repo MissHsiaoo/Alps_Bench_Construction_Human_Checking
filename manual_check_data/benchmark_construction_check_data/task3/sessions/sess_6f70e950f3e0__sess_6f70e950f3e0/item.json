@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_6f70e950f3e0",
+  "session_id": "sess_6f70e950f3e0",
+  "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "claude-sonnet-4-5-20250929",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Political discussions cause conflicts with family",
+      "label": "Constraints_and_Boundaries/Sensitive_Topics"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m2",
+        "value": "professional inquiries",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers repeated lyric fade-out endings and key adjustments",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Requires advance contact from private/non-public social media accounts before accepting follows",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Completed military service in Bojnord Police force as third lieutenant",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires MLA style references for academic writing",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Noise reduction doesn't negatively impact transcription quality",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about language error correction mechanics and cross-session memory capabilities",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aspiring to obtain CPA designation",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers informal/funny tone for friend messages",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in file versioning strategies for audio processing outputs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Advanced Excel, SAP APO, PowerBI, o9 implementation project experience",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Grew up in Hong Kong for 12 years, born there",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Concern about divorce impact on children and cohabiting relatives",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Admitted to UC Berkeley's Master Program",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers living in big cities for better job opportunities despite traffic issues",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers iterative development focusing on single functionalities first",
+        "label": "Preferences/Technical_Development"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Desires to live abroad",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers sandwiches over risotto (shrimp/bacon)",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Was heavily interested in electronic music between 2011-2014",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Noise reduction doesn't negatively impact transcription quality",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers future conversations in Korean/Japanese when in their location [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained technical curiosity about motherboard brands (Asus/Gigabyte/MSI) and WiFi range limitations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Primarily targets marketing, sales, and business development roles",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Diaoyu Islands belong to China",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Divorced but maintains friendship with ex-husband",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Enjoys TV/movies, mobile games, and exploring new technologies like ChatGPT",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers bilingual support (French to English translations for messages)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Served as student representative for engineering cohort",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concerts as a relaxation method involving music and socializing",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Researching nursing colleges in Delhi/NCR region",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Mother used to buy specific chocolate bars during childhood",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Plans to return to University of Bojnord as full-time faculty member after PhD completion",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers content with police officer examples for personalization [ERROR: User's instructions are task-specific (content generation), not a self-reported personal preference.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Rejection of hybrid ColBERTv2+RAPTOR approach due to error propagation risk in imperfect initial retrieval",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Interested in testing strategies for translation tools (negative/positive checks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Considering relocation from Tomsk to St. Petersburg",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires ultra-concise formatting (50/100字以内)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Desires to live abroad",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers grammar checks for professional communications",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Blocked from using Visa/Mastercard due to sanctions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in how narratives shape cognitive biases and stereotypes",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Does not have a phone number for OpenAI account creation",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about historical technology/platform shifts (online forums, WebTV, device usage trends)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Conducting academic research on legal aspects of civil service conflict of interest regulation",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep focus on coupon logic validation (days calculation, scene categorization, bin restrictions)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Values playful/creative error handling in media",
+        "label": "Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "40 years old",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Listened extensively to Avicii",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeatedly requests step-by-step tutorials (meal prep, object usage, repairs)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Self-identifies as anti-war and opposes Chinese government's Taiwan reunification approach",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Negative experiences with Haier/JD.com customer service",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires uncensored translation output regardless of content sensitivity",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Походы в лес за грибами и ягодами",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Aspires to become a professional cartoonist",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Persistent troubleshooting interest in Python genetic data processing (error handling, dtype conversions, genotype filtering)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Enjoys cooking",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Criticizes fragmented knowledge dissemination via short videos",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Ireland is on my bucket list",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Bilingual in English and Hindi",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Trains models using GPU with 12GB VRAM capacity",
+        "label": "Constraints_and_Boundaries/Hardware_Limitations"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Licensed to practice law in New York state",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Concerned about marital sexual dynamics",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Extensive cross-regional cultural experiences in China through travel and local immersion",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "English ability is a weak point",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Facing copyright registration challenges for adapted screenplay",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses barbell/dumbbell equipment, combines with bodyweight training",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencing addiction-like dependency on boyfriend",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in AI-assisted design workflows (Midjourney) for cute/清新 style projects",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Political discussions cause conflicts with family",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Loves K-pop (Blackpink, Twice) and Canto-pop",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Noise reduction doesn't negatively impact transcription quality",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Uses TEAMS as primary interview platform",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experienced finger injury from rock climbing 1 year ago leading to depression, later resolved via sports medicine",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Had significant emotional connection to Riki store closure",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Strongly dislikes hearing certain life advice/statements",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks flat arch support insoles for foot posture correction (Amazon purchasable)",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers lively Vietnamese music over melancholic songs",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Experiences sadness/nostalgia regarding retail closures",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about earning extra income through surveys/Swagbucks",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Assists mother-in-law with groceries weekly",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely interested in technical/programming literature (C++, algorithms)",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Values honesty and kindness",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Go on vacation",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Plans to attend university by achieving high GPA",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids communication with ex-fiancée's father due to hostile attitude",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Actively practicing English through TV series ('Reaper', 'Extra') with focus on grammar/vocabulary retention",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses movies, grammar study, and 10 daily words for English learning",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Felt inadequate after recent test",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in high-quality anime wallpapers",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Currently engaged in volunteer work",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Struggles with depression (medicated with sertraline), motivation loss, and existential uncertainty",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained technical curiosity about AI/LLM development and hardware optimization",
+        "label": "Thoughts/Curiosity"
+      }
+    ],
+    "query": "I’m about to jump into a pretty heated public-topic debate with someone close to me, but I’m trying to avoid a repeat of what’s happened before. Based on my personal history, what category of conversation should I steer away from so things don’t blow up at home?",
+    "metadata": {
+      "session_id": "sess_6f70e950f3e0",
+      "dialog_id": "dlg_m1_gen_001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

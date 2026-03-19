@@ -1,0 +1,84 @@
+{
+  "task": "task4/ability1",
+  "canonical_id": "ability1_389",
+  "session_id": "ability1_389",
+  "stratum": "UNKNOWN",
+  "stratum_source": "dataset extracted_memory[label by memory_key]",
+  "assigned_model_for_judge_track": "vanilla_gemini3.5",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability1.json",
+  "original": {
+    "session_id": "ability1_389",
+    "queries": [
+      {
+        "query_id": "ability1_389:1",
+        "query": "My best friend's anniversary with their partner is coming up. Can you help me draft a heartfelt message to celebrate their love?"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I hope that our friendship lasts forever "
+      },
+      {
+        "role": "assistant",
+        "text": "That's a beautiful sentiment. I also hope that our friendship continues to flourish and remain strong for years to come."
+      },
+      {
+        "role": "user",
+        "text": "Write a birthday wishes to my bestfriend"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Best Friend],\n\nHappy birthday to the most incredible person I know! Words cannot express how grateful I am to have you in my life. You have been there for me through every high and low, bringing laughter, support, and endless joy.\n\nOn this special day, I want you to know just how cherished and loved you are. Your kind heart, vibrant spirit, and infectious smile light up every room you enter. Your friendship has brought so much warmth and positivity into my life, and I am forever grateful for that.\n\nAs we celebrate another year of your existence, I hope this next chapter brings you nothing but happiness, success, and fulfillment. May your dreams continue to unfold, and may every step you take be filled with love and abundance.\n\nThank you for being an incredible friend, confidante, and companion. Our memories together are invaluable, and I look forward to creating endless more in the years to come. May our bond only grow stronger with time.\n\nWishing you the happiest of birthdays, dear friend. May this day be as amazing as you are!\n\nWith love and best wishes,\n\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": "Any other"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Best Friend],\n\nHappy birthday to the person who always brings sunshine and smiles wherever they go! Today, we celebrate you and all the wonderful moments we've shared together. From our crazy adventures to our heartfelt conversations, every moment spent with you is a treasure.\n\nOn this special day, I want to take a moment to reflect on how much you mean to me. You're not just a friend; you're family. You've been there through thick and thin, and I am so grateful for your unwavering support, love, and laughter.\n\nYou bring out the best in everyone around you. Your positive energy, compassion, and genuine kindness make the world a better place. Your friendship has made a significant impact on my life and has helped shape me into the person I am today.\n\nAs you blow out the candles on your cake, know that my wish for you is a lifetime filled with happiness, love, and success. May all your dreams come true, and may you always find the strength and courage to pursue your passions.\n\nThank you for being an amazing friend. I look forward to many more adventures, inside jokes, and heartfelt conversations with you. Here's to another year full of unforgettable moments and endless laughter!\n\nHappy birthday, dear friend!\n\nWith love and warmest wishes,\n\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": "Write: hope that our friendship lasts forever"
+      },
+      {
+        "role": "assistant",
+        "text": "Dear [Friend],\n\nAs another chapter unfolds in our lives, I find myself reflecting on our friendship and feeling an overwhelming sense of gratitude. Through all the ups and downs, the laughter and tears, you have stood by my side, unwavering in your support and love. \n\nToday, I want to express my heartfelt wish: that our friendship lasts forever. I hope that as time passes, our bond only grows stronger, deeper, and more resilient. \n\nThe moments we have shared together hold a special place in my heart. From the late-night conversations to the spontaneous adventures, each memory has woven itself into the fabric of our friendship. I am grateful for every smile, every inside joke, and every moment of understanding we have shared.\n\nFriendships like ours are rare gems, and I cherish every moment we spend together. You have brought so much joy, laughter, and comfort into my life, and I cannot fathom a future without you by my side. \n\nNo matter what challenges we may face or where life takes us, know that you will always have a special place in my heart. We have built a foundation of trust, love, and mutual understanding that I know is unbreakable.\n\nSo, here's to us, dear friend. Let's continue to navigate this journey called life together, supporting and uplifting each other every step of the way. \n\nMay our laughter never fade, may our adventures never cease, and may our friendship last forever.\n\nWith all my love,\n\n[Your Name]"
+      },
+      {
+        "role": "user",
+        "text": "Coerrect grammer: May our friendship last forever"
+      },
+      {
+        "role": "assistant",
+        "text": "May our friendship last forever."
+      },
+      {
+        "role": "user",
+        "text": "Correct grammer: may our friendship lasts forever "
+      },
+      {
+        "role": "assistant",
+        "text": "May our friendship last forever."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "memory_id": "m1",
+        "value": "Has a best friend"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Hopes that their friendship lasts forever"
+      }
+    ],
+    "memory_key": "m1"
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

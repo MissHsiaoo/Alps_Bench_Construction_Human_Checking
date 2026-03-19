@@ -1,0 +1,61 @@
+{
+  "task": "task4/ability2",
+  "seed": "manual-check-stratified-20260319-v2",
+  "pool_size": 1231,
+  "benchmark_sample_count": 28,
+  "judge_sample_count": 28,
+  "pool_stratum_distribution": {
+    "UNKNOWN": 1231
+  },
+  "benchmark_stratum_distribution": {
+    "UNKNOWN": 28
+  },
+  "judge_model_quotas": {
+    "vanilla_claude4.5": 4,
+    "vanilla_deepseekr1": 4,
+    "vanilla_gemini3.5": 4,
+    "vanilla_gpt4.1-mini": 4,
+    "vanilla_gpt5.2": 4,
+    "vanilla_llama4": 4,
+    "vanilla_qwen3": 4
+  },
+  "judge_model_distribution": {
+    "vanilla_claude4.5": 4,
+    "vanilla_deepseekr1": 4,
+    "vanilla_gemini3.5": 4,
+    "vanilla_gpt4.1-mini": 4,
+    "vanilla_gpt5.2": 4,
+    "vanilla_llama4": 4,
+    "vanilla_qwen3": 4
+  },
+  "judge_sampled_ids": [
+    "ability2_560",
+    "ability2_949",
+    "ability2_574",
+    "ability2_475",
+    "ability2_482",
+    "ability2_823",
+    "ability2_1130",
+    "ability2_1220",
+    "ability2_984",
+    "ability2_519",
+    "ability2_115",
+    "ability2_1133",
+    "ability2_1163",
+    "ability2_1198",
+    "ability2_306",
+    "ability2_1046",
+    "ability2_426",
+    "ability2_252",
+    "ability2_816",
+    "ability2_1048",
+    "ability2_173",
+    "ability2_9",
+    "ability2_776",
+    "ability2_307",
+    "ability2_719",
+    "ability2_958",
+    "ability2_1094",
+    "ability2_323"
+  ]
+}

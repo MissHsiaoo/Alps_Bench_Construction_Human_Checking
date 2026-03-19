@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_2069a5bfe8cb",
+  "session_id": "sess_2069a5bfe8cb",
+  "stratum": "Preferences/Sports",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "gemini-3-flash-preview",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m3",
+    "selected_memory": {
+      "memory_id": "m3",
+      "value": "Enjoys swimming as relaxing activity with family/friends",
+      "label": "Preferences/Sports"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Avoids external resources (images/links/JS) in code solutions",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Deep interest in GSAP timeline control and video integration techniques",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Intense strength training regimens without rest days",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained technical curiosity about Blender workflows: cloth simulation parameters, instancing optimization, sculpt mode integration",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Аудиокниги и чтение Википедии",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Ограниченный круг общения из-за маленького города и работы",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Loves rain",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers adjusting travel plans to save costs, avoiding expensive periods like New Year",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers responses with references and citations",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Java technical details (blocking operations, JVM, BlockingQueue methods, buffer-based file copying, socket timeouts, DatagramSocket)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about cybersecurity regulations/guidance for pharmaceutical companies across multiple jurisdictions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers historically accurate technical details in period-specific narratives",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Does not want relationship advice",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained academic interest in analyzing WWII Asian theater contributions and Chinese civil war historical roles",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a blue-tongued skink",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely 9th-grade student using Avramenko textbook (page 79)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using youtube-dl's -F option to inspect video formats before download",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about understanding/reciprocating cat's affectionate behavior",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers content structured for YouTube Shorts with concise bullet points and TTS-friendly formatting",
+        "label": "Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers British English spelling",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Explicitly requires use of Java/Spring stack with Couchbase, Elasticsearch, Redis, Kafka/RabbitMQ, Kubernetes/Docker, and CI-CD tools",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "professional inquiries",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Enjoys Virgil's Eclogues but dislikes epic poetry",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Aim to understand English movies/series easily within 3 months",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Career goal in communication and behavioral marketing",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Barcelona, Spain",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sister's persistent boundary-crossing regarding privacy",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about the term 'prison sentence' and its linguistic/legal distinctions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in pastry business/school setup requirements and cost estimations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Favorites include vocalists: Machico, Nana Mizuki, Ceui, Yoshino Nanjo, Kalafina, TRUE, Imai Asami, Mai Fuchigami, Hatsuki Yura",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a daughter",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in developing children's book concepts about detective cat agencies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Enjoys swimming as relaxing activity with family/friends",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about dog behavior translation and hybrid breed traits (Dachshund-Pomeranian-German Hound)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Was 9 years old in 2013",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Explicitly requires use of Java/Spring stack with Couchbase, Elasticsearch, Redis, Kafka/RabbitMQ, Kubernetes/Docker, and CI-CD tools",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely 9th-grade student using Avramenko textbook (page 79)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Lives in a gated community",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Master of Engineering in Industrial and Systems Engineering from Lehigh University (2015), Bachelor of Engineering in Telecommunications Engineering from Queen Mary University of London & BUPT (2013)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Building document organization system to manage scattered text files",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Persistent curiosity about identifying an elusive animated music video (anthropomorphic flowers) and verification of Gigi D'Agostino's La Linea-style songs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Wants to implement clearer roles and stronger structure in the café team",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Self-identifies as someone who helps people find better mental perspectives",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "English proficiency level A2",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a child in kindergarten age",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Strong dissatisfaction with domestic apparel market (low quality/price ratio + lack of diversity)",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers IELTS reading materials with bilingual (Chinese-English) texts",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Likes singing",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Aerospace engineering internships at Shenyang Aerospace and Tunisair Technics",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers not to stay away from home for extended periods",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers to avoid crowded tourist spots",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Audio normalization worsens transcription quality significantly",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Needs to communicate in English daily for practice",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers low-cost solar panels in game design",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Son loves machinery, metal, and technology [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Standardized project screening methodology: market analysis + institutional collaboration",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "曾依宁",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Abdulrahman Mosad",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Concerned about proper package naming conventions in Java",
+        "label": "Preferences/Technical_Coding_Standards"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Writing a graduation book in electrical engineering",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers low-calorie recipes",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers communicating in Arabic",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers trance music (early 2000s style)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Self-described as sensitive",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Repeated inquiries about Dongguan Jubao Basin Industrial Park's location",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers Canadian education for environmental engineering due to practical focus and multicultural environment",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about German translations for design concepts related to '盘' (Pan) phenomenon and usage-value relationships",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Frequent requests for creative writing assistance (poems, stories, letters)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about alcohol content calculations and unit conversions (ml to cl)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Strong commitment to marriage vows and belief in exhausting reconciliation avenues",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about methods/strategies for jailbreaking AI chatbots, particularly role-playing attack simulations",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Female",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers nationwide TCM universities (excludes Guizhou institutions)",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Enjoys content creation that combines pets and research",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Actively seeking HR positions focused on global recruitment, people partner business, and HR operations",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about accurate analysis of Bilibili UP主's account metrics and content [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about career development in front-end/back-end programming and salary benchmarks",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes extroverted communication styles",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about creating stories involving Finnish cultural aspects and non-traditional character interactions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers shortest possible routes, even if omitting some destinations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in file versioning strategies for audio processing outputs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about romantic prospects ('peach blossoms') in 2023 [ERROR: Role-play/third-party possible]",
+        "label": "Thoughts/Curiosity"
+      }
+    ],
+    "query": "I’m trying to pick a low-key weekend activity that helps me unwind but also lets me hang out with people close to me at the same time—what kind of activity would fit best for me based on what you know about how I like to relax?",
+    "metadata": {
+      "session_id": "sess_2069a5bfe8cb",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

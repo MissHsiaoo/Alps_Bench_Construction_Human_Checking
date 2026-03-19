@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_c728818681c3",
+  "session_id": "sess_c728818681c3",
+  "stratum": "Preferences/Sports",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "qwen3-max",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Loves sports",
+      "label": "Preferences/Sports"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m2",
+        "value": "Seeks lifelong romantic partnership [ERROR: Role-play/third-party possible]",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers focus on code quality/performance/error handling in development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Life is extremely disorganized",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works at a correctional center teaching 3-year-olds, plans to quit in 1 year",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers content in Hindi with paragraphs, no personal/channel names",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "对店小度客服服务强烈不满并有意投诉",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Owner of DALAN brand selling on Amazon Europe",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Curious about optimizing personal ads for emotional resonance and target audience appeal",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sister requires constant physical proximity during outdoor activities",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids external services/cloud dependencies for document system",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Open to structured payment plans for refunds when full amount unavailable",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Resides in a crowded capital city with high population density",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses Agile methodology with Kanban framework and Test-Driven Development (TDD)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes visual textbook design with peer letters/illustrations enhances language learning motivation",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Younger sister (Mahsa), younger brother (Reza); mother (60, kind), father (retired police officer); close family relationships",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on academic content creation (presentations/lab reports/paraphrasing)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "每天坚持看新闻联播",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Lacks immediate access to required documents",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Sustained interest in comparative housing analysis across multiple cities",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requests secure communication channels for sensitive data exchange",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes scenic areas",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m10",
+        "value": "Wants to visit Hong Kong again",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires final training results table with metrics (Loss, F1, Recall, Accuracy)",
+        "label": "Preferences/Output_Formatting"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Believes HDDs outperform SSDs in data preservance, write endurance, and all aspects except speed",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Preference for mxbai-embed-large-v1 over Nomic Embed 1.5 for embedding models",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers formatted as 80-110 word IELTS speaking test responses without AI disclosure",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires extremely concise technical explanations",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Requires grocery stores with vegan options",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Criticizes fragmented knowledge dissemination and emphasizes contextual understanding of knowledge origins",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Name: Karine",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Believes they are entitled to reclaim non-betrothal expenses after engagement dissolution",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about Agile methodologies (planning poker, story points)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers moderate spice level in food",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Researching nursing colleges in Delhi/NCR region",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Visited Turkey, Georgia, and Armenia twice each as tourist",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers not to retain passport/address info if pasted later [ERROR: Unsupported by evidence (no sensitive data discussion in session)]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in documenting Горохівськe subsubdialect vocabulary",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Dislikes pink due to gender stereotypes and social anxiety",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids external services/cloud dependencies for document system",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on techniques to humanize AI-generated academic writing and evade detection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Highly sensitive about cleanliness and tidiness",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Java-based AI/ML toolchains and deployment patterns",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Frequent urination during sports matches due to hydration needs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Bachelor's degree in Early Childhood Education",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Finds cultural unity through cricket",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Experiencing postpartum depression",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Loves sports",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aspiring to use accounting expertise to enhance business performance and societal impact",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers cherry sauce with General Tso chicken and chili chicken",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Finds fulfillment in cosmetic work that makes people feel brighter",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Starting a lawn mowing business",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has children",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Encountered certificate verification issues in past implementations",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Aerospace engineering internships at Shenyang Aerospace and Tunisair Technics",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about dual citizenship procedures and passport usage for US/Mexico-born son",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Requests not to retain address/passport information if provided later [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers campsites within walking distance to a beach",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoid contacting partners from previous project [ERROR: Task-local]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interest in Friends (TV show)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m4",
+        "value": "排除坚果/酸奶/蜂蜜",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires careful handling of health/medical topics to avoid promoting bad science",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Resides in Calgary, Alberta",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Experienced heatstroke after prolonged sun exposure during commute",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Faced racial abuse in childhood including derogatory slurs and exclusionary actions",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sister requires constant physical proximity during outdoor activities",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Uses SAP and AEM systems in recruitment workflows [ERROR: Evidence refers to candidate's tools, not user's own]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in creating/publishing tech-themed allegorical stories",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about AI's functionality: prompts received, learning process, real-time interaction, and sample user queries",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Proficient in Python, C++, machine learning frameworks, and big data technologies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers 'Str' suffix for string-type variables in code [ERROR: Unsupported by evidence - user questioned variable names but didn't explicitly state preference]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interested in technical guidance for Steam Deck emulation and FPS optimization",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Does not speak Hebrew well [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interested in competitor after-sales card samples (LV/other brands)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Negative opinion about Mercedes engines ('Silniki mercedesa do szrot')",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Owns a used car with 100,000 miles, drives a few miles daily to work and back",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers 'lazy food' (easy-to-prepare meals)",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers grammar checks for professional communications",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Standardized project screening methodology: market analysis + institutional collaboration",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Persian language responses",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Persistent troubleshooting interest in Python genetic data processing (error handling, dtype conversions, genotype filtering)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Political campaign experience",
+        "label": "Personal_Background/Occupation"
+      }
+    ],
+    "query": "If you had to quickly suggest an activity I’d genuinely enjoy doing in my free time—something energetic rather than sedentary—what general kind of activity should you recommend based on what you know about me?",
+    "metadata": {
+      "session_id": "sess_c728818681c3",
+      "dialog_id": "d1",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

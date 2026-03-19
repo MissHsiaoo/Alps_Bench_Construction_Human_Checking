@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_ca2fda1a93c1",
+  "session_id": "sess_ca2fda1a93c1",
+  "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "deepseek-reasoner",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Requests deletion of address/passport information if pasted later [ERROR: Unsupported by evidence]",
+      "label": "Constraints_and_Boundaries/Do_Not_Remember"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m7",
+        "value": "Prefers smartphones over computers for portability",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Listened extensively to Avicii",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works with non-UTF-8 encoded Python files (likely GBK)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "English ability is a weak point",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Had first job at age 23",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers responses to include compliments, emojis, and address by current specified name",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Likely a student (implied by schoolwork context and peer references)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about VPLEX product details and documentation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a girlfriend",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Had a conflict in a past relationship that turned messy",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Seeks lifelong romantic partnership [ERROR: Role-play/third-party possible]",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Bursa, Turkey",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Takes an hour to get ready in the morning and an hour to prepare for bed",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dislikes being counter-argued during discussions [ERROR: Task-local or role-play possible]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Interest in material research",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers Arabic translations for technical/educational content",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Enjoys listening to music",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m4",
+        "value": "父母",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Owns a dog",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep technical interest in SQLite FTS5 implementation details",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Persistent interest in romantic poetry focused on specific physical attributes despite social norms [ERROR: Role-play/third-party possible. Forced label not supported]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about China's socioeconomic structure (income distribution, development status) and international comparisons with South Korea",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Aims to apply environmental engineering knowledge to solve water shortage and chemical pollution issues in Iran",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained curiosity about structured frameworks/examples for reading comprehension improvement",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Engages in quiz-style knowledge testing (history/songs)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Year 3 university average of 69.5% (weighted 70% of degree)",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise code examples without verbosity [ERROR: Task-local]",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Currently resides in USA with H1B visa",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Conducting academic research on legal aspects of civil service conflict of interest regulation",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requests deletion of sensitive information like addresses/passport details [ERROR: Unsupported by evidence: User requested message deletion but did not mention addresses/passports]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Chronic leg pain",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Dislikes receiving advice about Lily's behavior",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Desires to endow AI with human-like qualities (senses, soul)",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about Japanese cultural traditions (sugi trees, festivals, language)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers grammar checks for professional communications",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on refining superpower-embodied roleplay text with optimal token usage [ERROR: Task-local refinement requests; no evidence of personal curiosity]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "CET-6 English proficiency",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers meticulous, scalable database architecture to avoid technical debt",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers iterative development focusing on single functionalities first",
+        "label": "Preferences/Technical_Development"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about designing family-friendly branded attractions (naval shows, scaled rides, track systems) [ERROR: Task-local: Evidence relates to hypothetical attraction design for a company, not user's personal traits]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers detailed step-by-step technical plans with tool explanations as a beginner",
+        "label": "Preferences/Technical_Learning"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in validating hypothesis about pre-1922 origins of Горохівське village via oral history/archaeology",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using fast libraries for processing multi-gigabyte datasets",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Dislikes overly commercialized holidays (e.g., Valentine's)",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Close friends at GrowthCave: Sergio Sanchez, Jesus Sakata",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks a feminine, petite partner interested in DDLG dynamics and cute fashion",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interested in building a home near Lake Baikal to drink fresh water",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Observed preserved state of abandoned house (intact glass/paint, overgrown grass)",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Social needs met through colleagues and students",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Dislikes discussing political topics",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers exercise lists without detailed instructions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids acetonitrile due to toxicity concerns",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a daughter",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on techniques to humanize AI-generated academic writing and evade detection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "全职在家",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Seeks deep understanding of bash command components (sed processing patterns)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers nationwide TCM universities (excludes Guizhou institutions)",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Dog named 梓浩 (Zihao)",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Medical details of fimosis surgery",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interested in detailed nutritional calculations (particularly sodium content) for dehydrated seaweed-based products",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Currently resides in USA with H1B visa",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Favorite designer brand is Louis Vuitton",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Internships at Kuaishou (market user analytics) and SHEIN (UK market operations/data analysis)",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Notes that Stop&Shop has become expensive for Cape Cod locals recently",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using 'greifbar' for tangible interaction experiences",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Lived with grandparents and cousins during childhood",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers error correction in narrative continuity [ERROR: Role-play context correction doesn't reflect real user preference]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Values peace and stability over growth/enthusiasm; rejects societal pressure to leave comfort zone",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Communicates directly with ex-fiancée (daughter) rather than her parents",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Requests deletion of address/passport information if pasted later [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained focus on refining internship experience documentation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely interested in technical/programming literature (C++, algorithms)",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Loves Shiu Mai and traditional Hong Kong foods",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Fulfilled explicit buyer requests (e.g., unhygienic acts, videos) for high payment despite discomfort",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Wants to study carbon management techniques for professional impact",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Enjoys cooking",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "有需要照看的未成年家庭成员",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Holds a Bachelor's degree in Physiology from Trinity College Dublin",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Facing copyright registration challenges for adapted screenplay",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Faced financial barriers in education/career journey",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Has a friend with suspected gaming addiction",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Was heavily interested in electronic music between 2011-2014",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "全职在家",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Very interested in astronomy/space",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Technical guidance on implementing parental controls for porn site blocking",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Owns a used car with 100,000 miles, drives a few miles daily to work and back",
+        "label": "Possessions/Car"
+      }
+    ],
+    "query": "If I later paste a long block of sensitive personal document details by mistake and then ask you to “remove it from your memory/logs,” what kind of specific information would I be expecting you to delete based on my standing instruction?",
+    "metadata": {
+      "session_id": "sess_ca2fda1a93c1",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

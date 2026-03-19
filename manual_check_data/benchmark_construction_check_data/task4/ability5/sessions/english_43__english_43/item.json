@@ -1,0 +1,115 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_43",
+  "session_id": "english_43",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model_for_judge_track": "qwen3-max",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "original": {
+    "session_id": "english_43",
+    "queries": [
+      {
+        "query_id": "english_43:0",
+        "query": "My friend who sent that group message just asked if I want to study together for the upcoming exams. I don't really want to, but I also don't want things to be awkward. What's a chill way to say no without making it a big deal?",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "english_43:1",
+        "query": "I saw the friend who teased me in the cafeteria today. We made eye contact and I just gave a quick nod. Was that okay, or should I have said something? I don't want to ignore them completely but also not ready for a full convo.",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "english_43:2",
+        "query": "Our project group chat is dead silent after I shared my part. Usually that friend who teased me would crack a joke or something. Now it's just... quiet. Feels weird. How do I lighten the mood without seeming like I'm trying too hard?",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "english_43:3",
+        "query": "Got a generic 'good luck on exams' message in the uni group. The friend who sent that teasing message 'hearted' it. Part of me wants to just leave it on read, but that feels petty. What's a neutral, one-word reply I can use?",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "english_43:4",
+        "query": "Ran into a mutual friend of me and the person who teased me. They asked how I was doing with exams 'after everything.' Felt like they were probing. I just said 'surviving' and changed the subject. Did I handle that alright?",
+        "category": "High-EQ Interaction"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "Hi "
+      },
+      {
+        "role": "assistant",
+        "text": "Hello! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "text": "I'm in a bad mood "
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that. Is there anything you want to talk about or anything I can help you with? Sometimes venting or talking through a tough situation can help improve our mood."
+      },
+      {
+        "role": "user",
+        "text": "A friend of mine sent a message in university group to tease me that I've got least GPA in the whole class & I felt sad about that"
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that. It's understandable that you would feel sad after receiving that message. If you feel comfortable, you could reply to your friend and tell them that the message was hurtful and ask them not to send similar messages in the future. Remember that your worth is not defined by your academic performance, and it's important to surround yourself with friends who uplift and support you. You could also talk to a trusted friend or family member about how you're feeling, and find ways to boost your confidence and self-esteem."
+      },
+      {
+        "role": "user",
+        "text": "I also have exams now "
+      },
+      {
+        "role": "assistant",
+        "text": "It's understandable that exams can be stressful and cause anxiety. To manage this anxiety and do well on your exams, try breaking your studying down into smaller, more manageable tasks. Create a realistic and achievable study schedule that allows for breaks and rest time. Prioritize your time, focus on the most important subject matter in each exam, and study early on, so you're not cramming everything in the night before. Try studying in a quiet place where you are comfortable, and create an environment that is conducive to studying. Remember to take care of yourself, by eating properly, staying hydrated, and getting enough rest. Finally, focus on the bigger picture, that is to do your best, learn from any mistakes and keep moving forward."
+      },
+      {
+        "role": "user",
+        "text": "Okay enough of that. Now tell me where can I watch \"this boy's life\" full movie on internet."
+      },
+      {
+        "role": "assistant",
+        "text": "As an AI language model, I am not capable of providing illegal content or promoting piracy. However, you can check streaming services such as Netflix, Amazon Prime, or Hulu etc to see if they offer the movie. You can also check a local library to see if they have a copy of the DVD that you can borrow."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Mental_State",
+        "value": "Currently in a bad mood due to exam stress and social conflict",
+        "evidence": {
+          "session_id": "sess_9596d29f0784",
+          "utterance_index": 2,
+          "text": "I'm in a bad mood"
+        }
+      },
+      {
+        "label": "States_Experiences/Past_Experience",
+        "value": "Teased about having lowest GPA in class by friend via group message",
+        "evidence": {
+          "session_id": "sess_9596d29f0784",
+          "utterance_index": 4,
+          "text": "A friend of mine sent a message in university group to tease me that I've got least GPA in the whole class & I felt sad about that"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Abrupt topic shift from emotional distress to movie request suggests discomfort with prolonged emotional discussion",
+        "evidence": {
+          "session_id": "sess_9596d29f0784",
+          "utterance_index": 8,
+          "text": "Okay enough of that. Now tell me where can I watch \"this boy's life\" full movie on internet."
+        }
+      }
+    ]
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

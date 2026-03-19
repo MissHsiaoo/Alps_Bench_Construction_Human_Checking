@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_7f532cca8725",
+  "session_id": "sess_7f532cca8725",
+  "stratum": "Personal_Background/Identity",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "llama-4-maverick",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "A male individual named Ji Weixiang, born at the Shen hour (3-5 p.m.) on the 24th day of the 1st lunar month in 2005, with birthplace in Rongchang District, Chongqing, China.",
+      "label": "Personal_Background/Identity"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Office located on 40th floor of PP1 building",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Born in 1979",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about high voltage DC-DC modules (200V+ → 1000V+ → 5kV+) for applications like mercury lamps",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers automated text processing with sed/awk and zenity list displays",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers professional phrasing for career-related content",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids franchise-specific references in creative titles",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Distrusts dating sites due to fake profiles (95% fake claims) [ERROR: Role-play/third-party possible]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Office located on 40th floor of PP1 building",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Office located on 40th floor of PP1 building",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Favorite color is green (symbolizes life/achievement)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers emotional comfort over academic advice in stressful situations",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Rejection of hybrid ColBERTv2+RAPTOR approach due to error propagation risk in imperfect initial retrieval",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a well-behaved puppy",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Younger sister (Mahsa), younger brother (Reza); mother (60, kind), father (retired police officer); close family relationships",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers not to disclose attraction-related matters to others",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Learning English",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Concerned about marital sexual dynamics",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Diaoyu Islands belong to China",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Seeks professional sponsorships/collaborations (e.g., Thomann)",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Abdulrahman Mosad",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers trance music (early 2000s style)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Implement a workout plan.",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Enjoys hiking and trying new restaurants",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers cost-effective purchases (avoids overpaying for comparable features)",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Advocates for education reform with student course choice and teacher feedback systems",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Encountered certificate verification issues in past implementations",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers 'charmecamping' (small-scale, cozy campsites)",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoid political content like '向中共致敬' (Salute to CCP) [ERROR: Unsupported by evidence - phrase appears in translation context without user commentary]",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about translating comic title into multiple languages/scripts with cultural adaptation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "A male individual named Ji Weixiang, born at the Shen hour (3-5 p.m.) on the 24th day of the 1st lunar month in 2005, with birthplace in Rongchang District, Chongqing, China.",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Audio normalization worsens transcription quality significantly",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m1",
+        "value": "曾依宁",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep interest in resume optimization techniques and quantified achievements",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Previous roles: Data Analyst at Republican National Committee (2020), Red Spark Strategy (2021-2022)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Prefers smartphones over computers for portability",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "对IDA Pro伪代码分析、堆栈溢出机制及利用代码的持续兴趣",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Technical curiosity about Tesla hardware (HW4.0) and 4680 battery",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "热爱足球运动，长期参与物理所足球联赛",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Contentious relationship with Peter Lynch/LDV Parramatta service team",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Aspires to adapt world-building project into film/TV",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Transitioning from data analyst career to teaching college mathematics",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Intent to return to Czech Republic after temporary stay in Australia [ERROR: Unsupported by evidence (user never explicitly states return intent)]",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Desire to improve English ability and communication skills",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Concerned about proper package naming conventions in Java",
+        "label": "Preferences/Technical_Coding_Standards"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on optimizing LinkedIn profile for job applications",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Experienced distress and trauma from unresolved vehicle issues",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about PowerShell admin rights execution methods, registry modifications for context menu options, and Elastic Stack configuration/security",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers reading English books",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Worked at Intel Inc. focusing on AI technology",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about atomic particles and periodic table organization",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Friend named Malena",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Belief partner's divorce decision is premature due to refusal of counseling",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a cat with recent aggressive scratching/licking behavior",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers SQLite for database with self-contained deployment",
+        "label": "Preferences/Technical_Stack"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained interest in securing celebrity visits to BRAC through tailored outreach",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Requires grocery stores with vegan options",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Owns a BMW e91 2006 diesel used for daily driving",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Resides in China",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Worked for the Department of Justice for 10 years",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Cycling",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Best friend is Gleb Estonский, a краевед (local historian)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers Milvus for vector search implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers adjusting travel plans to save costs, avoiding expensive periods like New Year",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Curious about managing ADHD-related communication challenges and overthinker relationships",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Cooks for 3 people",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Following Autoimmune Protocol (AIP) diet: avoids grains, legumes, eggs, dairy, nuts, seeds, nightshades, and certain spices",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about legal structures (C-corporations, PMAs) and operational requirements in North Carolina",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained curiosity about Japanese/Korean household items, cultural differences, and tea/herbal infusions",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Experiencing addiction-like dependency on boyfriend",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Mazda RX-8 2004 model",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Strong dissatisfaction with domestic apparel market (low quality/price ratio + lack of diversity)",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers iterative development focusing on single functionalities first",
+        "label": "Preferences/Technical_Development"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires final training results table with metrics (Loss, F1, Recall, Accuracy)",
+        "label": "Preferences/Output_Formatting"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Improving foreign language translation skills to adapt to working in a foreign company",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on improving English writing clarity and grammar",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Curious about K-pop song meanings and themes",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep curiosity about AI's fundamental nature/limitations [ERROR: Unsupported by evidence]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep exploration of 'tangle' word usage (physical vs figurative contexts)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Favorite color is pink",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about technical procedures for maintenance and construction planning",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Java programming language for technical implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m8",
+        "value": "Engages in daily eco-friendly habits (public transport, recycling, waste reduction)",
+        "label": "UNMAPPED"
+      }
+    ],
+    "query": "I’m filling out a form that asks for my zodiac animal and element, but it only lets me choose based on my birth year—given what you already know about my birth info, which option should I pick so it matches my actual year?",
+    "metadata": {
+      "session_id": "sess_7f532cca8725",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

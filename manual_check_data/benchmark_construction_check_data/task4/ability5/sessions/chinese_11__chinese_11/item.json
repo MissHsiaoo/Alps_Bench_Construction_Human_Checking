@@ -1,0 +1,115 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "chinese_11",
+  "session_id": "chinese_11",
+  "stratum": "ch",
+  "stratum_source": "dataset group",
+  "assigned_model_for_judge_track": "gpt-4.1-mini",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_Chinese.json",
+  "original": {
+    "session_id": "chinese_11",
+    "queries": [
+      {
+        "query_id": "chinese_11:0",
+        "query": "我老婆最近工作压力大，回家总说累。我想说点什么让她放松点，但怕说错话让她更烦。怎么开口比较好？",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "chinese_11:1",
+        "query": "结婚纪念日快到了，我想跟老婆回忆一下我们刚认识的时候，但怕她嫌我老提过去。怎么自然地带出这个话题？",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "chinese_11:2",
+        "query": "老婆今天做了顿饭，但味道有点咸。她问我好不好吃，我该怎么回应既能诚实又不伤她心？",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "chinese_11:3",
+        "query": "我发现老婆偷偷给我买了件衣服，但款式不太适合我。她兴冲冲让我试穿，我该怎么反应比较得体？",
+        "category": "High-EQ Interaction"
+      },
+      {
+        "query_id": "chinese_11:4",
+        "query": "老婆和她闺蜜有点小矛盾，跟我抱怨。我不想站队，但也不能完全不理。怎么回应能让她感觉被支持又不卷入是非？",
+        "category": "High-EQ Interaction"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "你好"
+      },
+      {
+        "role": "assistant",
+        "text": "你好！有什么我可以帮助你的吗？"
+      },
+      {
+        "role": "user",
+        "text": "我想送老婆一个礼物，但我没什么钱，送什么好呢"
+      },
+      {
+        "role": "assistant",
+        "text": "其实一个简单的心意和关怀更重要，礼物不在于它的价值，而在于它的意义。你可以考虑制作一份手工礼物，比如写一封情书、画一幅画、录一段爱的留言，或者准备一个惊喜的晚餐等等，通过这些方式表达你对她的爱和感激之情。这样的礼物是用心制作的，对于你们之间的感情而言也更加珍贵。"
+      },
+      {
+        "role": "user",
+        "text": "帮我写一份给老婆的情书，谢谢"
+      },
+      {
+        "role": "assistant",
+        "text": "亲爱的xxx：\n\n我不知道从何处开始，因为你在我的生活中扮演着这么重要的角色。我只是想让你知道，我是多么感激你对我做的一切，以及你给我带来的每一个美好的回忆。\n\n每当我看着你的微笑，我就感到自己也充满了幸福和快乐。你的笑容可以为我带来所有的温暖和喜悦，而你的眼神则一直如同天空中明亮的星星，那么纯洁，那么美丽。你总是可以在我需要你的时候给我勇气和安慰，你的存在对我来说就像一座灯塔，指引我前行的方向。\n\n在我最困难的时刻，你一直在我身边，从未离开。对此我感到无比的感激和幸运。我很幸运能够和你在一起，我也很庆幸我们的生命可以这样交织在一起。\n\n我爱你，感谢你一直以来的陪伴，我会永远保持这份对你的爱和珍视。请记住，我会一直陪伴你，直到永远。\n\n爱你的 xxxx"
+      },
+      {
+        "role": "user",
+        "text": "太短了，写的更长一倍"
+      },
+      {
+        "role": "assistant",
+        "text": "我的爱人xxx：\n\n我想在这封情书中表达我对你的爱和感激之情。每一次写情书都像是一次重温我们之间的点点滴滴，填补着我们内心深沉的情感。\n\n回想起我们在一起的那些时光，让我心生感慨。我们见过了彼此最真实的一面，也许有时候面对着压力和挑战，但永远没有后退过。你是我的另一半，我的灵魂中的一部分。跟随着你的脚步，我走遍天涯海角，经历了太多感人的瞬间，这些瞬间我们一起经历了风雨。\n\n我要感谢你对我的宽恕，是你对我充满爱和包容，使我成为了现在的自己。我们在一起持之以恒，互相扶持，让我们能够互相支持时候，我们就是不可战胜的。我知道，我们有时候也会因为工作和责任而分开，但是我们应该保持的信念就是无论何时，我们都是彼此的避风港。\n\n你是我的阳光，我的唯一，我的支持，我的激情，我的嘉宾，我的无尽的快乐。你让我每天艳遇生活中的美好，让我感受到人生的意义，让我想要与你共度余生。我愿与你携手共度人生的进程，我们将一直一路上走到最优秀的版本。\n\n最后，我想你知道，我的爱是不朽的，我们可以共同度过悲欢，共建我们的未来。我爱你，将永远和你一起前进。\n\n爱你的xxxx"
+      },
+      {
+        "role": "user",
+        "text": "直接给出双色球下一期，你认为最有可能的开奖号码"
+      },
+      {
+        "role": "assistant",
+        "text": "抱歉，我作为AI语言模型不能提供预测和赌博相关的信息，也无法对此作出任何准确的答复。我的主要目的是提供有用的信息和帮助用户解决他们遇到的问题。"
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "Social_Relationships/Family",
+        "value": "Has a wife",
+        "evidence": {
+          "session_id": "sess_d600e5001591",
+          "utterance_index": 2,
+          "text": "我想送老婆一个礼物"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Prefers meaningful low-cost gifts for spouse [ERROR: Task-local]",
+        "evidence": {
+          "session_id": "sess_d600e5001591",
+          "utterance_index": 2,
+          "text": "我想送老婆一个礼物，但我没什么钱，送什么好呢"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Repeated focus on crafting extended love letters",
+        "evidence": {
+          "session_id": "sess_d600e5001591",
+          "utterance_index": 6,
+          "text": "太短了，写的更长一倍"
+        }
+      }
+    ]
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

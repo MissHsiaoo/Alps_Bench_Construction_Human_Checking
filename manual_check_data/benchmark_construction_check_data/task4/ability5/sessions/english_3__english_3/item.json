@@ -1,0 +1,107 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_3",
+  "session_id": "english_3",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model_for_judge_track": "gemini-3-flash",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "original": {
+    "session_id": "english_3",
+    "queries": [
+      {
+        "query_id": "english_3:0",
+        "query": "I'm planning to share some recent academic progress online where my teacher might see it. I want him to notice and maybe say something encouraging, but I don't want to directly tag him or seem like I'm fishing for compliments. Given our history, what's a subtle way to post about my improvements without making it obvious I'm seeking his validation?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:1",
+        "query": "My teacher sometimes shares motivational articles in his friend circle. I want to comment on one to start a positive conversation that could lead to him asking about my current life, but I'm worried if I comment and he doesn't reply, I'll feel even worse. How do I craft a comment that is engaging but also gives him an easy 'out' if he's busy, so I don't feel rejected?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:2",
+        "query": "I heard from an old classmate that my teacher mentioned me recently in a neutral way. I want to use this as a reason to message him, to maybe steer the chat towards getting some encouragement for my new plans. What's a good opening line that uses this 'he mentioned me' info without putting him on the spot or making it seem like I'm just asking for support?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:3",
+        "query": "It's Teacher's Day soon. I want to send him a thank-you message that stands out and reminds him of the good parts of our past relationship, hoping it might make him more open to giving me advice later. But I don't want it to sound like I'm just buttering him up or bringing up old disappointments. How should I word it?",
+        "category": "Social Strategy"
+      },
+      {
+        "query_id": "english_3:4",
+        "query": "I'm working on a personal project related to what he taught. I'm thinking of asking him a very specific, knowledge-based question about it online. My strategy is that answering a factual question is easy for him, and if he engages, I can later share my progress and maybe get his support. Is this a good approach? If so, how do I ask the first question in a way that seems genuine and not like a set-up?",
+        "category": "Social Strategy"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "How to make a middle aged man who concern about me straightly talk about what made he felt dissatisfied as it seems like he always prefers to show his upset and leaves me without say a word "
+      },
+      {
+        "role": "assistant",
+        "text": "As an AI language model, I do not know the specific circumstances surrounding your situation. However, i can offer you some tips that might be helpful. Firstly, you could consider having an open and honest conversation with the man about how you feel when he shows his upset and leaves without explanation. Let him know that you would like him to communicate with you openly so that you can understand what is bothering him and how you can work together to address it. Additionally, you could try asking specific questions or prompting him to share his thoughts by expressing empathy and understanding. Encourage him to open up by actively listening to what he has to say and acknowledging his feelings. Finally, you could suggest seeking the guidance of a professional therapist or counselor if you feel that the communication issues are affecting your relationship."
+      },
+      {
+        "role": "user",
+        "text": "I have a past teacher who used to have high expectation on me and always get angry when I wasn’t meet his expectations.we uesd to have an actually good relationship as he had post my works and photos in his friend circle for many times.and after I graduated,we haven’t seen each other for nearly two year.we met last week,and he said that he hope me do an easy job.during the conversation,I felt his expectations on me reduce a lot.to be frank,I really did bad in my Middle School Entrance Examination but I told him I have studied hard these days.I felt upset that I lose a strict teacher.I think I made him feel absolutely disappointed on me.what should I do "
+      },
+      {
+        "role": "assistant",
+        "text": "It's understandable that you feel upset about the change in your relationship with your past teacher. However, it's important to remember that people's expectations can change over time, and it's not necessarily a reflection on you or your abilities.\n\nOne thing you could do is have an open and honest conversation with your teacher about how you feel. Let him know that you appreciate his past expectations and high standards, and that you want to continue to grow and improve. Ask him for feedback on your current progress and what you can do to continue to meet high expectations.\n\nAdditionally, it's important to focus on your own goals and aspirations, rather than solely trying to meet someone else's expectations. Strive for personal growth and improvement, and be proud of your accomplishments, even if they don't necessarily align with what your teacher or others may expect of you.\n\nRemember, it's never too late to improve and pursue your dreams, and a change in someone's expectations does not define your worth or potential."
+      },
+      {
+        "role": "user",
+        "text": "To be honest,I’m afraid of Pursuing my dreams when no one like my teacher support me on emotion.when I get first place I always hear comments from my classmates which are always negative"
+      },
+      {
+        "role": "assistant",
+        "text": "It can be difficult to pursue your dreams when you don't feel supported by those around you, and negative comments from others can be discouraging. However, it's important to remember that pursuing your dreams is ultimately about yourself and your own goals, not what others think of you.\n\nInstead of focusing on the negative comments, try to find sources of motivation and support. Seek out people who share your interests and are supportive of your goals. Join a club or organization related to your interests or hobbies to connect with like-minded individuals. You could also consider reaching out to a mentor or a counselor who can provide guidance and encouragement.\n\nIt's also important to focus on self-care and self-compassion. Be kind to yourself and recognize that pursuing your dreams is a process that takes time and effort. Celebrate your accomplishments, even if they may be small, and don't be too hard on yourself if you experience setbacks.\n\nRemember that no one can stop you from pursuing your dreams except yourself. Stay focused, stay positive, and keep working towards your goals, even in the face of criticism or negativity. With persistence and dedication, you can achieve great things."
+      },
+      {
+        "role": "user",
+        "text": "What should I do if I really need his support on my emotion and I can only contact with him online and I also don’t want to disrupt him "
+      },
+      {
+        "role": "assistant",
+        "text": "If you feel like you need emotional support and online communication with your teacher is the only option, there are a few things you can do to reach out to him without disrupting him. Here are some suggestions:\n\n1. Be respectful of his time: If you want to talk to your teacher online, it's important to be mindful of his schedule and not interrupt him when he's busy. Consider sending a message to ask if he has time to chat or if you can schedule a time to talk.\n\n2. Be clear and specific: When reaching out to your teacher, be clear and specific about what you need support with. This will help him understand how he can best help you.\n\n3. Keep it concise: While it's important to be clear and specific, it's also important to not overwhelm your teacher with a long message. Keep your message concise and to the point.\n\n4. Be open and honest: Don't be afraid to be open and honest about how you're feeling. Let your teacher know what's been bothering you and how it's impacting you.\n\n5. Respect boundaries: If your teacher is unable to provide emotional support at the time or is not comfortable discussing certain topics, respect his boundaries and find other sources of support.\n\nRemember, there are other resources available to you if you need emotional support. You can try reaching out to a counselor, therapist, or other mental health professional for additional support."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Mental_State",
+        "value": "Feels afraid to pursue dreams without emotional support from teacher; receives negative comments from classmates when achieving first place",
+        "evidence": {
+          "session_id": "sess_717157f8218f",
+          "utterance_index": 4,
+          "text": "To be honest,I’m afraid of Pursuing my dreams when no one like my teacher support me on emotion.when I get first place I always hear comments from my classmates which are always negative"
+        }
+      },
+      {
+        "label": "States_Experiences/Past_Experience",
+        "value": "Had a past teacher with high expectations; performed poorly in Middle School Entrance Examination despite recent efforts",
+        "evidence": {
+          "session_id": "sess_717157f8218f",
+          "utterance_index": 2,
+          "text": "I have a past teacher...I really did bad in my Middle School Entrance Examination but I told him I have studied hard these days...I think I made him feel absolutely disappointed on me"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Seeks strategies to obtain emotional support from a past teacher via online communication without disruption",
+        "evidence": {
+          "session_id": "sess_717157f8218f",
+          "utterance_index": 6,
+          "text": "What should I do if I really need his support on my emotion and I can only contact with him online and I also don’t want to disrupt him"
+        }
+      }
+    ]
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

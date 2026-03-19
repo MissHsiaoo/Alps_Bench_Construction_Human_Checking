@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_a17bc3d0a34c",
+  "session_id": "sess_a17bc3d0a34c",
+  "stratum": "Personal_Background/Occupation",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "qwen3-max",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Likely a game systems designer.",
+      "label": "Personal_Background/Occupation"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Enjoys manga series Vinland Saga and Golden Kamuy [ERROR: Not about the user; references third-party characters/stories]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained focus on refining poetic structure/narrative devices for emotional expression",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "From China",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Parent of a 7th-grade student",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Uses TEAMS as primary interview platform",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Interest in specific galgame genres (NTR, plot-driven, heavy/dark themes)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Favorite designer brand is Louis Vuitton",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires strict terminological precision in political discussions (e.g., 'centralization' vs 'power consolidation')",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers online studies for time/financial management",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about origins of celestial bodies, historical events, and company history",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a colleague named Maanan",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deeply explores methods to integrate romantic subplots with political/magical main plots",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Dislikes receiving gifts from husband (especially robes) [ERROR: Not about the user]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Practices essential oil massages and energy healing",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers intuitive presentation methods in design works",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoid political content like '向中共致敬' (Salute to CCP) [ERROR: Unsupported by evidence - phrase appears in translation context without user commentary]",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Social needs met through colleagues and students",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interest in JAXB implementation and Java 17 configuration",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Has in-laws and grandmother opposed to relocation",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Audio normalization worsens transcription quality significantly",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained focus on refining artistic communication strategies and technical phrasing",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers concise responses (under 300 words) for professional statements [ERROR: Task-local formatting request, no evidence of long-term preference.]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "53 years old, 2nd disability group",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely a game systems designer.",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for week-to-day conversions (4/2/15/7/10 weeks)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Selects manga volumes impulsively based on covers/titles without deeper consideration",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Exploring Instagram content creation as a potential career",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Has ADHD",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Son's best friend and cousin David lives in New York",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requests deletion of sensitive info like addresses/passport details if pasted later",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers concise translations (specifically requests 8-10 word versions multiple times)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in economic theory concepts and antitrust case analysis",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers virtual cinematography education over formal film schools in America",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has had joyful experiences doing similar activities in Thailand",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Anxiety about series continuation after original author's death",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a BMW 730d F02",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires 3-column output format (SNP, best genotype, phenotype mean) for genetic analysis results",
+        "label": "Preferences/Technical_Output"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Believes creative professionals are excluded from AI policy discussions",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Research goal: Develop adaptive systems that record usage patterns to auto-adjust interfaces",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Java-based AI/ML toolchains and deployment patterns",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Research goal: Develop adaptive systems that record usage patterns to auto-adjust interfaces",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Java programming language for technical implementations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Based in Australia (references Australian Consumer Law)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers creative outputs in Shakespearean/classic poetry styles",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Lives in a studio apartment",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about detailed role-play scenarios involving technical descriptions of safety equipment",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Office software trainer (Excel/PowerPoint, basic & intermediate)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Possesses strong IT, graphic design, video production, proposal writing, and generative AI skills",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "External Senior TA Partner from AMS assigned to support recruitment at Huningue production site",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a son whom they drive to school every morning",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Working on a thesis about lower GI bleed epidemiology",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained curiosity about architectural patterns (microservices timing) and technology integration",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep interest in PR concepts for B2B/B2C sectors (media relations, segmentation, crisis management) [ERROR: Task-local]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "User's name is BB",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Takes an hour to get ready in the morning and an hour to prepare for bed",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "National team athlete in handball, volleyball, and Laser class sailing",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers employee reviews with specific ethnic authenticity markers",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "College student",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on improving English writing clarity and grammar",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Experiences shakiness if not eating within 1-2 hours after waking",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Undergoing surgery for fimosis",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Filed police report after previous custody incident",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in SuperCollider + Virtual Audio Cable configurations for audio routing",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Working on a thesis about lower GI bleed epidemiology",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in roleplay scenarios involving fictional characters Emilio/Emiko and power dynamics",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Name: Mahdieh, Age: 33",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers songwriting style similar to Maneskin (energetic rock)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about Silverburn Shopping Centre's mascot evolution, advertising campaigns, and community-driven brand narratives",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Practices Spanish daily via Duolingo for 30 minutes",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers SQLite for database with self-contained deployment",
+        "label": "Preferences/Technical_Stack"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a good record of academic results",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers professional emails to emphasize reporting to HR/manager rather than direct employee feedback [ERROR: Task-local]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers car travel with spouse; enjoys night driving for tranquility",
+        "label": "Preferences/Travel_Mode"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Avoids themes like prophecies, 'chosen one' tropes, protagonist named Mercer, programmer/gamer protagonists",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curious about urban transportation policy debates (bikes vs. cars)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Plans to attend university by achieving high GPA",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in detailed fictional object destruction scenarios (electronics/books/furniture) [ERROR: Role-play/third-party possible]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about intensive gaming schedule planning (500 games/month, 40min each) and time management strategies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on creating reports aligning corporate learning activities with 20th Party Congress guidelines and new energy vehicle development",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers concise and pithy communication in professional writing",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes harmony, instrumental balance, sound layering, and vocal quality over lyrics",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Philippines",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a son whom they drive to school every morning",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in ethical dilemmas within speculative fiction",
+        "label": "UNMAPPED"
+      }
+    ],
+    "query": "I’m trying to pitch myself for a project where the hardest part is tuning a progression/score system so it stays fair under extreme scaling, edge-case thresholds, and lots of interacting rules. Based on what you know about my background, what kind of role should I position myself for, and what’s the one most relevant skill I should emphasize to make the pitch credible?",
+    "metadata": {
+      "session_id": "sess_a17bc3d0a34c",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

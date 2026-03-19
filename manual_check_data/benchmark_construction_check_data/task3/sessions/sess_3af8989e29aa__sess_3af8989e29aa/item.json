@@ -1,0 +1,535 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_3af8989e29aa",
+  "session_id": "sess_3af8989e29aa",
+  "stratum": "States_Experiences/Mental_State",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "gpt-5.2",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Frequently experiences emotional exhaustion and need for care",
+      "label": "States_Experiences/Mental_State"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Uses local and seasonal fruits/vegetables in dehydrated products",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Transitioning from data analyst career to teaching college mathematics",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Learning to play electric guitar (beginner)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Frequently experiences emotional exhaustion and need for care",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Property manager at Extra Space Storage for 15 years",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a Mercedes-Benz CLK W208",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses custom voice command dataset stored in 'c:/meu/dados' directory for model training [ERROR: Unsupported by evidence]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Shakespeare's biography and its impact on English language evolution",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Heroes of the Storm is one of their favorite games",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about crafting respectful interpersonal messages (crush/girlfriend/friend contexts) with emphasis on boundaries and conflict resolution",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained interest in optimizing Nanjing trip plans with specific activity preferences",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Noise reduction doesn't negatively impact transcription quality",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about academic report writing and legal/technical paraphrasing support",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Applying to multiple interdisciplinary masters programs in communication/political science",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers long, detailed stories over short ones (implied through corrections)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires final training results table with metrics (Loss, F1, Recall, Accuracy)",
+        "label": "Preferences/Output_Formatting"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Custom-made mascot costume business specializing in pretty girl designs and skin-tight suits",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Took children to Riki store in Glasgow",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Elderly",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in Java-based AI/ML toolchains and deployment patterns",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in analyzing Japanese song lyrics' emotional/cultural depth",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep technical interest in SQLite FTS5 implementation details",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Favorites include 'Feel So Close' (Calvin Harris) and 'Titanium' (David Guetta)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a wife",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers configurable spatial parameters (grid intervals, variable grid points based on input size)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Primarily targets marketing, sales, and business development roles",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Overcame academic failure through perseverance",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Started a writing business in 2008",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns LDV T60 vehicle (Reg. ENL76J) with unresolved warranty issues",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Has in-laws and grandmother opposed to relocation",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Lives in central area of capital city with access to amenities",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m6",
+        "value": "21 years old",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Often includes no onion/garlic recipes for audience needs",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 9-month-old baby",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers logo design using colors #D4D7EC (main blue), #0F0D11 (black background), and #FFFFFF (white background)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Took 4 days to read a paperback (unusual duration)",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Working on a thesis about lower GI bleed epidemiology",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Favorites include 'Feel So Close' (Calvin Harris) and 'Titanium' (David Guetta)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m7",
+        "value": "National team athlete in handball, volleyball, and Laser class sailing",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Wants to lose 2 kilograms this week",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep interest in resume optimization techniques and quantified achievements",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Legal case against college teacher involving torn notebook, finger snapping, and disrespectful behavior",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Works closely with HRBP Charlene for salary exceptions",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about designing complex roleplaying game scenarios with custom stat formulas, age-based mechanics, and strict difficulty enforcement",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Intent to continue research connecting narrative biases with digital data collection",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Lived in Heze since birth for 22 years",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Enjoys manga series Vinland Saga and Golden Kamuy [ERROR: Not about the user; references third-party characters/stories]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Considers Masai Mara a must-visit destination",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Enjoys collaborative teamwork focused on process improvement",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Sustained interest in process construction methodologies (new projects and SOP optimization)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Saab 9-5",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Persistent emotional distress and sadness",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Emphasizes holiness, humility, and divine guidance in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Фильмы Кристофера Нолана, Дэвида Финчера, Роберта Земекиса",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Consulting experience",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Targeting 2023 admission cycle for Canadian Master's program",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Uses Tesseract OCR installed at D:\\Tesseract\\tesseract.exe",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m6",
+        "value": "即将成为党员",
+        "label": "Plans/Commitments"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Emphasizes holiness, humility, and divine guidance in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about creating mashups between Saint PHNX's 'Happy Place' and Kaiser Chiefs/Lily Allen's 'Oh My God'",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated inquiries about Asian food importers in Réunion, Mauritius, and UAE with contact details",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Name: Karine",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers structured 1:1 text-based roleplay with user-defined choices (2 options) and event-driven progression in male-oriented romance simulations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Lives in southern China (hot climate)",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Interest in academic writing structure (assignment formatting, acknowledgements)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Has a father",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained focus on university application strategy for Sophia University Economics Department",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Participated in theater production to challenge introversion",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids franchise-specific references in creative titles",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a girlfriend named Olya",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Creates/shares AI-generated Anime/Hentai NSFW content",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Desire to improve English ability and communication skills",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about real-time audio processing (pitch shifting, effects) and integration with speech recognition systems",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Likes dipping dumplings and spring rolls in soy sauce",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Seeks professional sponsorships/collaborations (e.g., Thomann)",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Prefers highly structured daily routines",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a male Dachshund-Pomeranian-German Hound named 'Pikach Dude'",
+        "label": "Possessions/Pet"
+      }
+    ],
+    "query": "我想让你之后跟我聊天的方式更贴合我最近的状态：当我回复变短或语气变淡时，你能不能用更温和的方式多给一点情绪上的陪伴？比如你觉得合适的关心频率、每次可以怎么开场、以及我不想多说的时候你该怎么继续但又不让人有压力。你之所以需要这样调整，主要是基于我最近一直在经历什么？",
+    "metadata": {
+      "session_id": "sess_3af8989e29aa",
+      "dialog_id": "dlg_3"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

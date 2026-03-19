@@ -1,0 +1,536 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_cac231a4e336",
+  "session_id": "sess_cac231a4e336",
+  "stratum": "Personal_Background/Occupation",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model_for_judge_track": "llama-4-maverick",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m1",
+    "selected_memory": {
+      "memory_id": "m1",
+      "value": "Manages IT infrastructure for a company of 100 employees handling 1000+ daily client messages",
+      "label": "Personal_Background/Occupation"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Manages IT infrastructure for a company of 100 employees handling 1000+ daily client messages",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Enjoys being a people person and helping others through customer interactions",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids external services/cloud dependencies for document system",
+        "label": "Constraints_and_Boundaries/Technical_Constraints"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Creates kigurumi/cosplay costumes (Miya-Moo Monkey Asuka, Sakura-tan battle costume)",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Previous roles: administrative/financial roles in civil engineering projects, airline sales agent, kindergarten administrator",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained technical curiosity about antivirus firewall capabilities and free alternatives",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about music production tools (Caustic 3, PC versions)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Requires formal email corrections with professor-appropriate structure",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Mother is retired teacher, father deceased",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aiming to gain weight",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Considering creating YouTube content about abandoned house exploration",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Xian Yu (Idle Fish) is most likely to be eliminated due to counterfeit goods, lack of platform responsibility, and cumbersome process",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires AI model with <=1MB English understanding database, expandable via scripts without training",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires structured problem solutions starting with 'Given' (Дано) sections",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in espionage topics",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers sandwiches over risotto (shrimp/bacon)",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Sustained interest in expanding international golf ball retailer research",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Originally from Washington",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Favorite sport is basketball",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works with non-UTF-8 encoded Python files (likely GBK)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Frequently listened to Calvin Harris and David Guetta",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Avoid retaining passport/address information if pasted later [ERROR: Unsupported by evidence: No user turn mentions passport/address retention.]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Hopes 'gem' works will remain in Guin After Saga publications",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Requires email responses to be short, professional, and reformulated multiple times [ERROR: Task-local]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about Fiverr content creation techniques (rephrasing, package naming, tone adjustments) [ERROR: Task-local]",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires strict compliance with Amazon review solicitation policies",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers formatted as 80-110 word IELTS speaking test responses without AI disclosure",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in discovering horror/dark anime meeting strict criteria",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "No branding in movement content",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using fast libraries for processing multi-gigabyte datasets",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers YouTube video titles to be SEO-optimized with Hindi/English fonts and under 70 characters",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Seeks a fulfilling career focused on helping people (excluding teaching)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in ChatGPT implementation/PC usage",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Believes authenticity will prevail over commercialism in hip-hop",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m2",
+        "value": "In a relationship with an overthinker",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works with non-UTF-8 encoded Python files (likely GBK)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in ChatGPT implementation/PC usage",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Hobbies: Cycling, reading, walking, listening to music",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Encountered certificate verification issues in past implementations",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes adults become overly work-focused and lose sense of fun",
+        "label": "Thoughts/Opinions/Negative"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Outgoing and seeks global friendships",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep interest in speculative theories: UAPs, non-local consciousness, alternative governance models",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers studying alone to avoid distractions",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Tends to use spaces in database column names (e.g. 'User Type') leading to syntax conflicts",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Deep interest in broadcast branding/technical details (S4C rebranding, idents, analogue shutdown)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Mother is retired teacher, father deceased",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Deep troubleshooting of Python screen automation (pyautogui region cropping, multi-monitor compatibility)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using youtube-dl's -F option to inspect video formats before download",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers budget-friendly eateries",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Hopes 'gem' works will remain in Guin After Saga publications",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained curiosity about English grammar (especially virtual语气 and 'would' usage)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using fast libraries for processing multi-gigabyte datasets",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers using fast libraries for processing multi-gigabyte datasets",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Uses barbell/dumbbell equipment, combines with bodyweight training",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about Saab 9-5 SID replacement process and potential issues",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely interested in technical/programming literature (C++, algorithms)",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Curious about music production tools (Caustic 3, PC versions)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers AdamW optimizer with linear LR scheduler (1e-5 rate, 0.1 warmup)",
+        "label": "Preferences/Technical_Workflow"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires image prompts for every scene in story outlines",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefer not to retain address/passport information [ERROR: Unsupported by evidence: No user turn mentions sensitive data retention preferences. Utterance 16 in evidence refers to IMAP errors, not privacy instructions.]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Considering creating YouTube content about abandoned house exploration",
+        "label": "Plans/Schedule"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Hopes that their friendship lasts forever",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Wants to study carbon management techniques for professional impact",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Believes they are entitled to reclaim non-betrothal expenses after engagement dissolution",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Enjoys powerlifting and football",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Bachelor's degree in Early Childhood Education",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers structured outputs (bullet points, concise formatting)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers answers with concise yet moderately detailed explanations (not too short)",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Works with non-UTF-8 encoded Python files (likely GBK)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Works closely with HRBP Charlene for salary exceptions",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Owns a car with LPG installation done at 100km mileage, using 5W-50 oil for 600,000km without major issues",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise, simple documentation text for game mechanics",
+        "label": "Constraints_and_Boundaries/Communication_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely involved in managing/administering a fitness program (references to program setup, admin views, progress tracking)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers UK education for academic quality + cultural exposure",
+        "label": "Preferences/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Trains models using GPU with 12GB VRAM capacity",
+        "label": "Constraints_and_Boundaries/Hardware_Limitations"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Had first job at age 23",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Interested in Dr. Strange imagery",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in documenting Горохівськe subsubdialect vocabulary",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Completed rigorous A-level training in mathematics, chemistry, and physics",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers structured resume formats with categorized bullet points and quantified achievements",
+        "label": "Preferences/Communication_Format"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in AI-human collaboration for dynamic drum track generation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Wants to meet girlfriend in person (dislikes online dating)",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Was previously rejected by the same friend with benefits",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers concise code examples without verbosity [ERROR: Task-local]",
+        "label": "Constraints_and_Boundaries/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Prefers studying alone to avoid distractions",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Seeks non-mainstream Japanese music beyond anime-oriented styles",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained technical curiosity about antivirus firewall capabilities and free alternatives",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Proficient in classical dance, modern-jazz, theater, drawing, singing, and harp",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Aiming to gain weight",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Likely a student in a field requiring research, management, and legal competencies",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Grandmother on mother's side from Горохівськe village",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Learned house purchase year (1978) from neighbors",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in budget meal optimization strategies and Aldi pricing patterns",
+        "label": "Thoughts/Curiosity"
+      }
+    ],
+    "query": "I’m planning the capacity for a new internal communication system and need to sanity-check my estimates: based on my work context, what rough scale of daily inbound communication should I design for, and why would underestimating it quickly become a bottleneck even if the team size seems manageable?",
+    "metadata": {
+      "session_id": "sess_cac231a4e336",
+      "dialog_id": "dlg_001",
+      "language": "English"
+    }
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

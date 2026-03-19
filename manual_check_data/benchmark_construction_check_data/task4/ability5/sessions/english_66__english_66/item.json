@@ -1,0 +1,106 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_66",
+  "session_id": "english_66",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model_for_judge_track": "gpt-5.2",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "original": {
+    "session_id": "english_66",
+    "queries": [
+      {
+        "query_id": "english_66:0",
+        "query": "I just got my payslip and saw the number again. It's so frustrating. I worked overtime almost every day this month, but the salary is still the same. I feel so undervalued and exhausted, like all my effort is meaningless.",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_66:1",
+        "query": "My colleague just casually mentioned how much bonus he got. It's way more than mine, even though I've been taking on more project lead duties lately. I didn't say anything, but now I'm just sitting here feeling a mix of anger and sadness. Why does it always feel like I'm getting the short end of the stick?",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_66:2",
+        "query": "I finally asked for that raise today. My boss said they'd 'review it during the next budget cycle,' which sounds like a polite no. I feel completely deflated. All that stress and buildup for nothing. I'm just so tired of this.",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_66:3",
+        "query": "Had to call in sick again today. There's a big deadline looming, and I can literally feel the guilt churning in my stomach. I keep checking my phone, half-expecting an angry message. I know I'm genuinely unwell, but why does taking care of myself feel like I'm committing a crime at this job?",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_66:4",
+        "query": "Just finished a one-on-one with my boss. They piled three new 'urgent' tasks on me, on top of everything else. Didn't say a word about support, resources, or... you know, compensation. I just smiled and said okay. Now I'm just empty. Not even angry anymore, just empty.",
+        "category": "Emotional Support"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "I am in this stressed state again. Because I feel bad for asking for a day off and there’s a meeting at my reason is that I didn’t know that I had to attend the meeting."
+      },
+      {
+        "role": "assistant",
+        "text": "I'm sorry to hear that you're feeling stressed. It's natural to feel guilty or bad when requesting time off, especially if it conflicts with important events like meetings. However, it's essential to take care of your well-being and sometimes that means taking a day off. It's important to communicate your situation to your employer or colleagues and express your apologies for any inconvenience caused. Additionally, it's useful to double-check your schedule in the future to prevent similar misunderstandings. Remember, taking care of yourself is crucial, and it's normal to occasionally need time off to recharge."
+      },
+      {
+        "role": "user",
+        "text": "Yes, you are right to call this a misunderstanding. I just assumed too easily that I was not needed in the meeting"
+      },
+      {
+        "role": "assistant",
+        "text": "It's understandable to make assumptions based on the information available to you. However, misunderstandings can occur, and it's important to communicate with your team or supervisor to clarify expectations. Mistakes and miscommunications happen to everyone, so try not to be too hard on yourself. Use this experience as a learning opportunity to improve your communication and ensure that you have a clear understanding of your responsibilities and commitments in the future. Remember, open and honest communication is key in avoiding misunderstandings and maintaining a positive work environment."
+      },
+      {
+        "role": "user",
+        "text": "Even though no one is really blaming me search for my boss, who just said up to you whether you want to come or not. I’m still trying to defend my case, thinking that I wasn’t paid enough salary for this job."
+      },
+      {
+        "role": "assistant",
+        "text": "It's natural to want to defend yourself, especially when you feel like you're not being paid enough for the job you are expected to do. However, it's important to approach this situation with a calm and constructive mindset.\n\nInstead of focusing solely on the meeting attendance issue, consider discussing your concerns about your salary with your boss separately. Schedule a meeting to have an open and honest conversation about your job responsibilities, compensation, and any other concerns you may have.\n\nDuring the meeting, present your case in a professional and respectful manner. Prepare a list of your accomplishments, responsibilities, and any additional tasks you've taken on that may merit a higher salary. Share any relevant market research or salary benchmarking data to support your claim.\n\nHowever, be open to feedback and discussion from your boss as well. It's possible that they may not be aware of the additional workload you've taken on or your perspective on fair compensation. \n\nRemember to approach the conversation with a positive and solution-oriented mindset, focusing on finding a mutually beneficial resolution. Keep in mind that salary negotiations may take time and require compromise from both parties.\n\nFinally, if your concerns about your salary are not addressed, you may need to reevaluate whether this job aligns with your long-term financial goals and personal satisfaction."
+      },
+      {
+        "role": "user",
+        "text": "Wow, I’m thoroughly impressed by how understanding and comforting your words are "
+      },
+      {
+        "role": "assistant",
+        "text": "Thank you for your kind words. I'm here to provide support and guidance, and I'm glad that my response was helpful to you. It's important to address workplace stress and concerns in a constructive manner, and I'm glad I could offer some guidance on how to approach your situation. Remember, seeking understanding and finding solutions can lead to a positive outcome. If you have any more questions or need further assistance, feel free to ask. Take care!"
+      },
+      {
+        "role": "user",
+        "text": "Can you understand chinese"
+      },
+      {
+        "role": "assistant",
+        "text": "Yes, I can understand Chinese."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Mental_State",
+        "value": "Feeling stressed and guilty about taking time off conflicting with work meetings",
+        "evidence": {
+          "session_id": "sess_df302eca25d5",
+          "utterance_index": 0,
+          "text": "I am in this stressed state again. Because I feel bad for asking for a day off and there’s a meeting..."
+        }
+      },
+      {
+        "label": "Thoughts/Opinions/Negative",
+        "value": "Believes salary is insufficient for job responsibilities",
+        "evidence": {
+          "session_id": "sess_df302eca25d5",
+          "utterance_index": 4,
+          "text": "I’m still trying to defend my case, thinking that I wasn’t paid enough salary for this job."
+        }
+      }
+    ]
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

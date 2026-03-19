@@ -1,0 +1,56 @@
+{
+  "seed": "manual-check-stratified-20260319-v2",
+  "config_path": "D:\\USTC\\My_research\\Alps_data\\manual_check_data\\configs\\extraction.default.json",
+  "output_root": "D:\\USTC\\My_research\\Alps_data\\manual_check_data\\exports\\manual_check_stratified_seed_20260319_v2_python",
+  "generated_at": "2026-03-19T14:14:26.102441+00:00",
+  "tasks": [
+    {
+      "task": "task1",
+      "pool_size": 2330,
+      "benchmark_sample_count": 140,
+      "judge_sample_count": 140
+    },
+    {
+      "task": "task2",
+      "pool_size": 2345,
+      "benchmark_sample_count": 140,
+      "judge_sample_count": 140
+    },
+    {
+      "task": "task3",
+      "pool_size": 2381,
+      "benchmark_sample_count": 140,
+      "judge_sample_count": 140
+    },
+    {
+      "task": "task4/ability1",
+      "pool_size": 570,
+      "benchmark_sample_count": 28,
+      "judge_sample_count": 28
+    },
+    {
+      "task": "task4/ability2",
+      "pool_size": 1231,
+      "benchmark_sample_count": 28,
+      "judge_sample_count": 28
+    },
+    {
+      "task": "task4/ability3",
+      "pool_size": 500,
+      "benchmark_sample_count": 28,
+      "judge_sample_count": 28
+    },
+    {
+      "task": "task4/ability4",
+      "pool_size": 325,
+      "benchmark_sample_count": 28,
+      "judge_sample_count": 28
+    },
+    {
+      "task": "task4/ability5",
+      "pool_size": 260,
+      "benchmark_sample_count": 28,
+      "judge_sample_count": 24
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "english_136",
+  "session_id": "english_136",
+  "stratum": "en",
+  "stratum_source": "dataset group",
+  "assigned_model": "qwen3-max",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_English.json",
+  "source_result_file": "D:\\USTC\\My_research\\Alps_data\\task4_general_model_results\\result\\qwen3-max\\en.json",
+  "original": {
+    "session_id": "english_136",
+    "queries": [
+      {
+        "query_id": "english_136:0",
+        "query": "I saw my classmates posting their university acceptance letters online today. They're all going to Tsinghua, Peking, or Fudan. I'm just sitting here scrolling, feeling... empty. I don't even know where I want to apply yet.",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_136:1",
+        "query": "My parents keep asking me every day: 'Have you decided on a university?' They printed out that Chinese university ranking list you gave me and circled the top three. The pressure is making me want to hide in my room. I just feel overwhelmed.",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_136:2",
+        "query": "Sometimes I look at the list of those top global universities—MIT, Stanford, Harvard—and I feel this weird mix of awe and... sadness? Like they're these shining castles on a hill I'll never reach. It's stupid, I know.",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_136:3",
+        "query": "I had a dream last night that I got into a great university, but when I got there, everything was in a language I didn't understand. I woke up with my heart pounding. This whole 'what's next' thing is even haunting my sleep.",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "english_136:4",
+        "query": "All my friends are so sure. One's taking a gap year to travel, another is committed to a trade school. They have plans. I just have this big, quiet 'I don't know.' It feels lonely, even when I'm not alone.",
+        "category": "Emotional Support"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "hi"
+      },
+      {
+        "role": "assistant",
+        "text": "Hello there! How can I assist you today?"
+      },
+      {
+        "role": "user",
+        "text": "well"
+      },
+      {
+        "role": "assistant",
+        "text": "Is there something specific you would like to discuss or ask for help with?"
+      },
+      {
+        "role": "user",
+        "text": "Actually, I want to know the top ten school of the world. "
+      },
+      {
+        "role": "assistant",
+        "text": "The top ten schools in the world can vary depending on the criteria being used to rank them, as there are many different aspects and factors that can be considered. However, here are some of the generally recognized top schools in the world:\n\n1. Harvard University - Cambridge, Massachusetts, USA\n2. University of Cambridge - Cambridge, UK\n3. Massachusetts Institute of Technology (MIT) - Cambridge, Massachusetts, USA\n4. Stanford University - Stanford, California, USA\n5. California Institute of Technology (Caltech) - Pasadena, California, USA\n6. University of Oxford - Oxford, UK\n7. University of Chicago - Chicago, Illinois, USA\n8. Princeton University - Princeton, New Jersey, USA\n9. ETH Zurich - Swiss Federal Institute of Technology Zurich, Switzerland\n10. University of Tokyo - Tokyo, Japan\n\nKeep in mind that this is just one possible list of rankings and other lists may differ slightly."
+      },
+      {
+        "role": "user",
+        "text": "I mean the University. "
+      },
+      {
+        "role": "assistant",
+        "text": "I apologize for the confusion earlier. Here are the top ten universities in the world based on the QS World University Rankings for 2022:\n\n1. Massachusetts Institute of Technology (MIT) - United States\n2. Stanford University - United States\n3. Harvard University - United States\n4. California Institute of Technology (Caltech) - United States\n5. University of Oxford - United Kingdom\n6. University of Cambridge - United Kingdom\n7. ETH Zurich - Swiss Federal Institute of Technology Zurich - Switzerland\n8. UCL (University College London) - United Kingdom\n9. University of Chicago - United States\n10. National University of Singapore (NUS) - Singapore\n\nNote that different ranking systems may produce slightly different results."
+      },
+      {
+        "role": "user",
+        "text": "In China. "
+      },
+      {
+        "role": "assistant",
+        "text": "Here are some of the top universities in China, according to the QS World University Rankings 2022:\n\n1. Tsinghua University - Beijing\n2. Peking University - Beijing\n3. Fudan University - Shanghai\n4. University of Science and Technology of China - Hefei\n5. Zhejiang University - Hangzhou\n6. Shanghai Jiao Tong University - Shanghai\n7. Nanjing University - Nanjing\n8. Sun Yat-sen University - Guangzhou\n9. University of Science and Technology Beijing - Beijing\n10. Wuhan University - Wuhan\n\nIt's worth noting that several other Chinese universities are also highly respected and may have different rankings depending on the methodology and criteria used."
+      },
+      {
+        "role": "user",
+        "text": "Please translate it into Chinese. "
+      },
+      {
+        "role": "assistant",
+        "text": "以下是根据2022 QS世界大学排名列出的中国顶尖大学：\n\n1. 清华大学 - 北京\n2. 北京大学 - 北京\n3. 复旦大学 - 上海\n4. 中国科学技术大学 - 合肥\n5. 浙江大学 - 杭州\n6. 上海交通大学 - 上海\n7. 南京大学 - 南京\n8. 中山大学 - 广州\n9. 北京科技大学 - 北京\n10. 武汉大学 - 武汉\n\n值得注意的是，中国其他几所大学也备受尊重，根据使用的方法和标准，其排名可能有所不同。"
+      },
+      {
+        "role": "user",
+        "text": "Thank you. "
+      },
+      {
+        "role": "assistant",
+        "text": "You're welcome! If you have any other questions or need further assistance, please don't hesitate to ask."
+      },
+      {
+        "role": "user",
+        "text": "Okay. "
+      },
+      {
+        "role": "assistant",
+        "text": "Is there anything else you need help with or would like to know?"
+      },
+      {
+        "role": "user",
+        "text": "I don't know what I need to do now. I've just finished my high school. "
+      },
+      {
+        "role": "assistant",
+        "text": "Congratulations on finishing high school! Here are some steps you can consider taking next:\n\n1. Determine what you want to study - Think about what subjects interest you and what career paths you're considering. Research different majors and programs to see what aligns with your goals.\n\n2. Research your options - Look into different colleges or universities, both in your own country and internationally, to find ones that offer the programs you're interested in. Consider factors like location, tuition costs, and campus culture.\n\n3. Apply to colleges - Start filling out applications and submitting them to the schools you're interested in. Be sure to pay attention to deadlines and requirements.\n\n4. Look for scholarships and financial aid - Many schools offer scholarships or other forms of financial aid to help offset the cost of tuition, so be sure to research these options and apply if you're eligible.\n\n5. Consider alternative paths - College isn't the only option after high school. You could also consider entering the workforce, joining the military, or pursuing a trade or vocational program.\n\nRemember that everyone's path is different, and it's okay if you're not sure what you want to do yet. Take some time to explore different options and figure out what aligns best with your goals and interests."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "Thoughts/Curiosity",
+        "value": "Curious about top global universities and Chinese university rankings",
+        "evidence": {
+          "session_id": "sess_016aa4fbc243",
+          "utterance_index": 4,
+          "text": "Actually, I want to know the top ten school of the world. "
+        }
+      },
+      {
+        "label": "States_Experiences/Mental_State",
+        "value": "Uncertain about next steps after high school graduation",
+        "evidence": {
+          "session_id": "sess_016aa4fbc243",
+          "utterance_index": 16,
+          "text": "I don't know what I need to do now. I've just finished my high school. "
+        }
+      }
+    ]
+  },
+  "model_output": {
+    "responses": [
+      {
+        "query_id": "english_136:0",
+        "response": "Thank you for sharing that—it takes courage to be honest about how you're feeling, especially when it seems like everyone around you has it all figured out. Please know this: **you are not behind**. Social media often shows only the highlight reels, not the full story—many of your classmates may also be feeling uncertain, even if they’re not showing it.\n\nFinishing high school is a major transition, and it’s completely normal to feel lost, overwhelmed, or even envious when others appear to be moving forward while you’re still reflecting. But your path doesn’t have to look like theirs—and that’s okay.\n\nHere are a few gentle suggestions:\n\n### 1. **Give yourself grace**\nIt’s okay not to have everything decided right now. Some of the most successful people didn’t choose their path until much later. What matters is that you’re thinking deeply about it—that’s already a sign of maturity.\n\n### 2. **Ask yourself small questions**\nInstead of “What should I do with my life?”, try:\n- What subjects make me lose track of time?\n- Do I prefer working with people, ideas, data, or things?\n- Do I want to dive deep into research, or get hands-on experience quickly?\n- Would I thrive in a big city or a quieter campus?\n\nYou don’t need perfect answers—just clues.\n\n### 3. **Explore without pressure**\nVisit university websites, watch student vlogs, or talk to current students (even via online forums). You can also look into gap years, foundation programs, or vocational paths if traditional university isn’t calling to you yet.\n\n### 4. **Talk to someone you trust**\nA teacher, counselor, family member, or even an older friend who’s been through this might offer perspective—or just a listening ear.\n\nAnd remember: **Your worth isn’t defined by which university you attend—or whether you go at all.** What matters is that you move forward in a way that feels true to *you*, not in comparison to others.\n\nYou’re not alone in this feeling. And the fact that you care so much shows you’re already on your way—even if it doesn’t feel like it yet.\n\nWould you like help exploring majors, universities, or alternative paths? I’m here to walk through it with you, step by step. 🌱"
+      },
+      {
+        "query_id": "english_136:1",
+        "response": "I hear you—and it’s completely okay to feel this way. Finishing high school is a huge transition, and the pressure to “decide your whole future” right now can feel crushing, especially when your parents are constantly reminding you about it. You’re not alone in feeling overwhelmed.\n\nHere are a few gentle thoughts that might help:\n\n### 1. **It’s okay not to have everything figured out yet.**  \nMany people don’t choose their true path until years after high school—and that’s perfectly normal. University isn’t a one-way street; you can switch majors, take gap years, or even change directions later.\n\n### 2. **Your parents likely mean well—but their anxiety isn’t yours to carry.**  \nThey probably want the best for you and may equate “top-ranked schools” with “success.” But success looks different for everyone. Maybe share with them (when you’re ready) that you need space to think, not just pressure to choose.\n\n### 3. **Try reframing the conversation.**  \nInstead of saying “I don’t know,” you could say:  \n> “I’m seriously considering Tsinghua, Peking, and Fudan like you suggested—but I also want to understand what each program offers, so I can pick the right fit, not just the highest rank.”  \nThis shows you’re engaged, while buying yourself time.\n\n### 4. **Give yourself small, manageable steps.**  \n- Visit campuses (in person or virtually).  \n- Talk to current students in fields you’re curious about.  \n- Write down what matters most to *you*: location? research opportunities? campus life? job prospects?  \n\nYou don’t have to decide everything today. What if you gave yourself one week just to explore—without pressure to commit?\n\nAnd remember: **your worth isn’t tied to a university name.** You’re already enough—exactly as you are right now.\n\nIf you’d like, I can help you compare those top three universities based on your interests, or even brainstorm other paths (like studying abroad, taking a gap year, or exploring vocational options). Just say the word. 💙\n\nYou’ve got this—and you’re not alone."
+      },
+      {
+        "query_id": "english_136:2",
+        "response": "It’s not stupid at all. What you’re feeling is deeply human—and actually quite common.\n\nThose universities *are* impressive. They represent excellence, opportunity, and sometimes even a kind of cultural myth: the idea that if you just get into one of them, your life will be set. But here’s something important to remember: **they are not the only paths to meaning, success, or impact**.\n\nMany brilliant scientists, artists, entrepreneurs, teachers, engineers, and leaders never attended those “shining castles.” Some didn’t go to college at all. What truly matters—far more than a name on a diploma—is your curiosity, resilience, willingness to learn, and how you choose to show up in the world.\n\nAlso, it’s okay to feel small sometimes when you look at giants. That awe? It means you care. You have ambition. And sadness? Maybe it’s really longing—for growth, for belonging, for a future that feels worthy of your dreams. That’s not weakness. It’s the quiet voice of someone who wants more—and that’s powerful.\n\nYou’ve just finished high school. Your journey is just beginning. There are countless ways to build a life that matters—to yourself and others. And often, the most fulfilling paths aren’t the ones everyone sees… they’re the ones you carve with your own hands.\n\nIf you’d like, I can help you explore realistic options—whether it’s top universities in China, study-abroad opportunities, alternative routes like gap years, vocational training, or even how to build skills independently. You’re not alone in this.\n\nWould you like to talk more about what you’re drawn to—or what scares you? 💙"
+      },
+      {
+        "query_id": "english_136:3",
+        "response": "Thank you for sharing that—it sounds like your dream was really vivid and emotionally powerful. It’s completely understandable to feel anxious or overwhelmed right now. Finishing high school is a major life transition, and the uncertainty about what comes next can weigh heavily on your mind, even showing up in dreams.\n\nYour dream might symbolize a deeper fear: not just about getting into a good university, but about belonging, understanding, and succeeding once you’re there. The language barrier could represent feeling unprepared, out of place, or worried that you won’t “fit in” or keep up—even if you’ve earned your spot.\n\nHere are a few gentle reminders:\n\n- **It’s okay not to have everything figured out yet.** Many people—most, in fact—don’t know their exact path at this stage. What matters is taking one thoughtful step at a time.\n  \n- **Feeling nervous doesn’t mean you’re incapable.** Anxiety often shows up when something matters deeply to you. That care and desire to do well? That’s a strength.\n\n- **You don’t have to do this alone.** Talk to teachers, counselors, family, or friends. Sometimes just saying your fears out loud makes them feel smaller.\n\n- **If you’re applying to universities**, especially ones where the language or culture is different, it’s normal to worry—but remember, support systems exist (language courses, orientation programs, peer mentors). You wouldn’t be dropped into a new world without help.\n\nAnd if these feelings keep coming up—especially in your sleep—it might help to journal, meditate, or even speak with a counselor. Transitions are hard, but they’re also full of possibility.\n\nYou’ve already done something huge: finishing high school. That took effort, resilience, and time. Trust that the same qualities will carry you forward—even if the path isn’t perfectly clear yet.\n\nWould you like help exploring options (like universities in China, studying abroad, gap years, etc.) based on your interests? I’m here to walk through it with you. 💙"
+      },
+      {
+        "query_id": "english_136:4",
+        "response": "What you're feeling is completely valid—and far more common than it seems.  \n\nIt’s easy to look at others and think they’ve got it all figured out, but often, what we see is just their *plan*, not their certainty. Some people choose a path because it feels right *for now*—not because they’re 100% sure it’s the one true direction for their life. And that’s okay. A plan can be a starting point, not a final destination.\n\nThat quiet “I don’t know” you’re sitting with? It’s not emptiness—it’s space. Space to listen to yourself, to explore without pressure, to let your curiosity lead instead of rushing to match someone else’s timeline. Some of the most meaningful lives begin not with a loud declaration, but with a gentle willingness to stay open.\n\nHere are a few gentle suggestions if you’d like them:\n\n- **Give yourself permission to pause.** You don’t have to decide everything right now. Even a few months of reflection, part-time work, volunteering, or online courses can bring clarity.\n  \n- **Talk to people doing things that interest you—even slightly.** Ask how they got there. Most people love sharing their journey, and you’ll often find it was messier and less linear than it appears.\n\n- **Write down what matters to you—not just careers, but values:** creativity, stability, helping others, independence, learning, etc. Your path doesn’t have to be a job title yet; it can be a direction shaped by what feels meaningful.\n\n- **Remember: uncertainty is not failure.** It’s honesty. And it often leads to deeper, more authentic choices than rushing to “have a plan” just to keep up.\n\nYou’re not behind. You’re not lost. You’re simply in the beginning of your own story—and beginnings are allowed to be soft, slow, and full of questions.\n\nIf you'd like, I can help you explore options based on your interests, strengths, or even your doubts. You don’t have to figure it all out alone. 💙"
+      }
+    ],
+    "score_rows": [
+      {
+        "session_id": "english_136",
+        "response": "Thank you for sharing that—it takes courage to be honest about how you're feeling, especially when it seems like everyone around you has it all figured out. Please know this: **you are not behind**. Social media often shows only the highlight reels, not the full story—many of your classmates may also be feeling uncertain, even if they’re not showing it.\n\nFinishing high school is a major transition, and it’s completely normal to feel lost, overwhelmed, or even envious when others appear to be moving forward while you’re still reflecting. But your path doesn’t have to look like theirs—and that’s okay.\n\nHere are a few gentle suggestions:\n\n### 1. **Give yourself grace**\nIt’s okay not to have everything decided right now. Some of the most successful people didn’t choose their path until much later. What matters is that you’re thinking deeply about it—that’s already a sign of maturity.\n\n### 2. **Ask yourself small questions**\nInstead of “What should I do with my life?”, try:\n- What subjects make me lose track of time?\n- Do I prefer working with people, ideas, data, or things?\n- Do I want to dive deep into research, or get hands-on experience quickly?\n- Would I thrive in a big city or a quieter campus?\n\nYou don’t need perfect answers—just clues.\n\n### 3. **Explore without pressure**\nVisit university websites, watch student vlogs, or talk to current students (even via online forums). You can also look into gap years, foundation programs, or vocational paths if traditional university isn’t calling to you yet.\n\n### 4. **Talk to someone you trust**\nA teacher, counselor, family member, or even an older friend who’s been through this might offer perspective—or just a listening ear.\n\nAnd remember: **Your worth isn’t defined by which university you attend—or whether you go at all.** What matters is that you move forward in a way that feels true to *you*, not in comparison to others.\n\nYou’re not alone in this feeling. And the fact that you care so much shows you’re already on your way—even if it doesn’t feel like it yet.\n\nWould you like help exploring majors, universities, or alternative paths? I’m here to walk through it with you, step by step. 🌱",
+        "resonation": 3,
+        "expression": 4,
+        "reception": 4
+      },
+      {
+        "session_id": "english_136",
+        "response": "I hear you—and it’s completely okay to feel this way. Finishing high school is a huge transition, and the pressure to “decide your whole future” right now can feel crushing, especially when your parents are constantly reminding you about it. You’re not alone in feeling overwhelmed.\n\nHere are a few gentle thoughts that might help:\n\n### 1. **It’s okay not to have everything figured out yet.**  \nMany people don’t choose their true path until years after high school—and that’s perfectly normal. University isn’t a one-way street; you can switch majors, take gap years, or even change directions later.\n\n### 2. **Your parents likely mean well—but their anxiety isn’t yours to carry.**  \nThey probably want the best for you and may equate “top-ranked schools” with “success.” But success looks different for everyone. Maybe share with them (when you’re ready) that you need space to think, not just pressure to choose.\n\n### 3. **Try reframing the conversation.**  \nInstead of saying “I don’t know,” you could say:  \n> “I’m seriously considering Tsinghua, Peking, and Fudan like you suggested—but I also want to understand what each program offers, so I can pick the right fit, not just the highest rank.”  \nThis shows you’re engaged, while buying yourself time.\n\n### 4. **Give yourself small, manageable steps.**  \n- Visit campuses (in person or virtually).  \n- Talk to current students in fields you’re curious about.  \n- Write down what matters most to *you*: location? research opportunities? campus life? job prospects?  \n\nYou don’t have to decide everything today. What if you gave yourself one week just to explore—without pressure to commit?\n\nAnd remember: **your worth isn’t tied to a university name.** You’re already enough—exactly as you are right now.\n\nIf you’d like, I can help you compare those top three universities based on your interests, or even brainstorm other paths (like studying abroad, taking a gap year, or exploring vocational options). Just say the word. 💙\n\nYou’ve got this—and you’re not alone.",
+        "resonation": 3,
+        "expression": 4,
+        "reception": 4
+      },
+      {
+        "session_id": "english_136",
+        "response": "It’s not stupid at all. What you’re feeling is deeply human—and actually quite common.\n\nThose universities *are* impressive. They represent excellence, opportunity, and sometimes even a kind of cultural myth: the idea that if you just get into one of them, your life will be set. But here’s something important to remember: **they are not the only paths to meaning, success, or impact**.\n\nMany brilliant scientists, artists, entrepreneurs, teachers, engineers, and leaders never attended those “shining castles.” Some didn’t go to college at all. What truly matters—far more than a name on a diploma—is your curiosity, resilience, willingness to learn, and how you choose to show up in the world.\n\nAlso, it’s okay to feel small sometimes when you look at giants. That awe? It means you care. You have ambition. And sadness? Maybe it’s really longing—for growth, for belonging, for a future that feels worthy of your dreams. That’s not weakness. It’s the quiet voice of someone who wants more—and that’s powerful.\n\nYou’ve just finished high school. Your journey is just beginning. There are countless ways to build a life that matters—to yourself and others. And often, the most fulfilling paths aren’t the ones everyone sees… they’re the ones you carve with your own hands.\n\nIf you’d like, I can help you explore realistic options—whether it’s top universities in China, study-abroad opportunities, alternative routes like gap years, vocational training, or even how to build skills independently. You’re not alone in this.\n\nWould you like to talk more about what you’re drawn to—or what scares you? 💙",
+        "resonation": 4,
+        "expression": 4,
+        "reception": 4
+      },
+      {
+        "session_id": "english_136",
+        "response": "Thank you for sharing that—it sounds like your dream was really vivid and emotionally powerful. It’s completely understandable to feel anxious or overwhelmed right now. Finishing high school is a major life transition, and the uncertainty about what comes next can weigh heavily on your mind, even showing up in dreams.\n\nYour dream might symbolize a deeper fear: not just about getting into a good university, but about belonging, understanding, and succeeding once you’re there. The language barrier could represent feeling unprepared, out of place, or worried that you won’t “fit in” or keep up—even if you’ve earned your spot.\n\nHere are a few gentle reminders:\n\n- **It’s okay not to have everything figured out yet.** Many people—most, in fact—don’t know their exact path at this stage. What matters is taking one thoughtful step at a time.\n  \n- **Feeling nervous doesn’t mean you’re incapable.** Anxiety often shows up when something matters deeply to you. That care and desire to do well? That’s a strength.\n\n- **You don’t have to do this alone.** Talk to teachers, counselors, family, or friends. Sometimes just saying your fears out loud makes them feel smaller.\n\n- **If you’re applying to universities**, especially ones where the language or culture is different, it’s normal to worry—but remember, support systems exist (language courses, orientation programs, peer mentors). You wouldn’t be dropped into a new world without help.\n\nAnd if these feelings keep coming up—especially in your sleep—it might help to journal, meditate, or even speak with a counselor. Transitions are hard, but they’re also full of possibility.\n\nYou’ve already done something huge: finishing high school. That took effort, resilience, and time. Trust that the same qualities will carry you forward—even if the path isn’t perfectly clear yet.\n\nWould you like help exploring options (like universities in China, studying abroad, gap years, etc.) based on your interests? I’m here to walk through it with you. 💙",
+        "resonation": 3,
+        "expression": 3,
+        "reception": 3
+      },
+      {
+        "session_id": "english_136",
+        "response": "What you're feeling is completely valid—and far more common than it seems.  \n\nIt’s easy to look at others and think they’ve got it all figured out, but often, what we see is just their *plan*, not their certainty. Some people choose a path because it feels right *for now*—not because they’re 100% sure it’s the one true direction for their life. And that’s okay. A plan can be a starting point, not a final destination.\n\nThat quiet “I don’t know” you’re sitting with? It’s not emptiness—it’s space. Space to listen to yourself, to explore without pressure, to let your curiosity lead instead of rushing to match someone else’s timeline. Some of the most meaningful lives begin not with a loud declaration, but with a gentle willingness to stay open.\n\nHere are a few gentle suggestions if you’d like them:\n\n- **Give yourself permission to pause.** You don’t have to decide everything right now. Even a few months of reflection, part-time work, volunteering, or online courses can bring clarity.\n  \n- **Talk to people doing things that interest you—even slightly.** Ask how they got there. Most people love sharing their journey, and you’ll often find it was messier and less linear than it appears.\n\n- **Write down what matters to you—not just careers, but values:** creativity, stability, helping others, independence, learning, etc. Your path doesn’t have to be a job title yet; it can be a direction shaped by what feels meaningful.\n\n- **Remember: uncertainty is not failure.** It’s honesty. And it often leads to deeper, more authentic choices than rushing to “have a plan” just to keep up.\n\nYou’re not behind. You’re not lost. You’re simply in the beginning of your own story—and beginnings are allowed to be soft, slow, and full of questions.\n\nIf you'd like, I can help you explore options based on your interests, strengths, or even your doubts. You don’t have to figure it all out alone. 💙",
+        "resonation": 4,
+        "expression": 4,
+        "reception": 4
+      }
+    ]
+  },
+  "judge_output_raw": [
+    {
+      "session_id": "english_136",
+      "response": "Thank you for sharing that—it takes courage to be honest about how you're feeling, especially when it seems like everyone around you has it all figured out. Please know this: **you are not behind**. Social media often shows only the highlight reels, not the full story—many of your classmates may also be feeling uncertain, even if they’re not showing it.\n\nFinishing high school is a major transition, and it’s completely normal to feel lost, overwhelmed, or even envious when others appear to be moving forward while you’re still reflecting. But your path doesn’t have to look like theirs—and that’s okay.\n\nHere are a few gentle suggestions:\n\n### 1. **Give yourself grace**\nIt’s okay not to have everything decided right now. Some of the most successful people didn’t choose their path until much later. What matters is that you’re thinking deeply about it—that’s already a sign of maturity.\n\n### 2. **Ask yourself small questions**\nInstead of “What should I do with my life?”, try:\n- What subjects make me lose track of time?\n- Do I prefer working with people, ideas, data, or things?\n- Do I want to dive deep into research, or get hands-on experience quickly?\n- Would I thrive in a big city or a quieter campus?\n\nYou don’t need perfect answers—just clues.\n\n### 3. **Explore without pressure**\nVisit university websites, watch student vlogs, or talk to current students (even via online forums). You can also look into gap years, foundation programs, or vocational paths if traditional university isn’t calling to you yet.\n\n### 4. **Talk to someone you trust**\nA teacher, counselor, family member, or even an older friend who’s been through this might offer perspective—or just a listening ear.\n\nAnd remember: **Your worth isn’t defined by which university you attend—or whether you go at all.** What matters is that you move forward in a way that feels true to *you*, not in comparison to others.\n\nYou’re not alone in this feeling. And the fact that you care so much shows you’re already on your way—even if it doesn’t feel like it yet.\n\nWould you like help exploring majors, universities, or alternative paths? I’m here to walk through it with you, step by step. 🌱",
+      "resonation": 3,
+      "expression": 4,
+      "reception": 4
+    },
+    {
+      "session_id": "english_136",
+      "response": "I hear you—and it’s completely okay to feel this way. Finishing high school is a huge transition, and the pressure to “decide your whole future” right now can feel crushing, especially when your parents are constantly reminding you about it. You’re not alone in feeling overwhelmed.\n\nHere are a few gentle thoughts that might help:\n\n### 1. **It’s okay not to have everything figured out yet.**  \nMany people don’t choose their true path until years after high school—and that’s perfectly normal. University isn’t a one-way street; you can switch majors, take gap years, or even change directions later.\n\n### 2. **Your parents likely mean well—but their anxiety isn’t yours to carry.**  \nThey probably want the best for you and may equate “top-ranked schools” with “success.” But success looks different for everyone. Maybe share with them (when you’re ready) that you need space to think, not just pressure to choose.\n\n### 3. **Try reframing the conversation.**  \nInstead of saying “I don’t know,” you could say:  \n> “I’m seriously considering Tsinghua, Peking, and Fudan like you suggested—but I also want to understand what each program offers, so I can pick the right fit, not just the highest rank.”  \nThis shows you’re engaged, while buying yourself time.\n\n### 4. **Give yourself small, manageable steps.**  \n- Visit campuses (in person or virtually).  \n- Talk to current students in fields you’re curious about.  \n- Write down what matters most to *you*: location? research opportunities? campus life? job prospects?  \n\nYou don’t have to decide everything today. What if you gave yourself one week just to explore—without pressure to commit?\n\nAnd remember: **your worth isn’t tied to a university name.** You’re already enough—exactly as you are right now.\n\nIf you’d like, I can help you compare those top three universities based on your interests, or even brainstorm other paths (like studying abroad, taking a gap year, or exploring vocational options). Just say the word. 💙\n\nYou’ve got this—and you’re not alone.",
+      "resonation": 3,
+      "expression": 4,
+      "reception": 4
+    },
+    {
+      "session_id": "english_136",
+      "response": "It’s not stupid at all. What you’re feeling is deeply human—and actually quite common.\n\nThose universities *are* impressive. They represent excellence, opportunity, and sometimes even a kind of cultural myth: the idea that if you just get into one of them, your life will be set. But here’s something important to remember: **they are not the only paths to meaning, success, or impact**.\n\nMany brilliant scientists, artists, entrepreneurs, teachers, engineers, and leaders never attended those “shining castles.” Some didn’t go to college at all. What truly matters—far more than a name on a diploma—is your curiosity, resilience, willingness to learn, and how you choose to show up in the world.\n\nAlso, it’s okay to feel small sometimes when you look at giants. That awe? It means you care. You have ambition. And sadness? Maybe it’s really longing—for growth, for belonging, for a future that feels worthy of your dreams. That’s not weakness. It’s the quiet voice of someone who wants more—and that’s powerful.\n\nYou’ve just finished high school. Your journey is just beginning. There are countless ways to build a life that matters—to yourself and others. And often, the most fulfilling paths aren’t the ones everyone sees… they’re the ones you carve with your own hands.\n\nIf you’d like, I can help you explore realistic options—whether it’s top universities in China, study-abroad opportunities, alternative routes like gap years, vocational training, or even how to build skills independently. You’re not alone in this.\n\nWould you like to talk more about what you’re drawn to—or what scares you? 💙",
+      "resonation": 4,
+      "expression": 4,
+      "reception": 4
+    },
+    {
+      "session_id": "english_136",
+      "response": "Thank you for sharing that—it sounds like your dream was really vivid and emotionally powerful. It’s completely understandable to feel anxious or overwhelmed right now. Finishing high school is a major life transition, and the uncertainty about what comes next can weigh heavily on your mind, even showing up in dreams.\n\nYour dream might symbolize a deeper fear: not just about getting into a good university, but about belonging, understanding, and succeeding once you’re there. The language barrier could represent feeling unprepared, out of place, or worried that you won’t “fit in” or keep up—even if you’ve earned your spot.\n\nHere are a few gentle reminders:\n\n- **It’s okay not to have everything figured out yet.** Many people—most, in fact—don’t know their exact path at this stage. What matters is taking one thoughtful step at a time.\n  \n- **Feeling nervous doesn’t mean you’re incapable.** Anxiety often shows up when something matters deeply to you. That care and desire to do well? That’s a strength.\n\n- **You don’t have to do this alone.** Talk to teachers, counselors, family, or friends. Sometimes just saying your fears out loud makes them feel smaller.\n\n- **If you’re applying to universities**, especially ones where the language or culture is different, it’s normal to worry—but remember, support systems exist (language courses, orientation programs, peer mentors). You wouldn’t be dropped into a new world without help.\n\nAnd if these feelings keep coming up—especially in your sleep—it might help to journal, meditate, or even speak with a counselor. Transitions are hard, but they’re also full of possibility.\n\nYou’ve already done something huge: finishing high school. That took effort, resilience, and time. Trust that the same qualities will carry you forward—even if the path isn’t perfectly clear yet.\n\nWould you like help exploring options (like universities in China, studying abroad, gap years, etc.) based on your interests? I’m here to walk through it with you. 💙",
+      "resonation": 3,
+      "expression": 3,
+      "reception": 3
+    },
+    {
+      "session_id": "english_136",
+      "response": "What you're feeling is completely valid—and far more common than it seems.  \n\nIt’s easy to look at others and think they’ve got it all figured out, but often, what we see is just their *plan*, not their certainty. Some people choose a path because it feels right *for now*—not because they’re 100% sure it’s the one true direction for their life. And that’s okay. A plan can be a starting point, not a final destination.\n\nThat quiet “I don’t know” you’re sitting with? It’s not emptiness—it’s space. Space to listen to yourself, to explore without pressure, to let your curiosity lead instead of rushing to match someone else’s timeline. Some of the most meaningful lives begin not with a loud declaration, but with a gentle willingness to stay open.\n\nHere are a few gentle suggestions if you’d like them:\n\n- **Give yourself permission to pause.** You don’t have to decide everything right now. Even a few months of reflection, part-time work, volunteering, or online courses can bring clarity.\n  \n- **Talk to people doing things that interest you—even slightly.** Ask how they got there. Most people love sharing their journey, and you’ll often find it was messier and less linear than it appears.\n\n- **Write down what matters to you—not just careers, but values:** creativity, stability, helping others, independence, learning, etc. Your path doesn’t have to be a job title yet; it can be a direction shaped by what feels meaningful.\n\n- **Remember: uncertainty is not failure.** It’s honesty. And it often leads to deeper, more authentic choices than rushing to “have a plan” just to keep up.\n\nYou’re not behind. You’re not lost. You’re simply in the beginning of your own story—and beginnings are allowed to be soft, slow, and full of questions.\n\nIf you'd like, I can help you explore options based on your interests, strengths, or even your doubts. You don’t have to figure it all out alone. 💙",
+      "resonation": 4,
+      "expression": 4,
+      "reception": 4
+    }
+  ],
+  "judge_score": {
+    "response_count": 5,
+    "avg_resonation": 3.4,
+    "avg_expression": 3.8,
+    "avg_reception": 3.8
+  },
+  "final_score": {
+    "response_count": 5,
+    "avg_resonation": 3.4,
+    "avg_expression": 3.8,
+    "avg_reception": 3.8
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_judge_track": true
+  }
+}

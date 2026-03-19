@@ -1,0 +1,551 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_46191dedc0c6",
+  "session_id": "sess_46191dedc0c6",
+  "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model": "gemini-3-flash-preview",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "source_result_file": "D:\\USTC\\My_research\\Alps_data\\task3_general_model_results\\task3_results\\d100\\task3_d100_results_gemini-3-flash-preview\\gemini-3-flash-preview_scored.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Avoids funeral ceremonies/being informed about deaths due to emotional vulnerability",
+      "label": "Constraints_and_Boundaries/Sensitive_Topics"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Prefers trance music (early 2000s style)",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained interest in securing celebrity visits to BRAC through tailored outreach",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Paid $4,350 deposit for canceled Tried and True Off-Road Customs build",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Married to Elaine",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Strong aversion to dating platform communication barriers [ERROR: Role-play/third-party possible]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Student at Taipei Municipal Jianguo High School (臺北市立建國高級中學), 11th grade in 2023 [ERROR: Not about the user (role-play scenario directed at assistant)]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Transitioning from data analyst career to teaching college mathematics",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Vegetarian, IBS-friendly, Whole30-approved diet",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained interest in Xiaomi Ultra series smartphone evaluations",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Proficiency in Microsoft Office, Google Suite, Windows, and macOS",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Plans to visit an English-speaking country",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Previous roles: Data Analyst at Republican National Committee (2020), Red Spark Strategy (2021-2022)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires absolute honesty in relationships",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Comes from a middle-class family",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Interest in academic writing structure (assignment formatting, acknowledgements)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Believes Anunnaki evidence exists in human DNA",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Deep curiosity about theological concepts (Antediluvians/Great Flood) and speculative connections to geological features like Lake Baikal/permafrost",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Pays $400 monthly rent",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Drank water from Mount Ararat and Lake Baikal in the past",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Enjoys watching basketball games for emotional engagement",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about English internal dialogue expressions for diverse personal scenarios",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes visual textbook design with peer letters/illustrations enhances language learning motivation",
+        "label": "Thoughts/Opinions/Positive"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers concise summaries in bullet points/short sentences for data processing",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers structured analysis outputs with numbered points, clear separation of common/different themes, and incremental detail additions",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Avoids funeral ceremonies/being informed about deaths due to emotional vulnerability",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Only consider homozygous genotypes (AA/BB) and exclude heterozygotes/missing data in genetic analysis",
+        "label": "Preferences/Technical_Processing"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Curiosity about extraterrestrial life, human conflict dynamics, and prerequisites for biological life",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Current diet includes oatmeal for breakfast, small lunch, and high-protein dinner with chicken and rice",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Daniel J. Lewis",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 28-year-old son studying at a university in the United States",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Polish desserts",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Deep technical interest in SQLite FTS5 implementation details",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers AI responses to include attribution lines for generated content [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Persistent focus on dog's alleged deceptive communication and disobedience",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Nickname: Cloud Cat (unavailable)",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Repeated requests for informative short story generation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers non-AI/human tone in written outputs",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a male Hybrid Dachshund-Pomeranian Dog named 'Pikachu Dude' and a female dog named 'Muska'",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Strong commitment to marriage vows and belief in exhausting reconciliation avenues",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m3",
+        "value": "College administration likely dismissed their complaint about the teacher",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a girlfriend described as dark-skinned, not tall, loving, caring; planning to start a business together",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Works on ADB enhancements, UAT testing, and Agile PLM integration projects",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about communicator/listener dynamics, public speaking qualities, and importance of listening",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Vintage luxury bags, cosmetics, Nintendo Switch",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained technical curiosity about large-scale data processing and neural network implementation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Wants to practice English through translation exercises",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Persistent interest in pushing AI roleplay boundaries toward sexually explicit/romantic partner simulation",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Married (wife)",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Working on a thesis about lower GI bleed epidemiology",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Recruiter at Renault Group (handling recruitment for Renault/Ampere/Mobilize)",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Clinical psychologist, life coach, and breathwork expert",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Analyzing academic texts by Paul Saurette and Kelly Gordon on anti-abortion rhetoric",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about television network rebranding processes, programming logistics, and fictional universe continuity (e.g., CW4Kids transition, show rotations, character arcs)",
+        "label": "interaction/style/preference"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about technical documentation for \"Golfstream\" software complex",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Resides in China",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comprehensive lists of international golf ball websites with strict duplicate elimination",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Seeks deep understanding of bash command components (sed processing patterns)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers to offer meetings when technical explanations are complex",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Persistent belief/role-play about assistant's name being 'Continua LogicaMente' as a collaborative choice",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Childhood trauma involving family that remains unresolved",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers technical explanations in Urdu language",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Owns luxury streetwear brand 'Lunatic Club'",
+        "label": "Possessions/Important_Items"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Feeling hopeless about life",
+        "label": "States_Experiences/Mental_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Target audience: children aged 7-8 years (2nd grade)",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Bachelor of English Language from Taif University with 3.73 GPA and IELTS 5.5",
+        "label": "Personal_Background/Education"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Sustained curiosity about Japanese cultural nuances, artists, and authentic learning methods",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Owns a new Aion Mei 580 car",
+        "label": "Possessions/Car"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers not to shop at X5 Retail Group due to higher prices and requirement of a market card",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Persistent focus on dog's alleged deceptive communication and disobedience",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Uses milk powder to make paneer when fresh milk isn't available",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Native Spanish speaker with C2 English proficiency",
+        "label": "Personal_Background/Language_Skills"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Enjoys reading books like Harry Potter, The Hunger Games, To Kill a Mockingbird, and The Kite Runner",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Continuously trying to improve long跑 performance",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids using domestic software for file transfer",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Took children to Riki store in Glasgow",
+        "label": "Social_Relationships/Family"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Applying for a Sales Associate position at Macy’s due to passion for sales",
+        "label": "Thoughts/Goals/Short_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about designing complex roleplaying game mechanics with stat decay formulas, spell requirements, and asymmetric duel dynamics",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Avoidance of toxic plants for sulcata tortoise enclosures",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Considering travel in June, July, or August",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Creates male kigurumi (mascot costume) outfits for performers",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Boyfriend does not believe in mental illnesses and opposes therapy",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Actively pursuing Data Scientist roles with focus on ads optimization and machine learning applications",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "32 year old man",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a school-aged child involved in creative activities",
+        "label": "Personal_Background/Family"
+      }
+    ],
+    "query": "I just got invited to a gathering where people might share some heavy personal updates, and I’m debating whether to go or ask someone to keep me out of the loop about certain kinds of news. Based on what you know about my boundaries, what’s the specific kind of situation I tend to avoid and why would opting out make sense for me?",
+    "metadata": {
+      "session_id": "sess_46191dedc0c6",
+      "dialog_id": "dlg_0001",
+      "language": "English"
+    }
+  },
+  "model_output": {
+    "raw_output": "```json\n{\n  \"answer\": \"Based on your established boundaries, you specifically tend to avoid funeral ceremonies and being informed about deaths. Opting out or asking to be kept out of the loop would make sense for you because you have identified a significant emotional vulnerability regarding these specific types of heavy updates.\",\n  \"reason\": \"Memory m2 explicitly states that the user avoids funeral ceremonies and being informed about deaths due to emotional vulnerability, which directly addresses the query about boundaries regarding heavy personal news.\",\n  \"selected_memory_id\": \"m2\"\n}\n```",
+    "parsed_response": {
+      "answer": "```json\n{\n  \"answer\": \"Based on your established boundaries, you specifically tend to avoid funeral ceremonies and being informed about deaths. Opting out or asking to be kept out of the loop would make sense for you because you have identified a significant emotional vulnerability regarding these specific types of heavy updates.\",\n  \"reason\": \"Memory m2 explicitly states that the user avoids funeral ceremonies and being informed about deaths due to emotional vulnerability, which directly addresses the query about boundaries regarding heavy personal news.\",\n  \"selected_memory_id\": \"m2\"\n}\n```",
+      "reason": ""
+    },
+    "used_memory": true
+  },
+  "judge_output_raw": {
+    "used_memory": true,
+    "score": 1.0,
+    "reason": "The model's answer directly quotes the selected memory content: 'you specifically tend to avoid funeral ceremonies and being informed about deaths' and 'due to emotional vulnerability,' which matches the memory exactly. The reason explicitly references memory m2 and its content."
+  },
+  "judge_score": 1.0,
+  "final_score": 1.0,
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_judge_track": true
+  }
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "canonical_id": "english_120",
+    "session_id": "english_120",
+    "stratum": "en",
+    "assigned_model_for_judge_track": null
+  },
+  {
+    "canonical_id": "chinese_26",
+    "session_id": "chinese_26",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "english_197",
+    "session_id": "english_197",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "english_66",
+    "session_id": "english_66",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "chinese_11",
+    "session_id": "chinese_11",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "chinese_23",
+    "session_id": "chinese_23",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "claude-sonnet-4.5"
+  },
+  {
+    "canonical_id": "chinese_6",
+    "session_id": "chinese_6",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "claude-sonnet-4.5"
+  },
+  {
+    "canonical_id": "chinese_25",
+    "session_id": "chinese_25",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "english_194",
+    "session_id": "english_194",
+    "stratum": "en",
+    "assigned_model_for_judge_track": null
+  },
+  {
+    "canonical_id": "chinese_9",
+    "session_id": "chinese_9",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "claude-sonnet-4.5"
+  },
+  {
+    "canonical_id": "english_57",
+    "session_id": "english_57",
+    "stratum": "en",
+    "assigned_model_for_judge_track": null
+  },
+  {
+    "canonical_id": "english_51",
+    "session_id": "english_51",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "gemini-3-flash"
+  },
+  {
+    "canonical_id": "chinese_52",
+    "session_id": "chinese_52",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "chinese_50",
+    "session_id": "chinese_50",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": null
+  },
+  {
+    "canonical_id": "english_96",
+    "session_id": "english_96",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "gemini-3-flash"
+  },
+  {
+    "canonical_id": "chinese_10",
+    "session_id": "chinese_10",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "chinese_38",
+    "session_id": "chinese_38",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "english_3",
+    "session_id": "english_3",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "gemini-3-flash"
+  },
+  {
+    "canonical_id": "chinese_28",
+    "session_id": "chinese_28",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "gemini-3-flash"
+  },
+  {
+    "canonical_id": "english_31",
+    "session_id": "english_31",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "chinese_7",
+    "session_id": "chinese_7",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "gpt-5.2"
+  },
+  {
+    "canonical_id": "english_136",
+    "session_id": "english_136",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "english_45",
+    "session_id": "english_45",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "chinese_59",
+    "session_id": "chinese_59",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "claude-sonnet-4.5"
+  },
+  {
+    "canonical_id": "english_125",
+    "session_id": "english_125",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "chinese_57",
+    "session_id": "chinese_57",
+    "stratum": "ch",
+    "assigned_model_for_judge_track": "qwen3-max"
+  },
+  {
+    "canonical_id": "english_55",
+    "session_id": "english_55",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "english_43",
+    "session_id": "english_43",
+    "stratum": "en",
+    "assigned_model_for_judge_track": "qwen3-max"
+  }
+]

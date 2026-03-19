@@ -1,0 +1,842 @@
+[
+  {
+    "canonical_id": "sess_795b7c423ad3",
+    "session_id": "sess_795b7c423ad3",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_9c28fddb7936",
+    "session_id": "sess_9c28fddb7936",
+    "stratum": "Interaction_Preferences",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_b6c1cd330f89",
+    "session_id": "sess_b6c1cd330f89",
+    "stratum": "Preferences/Technical_Processing",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_ebbb66ba1e89",
+    "session_id": "sess_ebbb66ba1e89",
+    "stratum": "Preferences/Shopping",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_1e794b91c516",
+    "session_id": "sess_1e794b91c516",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_e8d65b5503ee",
+    "session_id": "sess_e8d65b5503ee",
+    "stratum": "Social_Relationships/Family",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_ff30161d1207",
+    "session_id": "sess_ff30161d1207",
+    "stratum": "Preferences/Technical_Processing",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_bd16ce4fbe89",
+    "session_id": "sess_bd16ce4fbe89",
+    "stratum": "Preferences/Reading",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_139c3a02875f",
+    "session_id": "sess_139c3a02875f",
+    "stratum": "Social_Relationships/Colleagues",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_ebfcf7a1f436",
+    "session_id": "sess_ebfcf7a1f436",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_be9886b3c618",
+    "session_id": "sess_be9886b3c618",
+    "stratum": "Plans/Commitments",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_2e43a9161201",
+    "session_id": "sess_2e43a9161201",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_e75fb6edc451",
+    "session_id": "sess_e75fb6edc451",
+    "stratum": "Thoughts/Opinions/Negative",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_3c2a5e5037d0",
+    "session_id": "sess_3c2a5e5037d0",
+    "stratum": "Preferences/Shopping",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_27cecc624b7a",
+    "session_id": "sess_27cecc624b7a",
+    "stratum": "Personal_Background/Family",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_4be5d9582bc4",
+    "session_id": "sess_4be5d9582bc4",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_940fa92cba34",
+    "session_id": "sess_940fa92cba34",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_3ce57e2e7aa0",
+    "session_id": "sess_3ce57e2e7aa0",
+    "stratum": "Preferences/Technical_Processing",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_b5c5478f7fef",
+    "session_id": "sess_b5c5478f7fef",
+    "stratum": "Preferences/Technical_Tools",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_82585de5109b",
+    "session_id": "sess_82585de5109b",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_4afa7e408198",
+    "session_id": "sess_4afa7e408198",
+    "stratum": "Personal_Background/Occupation",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_29fc474ccbb6",
+    "session_id": "sess_29fc474ccbb6",
+    "stratum": "Personal_Background/Family",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_986253ed0be8",
+    "session_id": "sess_986253ed0be8",
+    "stratum": "interaction/style/preference",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_6b5f32632fd0",
+    "session_id": "sess_6b5f32632fd0",
+    "stratum": "Thoughts/Opinions/Negative",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_6b2b40c25620",
+    "session_id": "sess_6b2b40c25620",
+    "stratum": "Preferences/Entertainment",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_ce477bbc4662",
+    "session_id": "sess_ce477bbc4662",
+    "stratum": "Personal_Background/Location",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_20af4d43618f",
+    "session_id": "sess_20af4d43618f",
+    "stratum": "Preferences/Shopping",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_d72a051e82f1",
+    "session_id": "sess_d72a051e82f1",
+    "stratum": "Preferences/Entertainment",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_57e288c309f8",
+    "session_id": "sess_57e288c309f8",
+    "stratum": "Social_Relationships/Colleagues",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_28a5ab2e5f88",
+    "session_id": "sess_28a5ab2e5f88",
+    "stratum": "Personal_Background/Location",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_e7bc30dafc16",
+    "session_id": "sess_e7bc30dafc16",
+    "stratum": "Thoughts/Goals/Long_Term",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_e79a29307863",
+    "session_id": "sess_e79a29307863",
+    "stratum": "States_Experiences/Mental_State",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_fd62c42791d8",
+    "session_id": "sess_fd62c42791d8",
+    "stratum": "Personal_Background/Unmapping/Account_Balance",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_dc19b1d1c54f",
+    "session_id": "sess_dc19b1d1c54f",
+    "stratum": "Preferences/Food",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_bd8ee9a81fe8",
+    "session_id": "sess_bd8ee9a81fe8",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_c728818681c3",
+    "session_id": "sess_c728818681c3",
+    "stratum": "Preferences/Sports",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_e66f939f1b36",
+    "session_id": "sess_e66f939f1b36",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_bf1f2e4c458b",
+    "session_id": "sess_bf1f2e4c458b",
+    "stratum": "Social_Relationships/Partners",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_fc94e0a2c0e9",
+    "session_id": "sess_fc94e0a2c0e9",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_b49839db0dd7",
+    "session_id": "sess_b49839db0dd7",
+    "stratum": "Preferences/Output_Formatting",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_fa6735c9e1e9",
+    "session_id": "sess_fa6735c9e1e9",
+    "stratum": "Possessions/Pet",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_0a973ae0b90e",
+    "session_id": "sess_0a973ae0b90e",
+    "stratum": "Possessions/Car",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_936f14b3d604",
+    "session_id": "sess_936f14b3d604",
+    "stratum": "Preferences/Shopping",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_dcc2b45efe0d",
+    "session_id": "sess_dcc2b45efe0d",
+    "stratum": "Personal_Background/Education",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_8b1d2f29f379",
+    "session_id": "sess_8b1d2f29f379",
+    "stratum": "Social_Relationships/Family",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_1c4910cb61b3",
+    "session_id": "sess_1c4910cb61b3",
+    "stratum": "Preferences/Technical_Tools",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_f76390807156",
+    "session_id": "sess_f76390807156",
+    "stratum": "UNMAPPED",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_abde0e39b28e",
+    "session_id": "sess_abde0e39b28e",
+    "stratum": "UNMAPPED",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_f9ea0d8edcb5",
+    "session_id": "sess_f9ea0d8edcb5",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_ca2fda1a93c1",
+    "session_id": "sess_ca2fda1a93c1",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_b2935e6f9ac4",
+    "session_id": "sess_b2935e6f9ac4",
+    "stratum": "Preferences/Interaction_Preferences",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_6c09465eeb37",
+    "session_id": "sess_6c09465eeb37",
+    "stratum": "Possessions/Car",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_e89e0b5a8873",
+    "session_id": "sess_e89e0b5a8873",
+    "stratum": "UNMAPPED",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_213f19c2a6e6",
+    "session_id": "sess_213f19c2a6e6",
+    "stratum": "Thoughts/Goals/Long_Term",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_5b0d33b5e8bf",
+    "session_id": "sess_5b0d33b5e8bf",
+    "stratum": "Preferences/Technical_Stack",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_66b7b3ba7700",
+    "session_id": "sess_66b7b3ba7700",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_767b0a6a76fc",
+    "session_id": "sess_767b0a6a76fc",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_2069a5bfe8cb",
+    "session_id": "sess_2069a5bfe8cb",
+    "stratum": "Preferences/Sports",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_caedea24c67f",
+    "session_id": "sess_caedea24c67f",
+    "stratum": "Preferences/Food",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_f1dcdac068b2",
+    "session_id": "sess_f1dcdac068b2",
+    "stratum": "Preferences/Music",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_ad416d0b901f",
+    "session_id": "sess_ad416d0b901f",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_4be0e04bef8a",
+    "session_id": "sess_4be0e04bef8a",
+    "stratum": "Personal_Background/Education",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_9f1fe8ab8740",
+    "session_id": "sess_9f1fe8ab8740",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_cac231a4e336",
+    "session_id": "sess_cac231a4e336",
+    "stratum": "Personal_Background/Occupation",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_130c5123b28d",
+    "session_id": "sess_130c5123b28d",
+    "stratum": "Possessions/Pet",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_116af6679eb7",
+    "session_id": "sess_116af6679eb7",
+    "stratum": "Preferences/Education",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_6caf0a2128be",
+    "session_id": "sess_6caf0a2128be",
+    "stratum": "Constraints_and_Boundaries/Communication_Preferences",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_d0fbd0203522",
+    "session_id": "sess_d0fbd0203522",
+    "stratum": "Possessions/Pet",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_9bc32af2f244",
+    "session_id": "sess_9bc32af2f244",
+    "stratum": "Possessions/Car",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_2c7ae0eec93a",
+    "session_id": "sess_2c7ae0eec93a",
+    "stratum": "Preferences/Music",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_5db02c3b6c06",
+    "session_id": "sess_5db02c3b6c06",
+    "stratum": "Preferences/Sports",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_bba99aa59975",
+    "session_id": "sess_bba99aa59975",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_427264d5caa6",
+    "session_id": "sess_427264d5caa6",
+    "stratum": "Social_Relationships/Family",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_370559e35e14",
+    "session_id": "sess_370559e35e14",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_852b4f4b806e",
+    "session_id": "sess_852b4f4b806e",
+    "stratum": "Thoughts/Goals/Long_Term",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_be4a20de5d82",
+    "session_id": "sess_be4a20de5d82",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_6736ac6b155e",
+    "session_id": "sess_6736ac6b155e",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_9c65dc5493a9",
+    "session_id": "sess_9c65dc5493a9",
+    "stratum": "Social_Relationships/Partners",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_a10f5c5dcf23",
+    "session_id": "sess_a10f5c5dcf23",
+    "stratum": "Personal_Background/Location",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_8fb3df557a13",
+    "session_id": "sess_8fb3df557a13",
+    "stratum": "Personal_Background/Education",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_882efe9d8429",
+    "session_id": "sess_882efe9d8429",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_f953de33a79c",
+    "session_id": "sess_f953de33a79c",
+    "stratum": "States_Experiences/Mental_State",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_3af8989e29aa",
+    "session_id": "sess_3af8989e29aa",
+    "stratum": "States_Experiences/Mental_State",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_c8ec2f55bac1",
+    "session_id": "sess_c8ec2f55bac1",
+    "stratum": "Preferences/Entertainment",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_86dd3aa9072c",
+    "session_id": "sess_86dd3aa9072c",
+    "stratum": "Preferences/Technical_Stack",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_db8c2bb9928d",
+    "session_id": "sess_db8c2bb9928d",
+    "stratum": "Preferences/Education",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_141cc9b8e384",
+    "session_id": "sess_141cc9b8e384",
+    "stratum": "Possessions/Pet",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_3b6f03d49310",
+    "session_id": "sess_3b6f03d49310",
+    "stratum": "Possessions/Car",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_dcadb0871be7",
+    "session_id": "sess_dcadb0871be7",
+    "stratum": "Thoughts/Goals/Long_Term",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_d931d2a1704d",
+    "session_id": "sess_d931d2a1704d",
+    "stratum": "Social_Relationships/Colleagues",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_73b67a0768ef",
+    "session_id": "sess_73b67a0768ef",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_bc263ef15cef",
+    "session_id": "sess_bc263ef15cef",
+    "stratum": "Preferences/Music",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_7f532cca8725",
+    "session_id": "sess_7f532cca8725",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_45ab8daef464",
+    "session_id": "sess_45ab8daef464",
+    "stratum": "Thoughts/Goals/Short_Term",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_51499fc2fcb9",
+    "session_id": "sess_51499fc2fcb9",
+    "stratum": "Constraints_and_Boundaries/Disliked_Topics",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_4366af0b677f",
+    "session_id": "sess_4366af0b677f",
+    "stratum": "Personal_Background/Family",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_26ab9e557784",
+    "session_id": "sess_26ab9e557784",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_f4b265cb0f45",
+    "session_id": "sess_f4b265cb0f45",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_4c4ebf5c84e3",
+    "session_id": "sess_4c4ebf5c84e3",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_649d33549d17",
+    "session_id": "sess_649d33549d17",
+    "stratum": "Preferences/Education",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_8b94f8917bbd",
+    "session_id": "sess_8b94f8917bbd",
+    "stratum": "Preferences/Reading",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_c4c1b1b57345",
+    "session_id": "sess_c4c1b1b57345",
+    "stratum": "States_Experiences/Past_Experience",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_c09c7a4517ae",
+    "session_id": "sess_c09c7a4517ae",
+    "stratum": "Personal_Background/Occupation",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_565c3c14b17f",
+    "session_id": "sess_565c3c14b17f",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_0c5126fc49be",
+    "session_id": "sess_0c5126fc49be",
+    "stratum": "Preferences/Interaction_Preferences",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_523f87c7916e",
+    "session_id": "sess_523f87c7916e",
+    "stratum": "Personal_Background/Location",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_2ddabecbbb45",
+    "session_id": "sess_2ddabecbbb45",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_6e3f10eb1b0c",
+    "session_id": "sess_6e3f10eb1b0c",
+    "stratum": "Preferences/Food",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_4521a3b53d4a",
+    "session_id": "sess_4521a3b53d4a",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_699424167e33",
+    "session_id": "sess_699424167e33",
+    "stratum": "Thoughts/Curiosity",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_9dfc64ce7b4e",
+    "session_id": "sess_9dfc64ce7b4e",
+    "stratum": "Preferences/Reading",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_aa1fd47fdb0c",
+    "session_id": "sess_aa1fd47fdb0c",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_535b0d6ee9a5",
+    "session_id": "sess_535b0d6ee9a5",
+    "stratum": "Preferences/Technical_Stack",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_a6c997727bf7",
+    "session_id": "sess_a6c997727bf7",
+    "stratum": "Personal_Background/Education",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_b029d4129276",
+    "session_id": "sess_b029d4129276",
+    "stratum": "Preferences/Technical_Tools",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_c483de5b2c4d",
+    "session_id": "sess_c483de5b2c4d",
+    "stratum": "Personal_Background/Family",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_2d3147877680",
+    "session_id": "sess_2d3147877680",
+    "stratum": "Preferences/Communication_Format",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_4691793ea3d2",
+    "session_id": "sess_4691793ea3d2",
+    "stratum": "Constraints_and_Boundaries/Interaction_Preferences",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_3292d36726a0",
+    "session_id": "sess_3292d36726a0",
+    "stratum": "Social_Relationships/Partners",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_cbe362b081a5",
+    "session_id": "sess_cbe362b081a5",
+    "stratum": "Social_Relationships/Colleagues",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_e99265da4d29",
+    "session_id": "sess_e99265da4d29",
+    "stratum": "Social_Relationships/Friends",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_2307377e47a8",
+    "session_id": "sess_2307377e47a8",
+    "stratum": "Preferences/Interaction_Preferences",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_5523c5c476c5",
+    "session_id": "sess_5523c5c476c5",
+    "stratum": "Preferences/Music",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_7799e1ab00d5",
+    "session_id": "sess_7799e1ab00d5",
+    "stratum": "Preferences/Interaction_Preferences",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_a17bc3d0a34c",
+    "session_id": "sess_a17bc3d0a34c",
+    "stratum": "Personal_Background/Occupation",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_e7c7a0e358a8",
+    "session_id": "sess_e7c7a0e358a8",
+    "stratum": "Preferences/Entertainment",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_053009164a95",
+    "session_id": "sess_053009164a95",
+    "stratum": "Social_Relationships/Partners",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_9c32a24293dc",
+    "session_id": "sess_9c32a24293dc",
+    "stratum": "Social_Relationships/Family",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_8cc48e4742e0",
+    "session_id": "sess_8cc48e4742e0",
+    "stratum": "Preferences/Education",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_216721974282",
+    "session_id": "sess_216721974282",
+    "stratum": "Preferences/Food",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_e5243f809947",
+    "session_id": "sess_e5243f809947",
+    "stratum": "Preferences/Reading",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_8762630c00fa",
+    "session_id": "sess_8762630c00fa",
+    "stratum": "Personal_Background/Location",
+    "assigned_model": "gpt-5.2"
+  },
+  {
+    "canonical_id": "sess_e77781bdf130",
+    "session_id": "sess_e77781bdf130",
+    "stratum": "Preferences/Sports",
+    "assigned_model": "llama-4-maverick"
+  },
+  {
+    "canonical_id": "sess_3fe9ff441dcd",
+    "session_id": "sess_3fe9ff441dcd",
+    "stratum": "Preferences/Travel_Mode",
+    "assigned_model": "deepseek-reasoner"
+  },
+  {
+    "canonical_id": "sess_4e53b03b733a",
+    "session_id": "sess_4e53b03b733a",
+    "stratum": "Personal_Background/Identity",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_6f70e950f3e0",
+    "session_id": "sess_6f70e950f3e0",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model": "claude-sonnet-4-5-20250929"
+  },
+  {
+    "canonical_id": "sess_a35cf995b063",
+    "session_id": "sess_a35cf995b063",
+    "stratum": "Preferences/Technical_Tools",
+    "assigned_model": "qwen3-max"
+  },
+  {
+    "canonical_id": "sess_46191dedc0c6",
+    "session_id": "sess_46191dedc0c6",
+    "stratum": "Constraints_and_Boundaries/Sensitive_Topics",
+    "assigned_model": "gemini-3-flash-preview"
+  },
+  {
+    "canonical_id": "sess_cdce431cdb13",
+    "session_id": "sess_cdce431cdb13",
+    "stratum": "UNMAPPED",
+    "assigned_model": "gpt-4.1-mini"
+  },
+  {
+    "canonical_id": "sess_527fa109001e",
+    "session_id": "sess_527fa109001e",
+    "stratum": "Constraints_and_Boundaries/Do_Not_Remember",
+    "assigned_model": "llama-4-maverick"
+  }
+]

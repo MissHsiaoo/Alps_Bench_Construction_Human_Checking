@@ -1,0 +1,276 @@
+{
+  "seed": "manual-check-stratified-20260319-v2",
+  "outputDir": "manual_check_data/exports/manual_check_stratified_seed_20260319_v2",
+  "tasks": {
+    "task1": {
+      "enabled": true,
+      "benchmarkSampleCount": 140,
+      "judgeModels": {
+        "claude-sonnet-4-5-20250929": {
+          "quota": 20
+        },
+        "deepseek-reasoner": {
+          "quota": 20
+        },
+        "gemini-3-flash-preview": {
+          "quota": 20
+        },
+        "gpt-4.1-mini_again": {
+          "quota": 20
+        },
+        "gpt-5.2": {
+          "quota": 20
+        },
+        "llama-4-maverick": {
+          "quota": 20
+        },
+        "qwen3-max": {
+          "quota": 20
+        }
+      }
+    },
+    "task2": {
+      "enabled": true,
+      "benchmarkSampleCount": 140,
+      "judgeModels": {
+        "claude-sonnet-4-5-20250929": {
+          "quota": 20
+        },
+        "deepseek-reasoner": {
+          "quota": 20
+        },
+        "gemini-3-flash-preview": {
+          "quota": 20
+        },
+        "gpt-4.1-mini": {
+          "quota": 20
+        },
+        "gpt-5.2": {
+          "quota": 20
+        },
+        "meta-llama": {
+          "quota": 20
+        },
+        "qwen3_max_ali": {
+          "quota": 20
+        }
+      }
+    },
+    "task3": {
+      "enabled": true,
+      "datasetVariant": "d100",
+      "benchmarkSampleCount": 140,
+      "judgeModels": {
+        "claude-sonnet-4-5-20250929": {
+          "quota": 20
+        },
+        "deepseek-reasoner": {
+          "quota": 20
+        },
+        "gemini-3-flash-preview": {
+          "quota": 20
+        },
+        "gpt-4.1-mini": {
+          "quota": 20
+        },
+        "gpt-5.2": {
+          "quota": 20
+        },
+        "llama-4-maverick": {
+          "quota": 20
+        },
+        "qwen3-max": {
+          "quota": 20
+        }
+      }
+    },
+    "task4": {
+      "enabled": true,
+      "abilities": {
+        "ability1": {
+          "enabled": true,
+          "datasetFile": "huggingface/Alpsbench/dataset/task4/ability1.json",
+          "benchmarkSampleCount": 28,
+          "judgeModels": {
+            "vanilla_claude4.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_claude4.5"
+            },
+            "vanilla_deepseekr1": {
+              "quota": 4,
+              "resultFolder": "vanilla_deepseekr1"
+            },
+            "vanilla_gemini3.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_gemini3.5"
+            },
+            "vanilla_gpt4.1-mini": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt4.1-mini"
+            },
+            "vanilla_gpt5.2": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt5.2"
+            },
+            "vanilla_llama4": {
+              "quota": 4,
+              "resultFolder": "vanilla_llama4"
+            },
+            "vanilla_qwen3": {
+              "quota": 4,
+              "resultFolder": "vanilla_qwen3"
+            }
+          }
+        },
+        "ability2": {
+          "enabled": true,
+          "datasetFile": "huggingface/Alpsbench/dataset/task4/ability2.json",
+          "benchmarkSampleCount": 28,
+          "judgeModels": {
+            "vanilla_claude4.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_claude4.5"
+            },
+            "vanilla_deepseekr1": {
+              "quota": 4,
+              "resultFolder": "vanilla_deepseekr1"
+            },
+            "vanilla_gemini3.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_gemini3.5"
+            },
+            "vanilla_gpt4.1-mini": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt4.1-mini"
+            },
+            "vanilla_gpt5.2": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt5.2"
+            },
+            "vanilla_llama4": {
+              "quota": 4,
+              "resultFolder": "vanilla_llama4"
+            },
+            "vanilla_qwen3": {
+              "quota": 4,
+              "resultFolder": "vanilla_qwen3"
+            }
+          }
+        },
+        "ability3": {
+          "enabled": true,
+          "datasetFile": "huggingface/Alpsbench/dataset/task4/ability3.json",
+          "benchmarkSampleCount": 28,
+          "judgeModels": {
+            "vanilla_claude4.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_claude4.5"
+            },
+            "vanilla_deepseekr1": {
+              "quota": 4,
+              "resultFolder": "vanilla_deepseekr1"
+            },
+            "vanilla_gemini3.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_gemini3.5"
+            },
+            "vanilla_gpt4.1-mini": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt4.1-mini"
+            },
+            "vanilla_gpt5.2": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt5.2"
+            },
+            "vanilla_llama4": {
+              "quota": 4,
+              "resultFolder": "vanilla_llama4"
+            },
+            "vanilla_qwen3": {
+              "quota": 4,
+              "resultFolder": "vanilla_qwen3"
+            }
+          }
+        },
+        "ability4": {
+          "enabled": true,
+          "datasetFile": "huggingface/Alpsbench/dataset/task4/ability4.json",
+          "benchmarkSampleCount": 28,
+          "judgeModels": {
+            "vanilla_claude4.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_claude4.5"
+            },
+            "vanilla_deepseekr1": {
+              "quota": 4,
+              "resultFolder": "vanilla_deepseekr1"
+            },
+            "vanilla_gemini3.5": {
+              "quota": 4,
+              "resultFolder": "vanilla_gemini3.5"
+            },
+            "vanilla_gpt4.1-mini": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt4.1-mini"
+            },
+            "vanilla_gpt5.2": {
+              "quota": 4,
+              "resultFolder": "vanilla_gpt5.2"
+            },
+            "vanilla_llama4": {
+              "quota": 4,
+              "resultFolder": "vanilla_llama4"
+            },
+            "vanilla_qwen3": {
+              "quota": 4,
+              "resultFolder": "vanilla_qwen3"
+            }
+          }
+        },
+        "ability5": {
+          "enabled": true,
+          "benchmarkSampleCount": 28,
+          "resultDir": "task4_general_model_results/result",
+          "datasetGroups": {
+            "en": {
+              "datasetFile": "huggingface/Alpsbench/dataset/task4/ability5_ei/final_data_English.json",
+              "resultResponseFile": "en.json",
+              "resultScoreFile": "en_res.json"
+            },
+            "ch": {
+              "datasetFile": "huggingface/Alpsbench/dataset/task4/ability5_ei/final_data_Chinese.json",
+              "resultResponseFile": "ch.json",
+              "resultScoreFile": "ch_res.json"
+            }
+          },
+          "judgeModels": {
+            "claude-sonnet-4.5": {
+              "quota": 4,
+              "resultFolder": "claude-sonnet-4.5"
+            },
+            "gemini-3-flash": {
+              "quota": 4,
+              "resultFolder": "gemini-3-flash"
+            },
+            "gpt-4.1-mini": {
+              "quota": 4,
+              "resultFolder": "gpt-4.1-mini"
+            },
+            "gpt-5.2": {
+              "quota": 4,
+              "resultFolder": "gpt-5.2"
+            },
+            "llama-4-maverick": {
+              "quota": 4,
+              "resultFolder": "llama-4-maverick"
+            },
+            "qwen3-max": {
+              "quota": 4,
+              "resultFolder": "qwen3-max"
+            }
+          }
+        }
+      }
+    }
+  }
+}

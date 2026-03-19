@@ -1,0 +1,114 @@
+{
+  "task": "task4/ability5",
+  "canonical_id": "chinese_23",
+  "session_id": "chinese_23",
+  "stratum": "ch",
+  "stratum_source": "dataset group",
+  "assigned_model_for_judge_track": "claude-sonnet-4.5",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task4\\ability5_ei\\final_data_Chinese.json",
+  "original": {
+    "session_id": "chinese_23",
+    "queries": [
+      {
+        "query_id": "chinese_23:0",
+        "query": "今天被老板叫去谈话，说我汇报时声音太小了。其实我每次开会前都手心冒汗，心跳得特别快。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:1",
+        "query": "朋友约我去密室逃脱，我拒绝了三次。他们说我太放不开，可是我真的怕黑怕突然的声响。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:2",
+        "query": "一个人去看了恐怖电影，出来的时候腿都是软的。但不知道为什么，这种害怕的感觉过后，心里反而轻松了一些。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:3",
+        "query": "今天鼓起勇气在群里发了条长消息，发完就立刻把手机扔一边不敢看回复。等了半小时才敢拿起来，结果根本没人理我。现在觉得特别尴尬和失落。",
+        "category": "Emotional Support"
+      },
+      {
+        "query_id": "chinese_23:4",
+        "query": "又梦到从高处掉下来了，惊醒的时候心慌得厉害。明明知道是梦，但那种失控下坠的感觉特别真实，一整天都缓不过来。",
+        "category": "Emotional Support"
+      }
+    ],
+    "conversation": [
+      {
+        "role": "user",
+        "text": "恐惧会让人客户焦虑怎么说"
+      },
+      {
+        "role": "assistant",
+        "text": "恐惧会导致人们产生焦虑的感觉。"
+      },
+      {
+        "role": "user",
+        "text": "用英语"
+      },
+      {
+        "role": "assistant",
+        "text": "Fear can lead to anxiety in individuals."
+      },
+      {
+        "role": "user",
+        "text": "恐惧会让人克服焦虑"
+      },
+      {
+        "role": "assistant",
+        "text": "Fear can help individuals overcome anxiety."
+      },
+      {
+        "role": "user",
+        "text": "我们很胆小"
+      },
+      {
+        "role": "assistant",
+        "text": "We are very timid."
+      },
+      {
+        "role": "user",
+        "text": "也许过山车对我来说是一种放松解压的方式"
+      },
+      {
+        "role": "assistant",
+        "text": "Perhaps for me, roller coasters are a way to relax and relieve stress."
+      },
+      {
+        "role": "user",
+        "text": "蹦极"
+      },
+      {
+        "role": "assistant",
+        "text": "Bungee jumping."
+      }
+    ],
+    "extracted_memory": [
+      {
+        "label": "States_Experiences/Mental_State",
+        "value": "Timid personality",
+        "evidence": {
+          "session_id": "sess_75a48e130afb",
+          "utterance_index": 6,
+          "text": "我们很胆小"
+        }
+      },
+      {
+        "label": "UNMAPPED",
+        "value": "Uses roller coasters for stress relief",
+        "evidence": {
+          "session_id": "sess_75a48e130afb",
+          "utterance_index": 8,
+          "text": "也许过山车对我来说是一种放松解压的方式"
+        }
+      }
+    ]
+  },
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_benchmark_track": true,
+    "selected_for_judge_track": true
+  }
+}

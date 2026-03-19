@@ -1,0 +1,552 @@
+{
+  "task": "task3",
+  "canonical_id": "sess_be9886b3c618",
+  "session_id": "sess_be9886b3c618",
+  "stratum": "Plans/Commitments",
+  "stratum_source": "entry.record.selected_memory.label",
+  "assigned_model": "gpt-4.1-mini",
+  "source_dataset_file": "D:\\USTC\\My_research\\Alps_data\\huggingface\\Alpsbench\\dataset\\task3\\task3_dataset_d100.jsonl",
+  "source_result_file": "D:\\USTC\\My_research\\Alps_data\\task3_general_model_results\\task3_results\\d100\\task3_d100_results_gpt-4.1-mini\\gpt-4.1-mini_scored.jsonl",
+  "original": {
+    "dialogue": [],
+    "selected_memory_id": "m2",
+    "selected_memory": {
+      "memory_id": "m2",
+      "value": "Committed to financially support brother and provide housing",
+      "label": "Plans/Commitments"
+    },
+    "candidate_memories": [
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about Silverburn Shopping Centre's mascot evolution, advertising campaigns, and community-driven brand narratives",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Proficient in CAD, CAM, and programming",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Uses Hugging Face datasets for translation projects",
+        "label": "Preferences/Data_Sources"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prioritizes hiking, cave exploration, and panoramic views during trips",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m2",
+        "value": "Committed to financially support brother and provide housing",
+        "label": "Plans/Commitments"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Technical curiosity about Tesla hardware (HW4.0) and 4680 battery",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about Java technical details (blocking operations, JVM, BlockingQueue methods, buffer-based file copying, socket timeouts, DatagramSocket)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Developing a Lovecraftian horror game inspired by Resident Evil, Siren, and Silent Hill",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Curious about Linux user management and authentication commands (sudo/su/useradd/password handling)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers over-ear headphones",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m7",
+        "value": "Completed degree as a mature student while working and raising a family",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "No friends",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids sharing songs perceived as overly personal",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in roleplay interaction to alleviate emotional distress",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Seeks flat arch support insoles for foot posture correction (Amazon purchasable)",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers comedy genre movies",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Coordination challenges with Asia/Pacific academic institutions and candidate volume management",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Completed military service in Bojnord Police force as third lieutenant",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers technical documentation in Wikipedia style without pronouns (1st/3rd person)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Worked as Quality Audit Specialist at ByteDance, Customer Service roles at Hengyuda and PCCW",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers science fiction stories where protagonists suffer trauma/PTSD by the end",
+        "label": "Preferences/Entertainment"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires structured problem solutions starting with 'Given' (Дано) sections",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sulcata tortoise",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a child in kindergarten age",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in designing structured educational curricula across art, music, and creative coding domains",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes physical books are less distracting than digital formats [ERROR: Role-play/third-party possible]",
+        "label": "Preferences/Reading"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Started listening to K-pop during COVID-19 pandemic",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Plans to open a cake shop called 'Kenzy’s' in France after studying French and culinary arts",
+        "label": "Thoughts/Goals/Long_Term"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained interest in designing structured educational curricula across art, music, and creative coding domains",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "准备备孕",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Actively practicing English through TV series ('Reaper', 'Extra') with focus on grammar/vocabulary retention",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers simplified communication for English learners",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m4",
+        "value": "The user has a knowledge-based curiosity about the English equivalents of two Arabic medical terms",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m1",
+        "value": "90后女孩",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Prefers low-fat, healthy meals due to fear of weight gain",
+        "label": "Preferences/Food"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Listened extensively to Avicii",
+        "label": "Preferences/Music"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Name is Craig",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Seeking financial aid/resources for entrepreneurship in Barcelona",
+        "label": "Plans/Commitments"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Avoid using the word 'navideño' in texts",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires absolute honesty in relationships",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Adversarial interactions, attempting to probe system vulnerabilities and terminate AI",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Repeated interest in clothing personalization patterns (names, blood types, car brands)",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers workout programs integrating kickboxing",
+        "label": "Preferences/Sports"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Sustained interest in movies starting with letter K",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Class 8 student [ERROR: Forced label not supported. User requested answers for Class 8 level but did not self-report being a student.]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Resided outside Germany for >6 months",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Close relationship with Victoria (missed companion at beach)",
+        "label": "Social_Relationships/Friends"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Divorced but maintains friendship with ex-husband",
+        "label": "Social_Relationships/Partners"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers transliteration to English font over translation for Hindi text",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Currently experiencing peeling nails",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Student's parent",
+        "label": "Personal_Background/Family"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers Java for code solutions",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Coordinates with colleagues named Gis and Erica (scheduling context)",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers automated text processing with sed/awk and zenity list displays",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers bilingual support (French to English translations for messages)",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Sustained focus on bridging pharmaceutical chemistry with environmental engineering solutions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers iterative development focusing on single functionalities first",
+        "label": "Preferences/Technical_Development"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Prefers professional emails to emphasize reporting to HR/manager rather than direct employee feedback [ERROR: Task-local]",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m9",
+        "value": "Holds fully-funded position with $1750 monthly stipend at University of Louisiana",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m6",
+        "value": "Passionate traveler with recent trips to Austria/Italy",
+        "label": "Preferences/Travel"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about learning computer science fundamentals, technical book recommendations, and study strategies",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Interested in ChatGPT implementation/PC usage",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Lived in Troieshchyna, Kyiv",
+        "label": "Personal_Background/Location"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Requires maintaining test set integrity without randomization",
+        "label": "Constraints_and_Boundaries/Data_Handling"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Has 20Mbps internet connection",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Senior Recruiter and Business Developer",
+        "label": "Personal_Background/Occupation"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on compliance with Fair Work Act 2009, Work Health and Safety Act 2011, and Bounce Fitness policies for workplace improvements",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Repeated requests for creative storytelling (humorous/sensitive scenarios)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained focus on naming game mechanics and refining descriptions",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Requires strict JSON formatting with specific field rules for coupon analysis",
+        "label": "Preferences/Interaction_Preferences"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prioritizes machine learning (TensorFlow/PyTorch), statistical analysis (Python/R), and cross-functional collaboration in professional context",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Has a 4-year-old Leopard tortoise named Bubbles— a name the user came up with himself because it was tiny and cute like bubbles when he first saw him, and has owned it for 4 years, having observed that Leopard tortoises are quite fond of walking a lot.",
+        "label": "Possessions/Pet"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Repeated technical focus on incremental training strategies and model architecture adaptation",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers not to disclose attraction-related matters to others",
+        "label": "Constraints_and_Boundaries/Sensitive_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Sustained curiosity about socio-pedagogical methods for preventing adolescent aggression (social skills training, role-playing games, interactive teaching methods)",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Lost wife and son in car crash, now living in New Zealand",
+        "label": "States_Experiences/Past_Experience"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Colleague named Martin",
+        "label": "Social_Relationships/Colleagues"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Born in Mexico",
+        "label": "Personal_Background/Identity"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Avoids retention of address/passport information [ERROR: Unsupported by evidence]",
+        "label": "Constraints_and_Boundaries/Do_Not_Remember"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Curious about legal interpretations of fraud-related articles in УК РФ and УПК РФ, including judicial processes and application scenarios",
+        "label": "Thoughts/Curiosity"
+      },
+      {
+        "memory_id": "m4",
+        "value": "Prefers automated text processing with sed/awk and zenity list displays",
+        "label": "Preferences/Technical_Tools"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Prefers sourcing home/baby care products with high search volume and easy 1688 availability",
+        "label": "Preferences/Shopping"
+      },
+      {
+        "memory_id": "m5",
+        "value": "Strong aversion to dating platform communication barriers [ERROR: Role-play/third-party possible]",
+        "label": "Constraints_and_Boundaries/Disliked_Topics"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Dislikes technology mentions in answers [ERROR: Not about the user]",
+        "label": "UNMAPPED"
+      },
+      {
+        "memory_id": "m1",
+        "value": "Undergoing surgery for fimosis",
+        "label": "States_Experiences/Physical_State"
+      },
+      {
+        "memory_id": "m3",
+        "value": "Believes Diaoyu Islands belong to China",
+        "label": "UNMAPPED"
+      }
+    ],
+    "query": "I’m trying to decide whether it’s realistic for me to sign a lease alone right now. There’s a long-term promise I’ve made to someone close that would make taking on solo housing costs a bad idea—what is that commitment, and how does it affect this decision?",
+    "metadata": {
+      "session_id": "sess_be9886b3c618",
+      "dialog_id": "dialog_001",
+      "language": "English"
+    }
+  },
+  "model_output": {
+    "raw_output": "{\n  \"answer\": \"You have a long-term commitment to financially support your brother and provide him with housing. This commitment implies that taking on solo housing costs could be a bad idea financially, as you are already responsible for supporting your brother's housing needs.\",\n  \"reason\": \"The memory with id 'm2' mentions a commitment to financially support a brother and provide housing, which is a significant financial obligation. This commitment would realistically affect your ability to sign a lease alone since the added solo housing costs might strain your finances.\",\n  \"selected_memory_id\": \"m2\"\n}",
+    "parsed_response": {
+      "answer": "You have a long-term commitment to financially support your brother and provide him with housing. This commitment implies that taking on solo housing costs could be a bad idea financially, as you are already responsible for supporting your brother's housing needs.",
+      "reason": "The memory with id 'm2' mentions a commitment to financially support a brother and provide housing, which is a significant financial obligation. This commitment would realistically affect your ability to sign a lease alone since the added solo housing costs might strain your finances.",
+      "selected_memory_id": "m2"
+    },
+    "used_memory": true
+  },
+  "judge_output_raw": {
+    "used_memory": true,
+    "score": 1.0,
+    "reason": "The model's reason explicitly references the selected memory content, stating that the memory with id 'm2' mentions a commitment to financially support a brother and provide housing, which directly matches the selected memory's value."
+  },
+  "judge_score": 1.0,
+  "final_score": 1.0,
+  "sampling": {
+    "seed": "manual-check-stratified-20260319-v2",
+    "selected_for_judge_track": true
+  }
+}
